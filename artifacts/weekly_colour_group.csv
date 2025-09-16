@@ -1,0 +1,5250 @@
+week,colour_group_name,sales_count
+2018-09-17,Beige,2845
+2018-09-17,Black,57470
+2018-09-17,Blue,7251
+2018-09-17,Bronze/Copper,18
+2018-09-17,Dark Beige,751
+2018-09-17,Dark Blue,16325
+2018-09-17,Dark Green,4019
+2018-09-17,Dark Grey,6319
+2018-09-17,Dark Orange,559
+2018-09-17,Dark Pink,1359
+2018-09-17,Dark Purple,437
+2018-09-17,Dark Red,6293
+2018-09-17,Dark Turquoise,1235
+2018-09-17,Dark Yellow,395
+2018-09-17,Gold,761
+2018-09-17,Green,714
+2018-09-17,Greenish Khaki,3414
+2018-09-17,Grey,6904
+2018-09-17,Greyish Beige,122
+2018-09-17,Light Beige,3327
+2018-09-17,Light Blue,4680
+2018-09-17,Light Green,182
+2018-09-17,Light Grey,2899
+2018-09-17,Light Orange,1332
+2018-09-17,Light Pink,4899
+2018-09-17,Light Purple,324
+2018-09-17,Light Red,170
+2018-09-17,Light Turquoise,525
+2018-09-17,Light Yellow,342
+2018-09-17,Off White,2899
+2018-09-17,Orange,443
+2018-09-17,Other,457
+2018-09-17,Other Blue,100
+2018-09-17,Other Green,43
+2018-09-17,Other Orange,58
+2018-09-17,Other Pink,347
+2018-09-17,Other Purple,70
+2018-09-17,Other Red,216
+2018-09-17,Other Turquoise,4
+2018-09-17,Other Yellow,53
+2018-09-17,Pink,3098
+2018-09-17,Purple,129
+2018-09-17,Red,4147
+2018-09-17,Silver,618
+2018-09-17,Transparent,31
+2018-09-17,Turquoise,384
+2018-09-17,Unknown,29
+2018-09-17,White,13473
+2018-09-17,Yellow,2498
+2018-09-17,Yellowish Brown,839
+2018-09-24,Beige,7703
+2018-09-24,Black,152547
+2018-09-24,Blue,14390
+2018-09-24,Bronze/Copper,55
+2018-09-24,Dark Beige,2064
+2018-09-24,Dark Blue,41829
+2018-09-24,Dark Green,7828
+2018-09-24,Dark Grey,16232
+2018-09-24,Dark Orange,1471
+2018-09-24,Dark Pink,3731
+2018-09-24,Dark Purple,1334
+2018-09-24,Dark Red,16681
+2018-09-24,Dark Turquoise,3631
+2018-09-24,Dark Yellow,1053
+2018-09-24,Gold,2264
+2018-09-24,Green,1822
+2018-09-24,Greenish Khaki,8677
+2018-09-24,Grey,20749
+2018-09-24,Greyish Beige,392
+2018-09-24,Light Beige,9037
+2018-09-24,Light Blue,11231
+2018-09-24,Light Green,496
+2018-09-24,Light Grey,8051
+2018-09-24,Light Orange,4338
+2018-09-24,Light Pink,13356
+2018-09-24,Light Purple,614
+2018-09-24,Light Red,310
+2018-09-24,Light Turquoise,1307
+2018-09-24,Light Yellow,736
+2018-09-24,Off White,8046
+2018-09-24,Orange,1091
+2018-09-24,Other,951
+2018-09-24,Other Blue,219
+2018-09-24,Other Green,61
+2018-09-24,Other Orange,135
+2018-09-24,Other Pink,1006
+2018-09-24,Other Purple,134
+2018-09-24,Other Red,481
+2018-09-24,Other Turquoise,16
+2018-09-24,Other Yellow,135
+2018-09-24,Pink,6527
+2018-09-24,Purple,321
+2018-09-24,Red,9120
+2018-09-24,Silver,1670
+2018-09-24,Transparent,116
+2018-09-24,Turquoise,1219
+2018-09-24,Unknown,78
+2018-09-24,White,34223
+2018-09-24,Yellow,6575
+2018-09-24,Yellowish Brown,2916
+2018-10-01,Beige,3844
+2018-10-01,Black,94016
+2018-10-01,Blue,8551
+2018-10-01,Bronze/Copper,30
+2018-10-01,Dark Beige,1238
+2018-10-01,Dark Blue,25510
+2018-10-01,Dark Green,4615
+2018-10-01,Dark Grey,9804
+2018-10-01,Dark Orange,968
+2018-10-01,Dark Pink,1957
+2018-10-01,Dark Purple,849
+2018-10-01,Dark Red,9856
+2018-10-01,Dark Turquoise,2155
+2018-10-01,Dark Yellow,739
+2018-10-01,Gold,1342
+2018-10-01,Green,850
+2018-10-01,Greenish Khaki,5608
+2018-10-01,Grey,12460
+2018-10-01,Greyish Beige,182
+2018-10-01,Light Beige,5244
+2018-10-01,Light Blue,6973
+2018-10-01,Light Green,238
+2018-10-01,Light Grey,4555
+2018-10-01,Light Orange,2644
+2018-10-01,Light Pink,7407
+2018-10-01,Light Purple,391
+2018-10-01,Light Red,175
+2018-10-01,Light Turquoise,769
+2018-10-01,Light Yellow,455
+2018-10-01,Off White,4552
+2018-10-01,Orange,683
+2018-10-01,Other,458
+2018-10-01,Other Blue,164
+2018-10-01,Other Green,49
+2018-10-01,Other Orange,104
+2018-10-01,Other Pink,695
+2018-10-01,Other Purple,94
+2018-10-01,Other Red,256
+2018-10-01,Other Turquoise,8
+2018-10-01,Other Yellow,81
+2018-10-01,Pink,3347
+2018-10-01,Purple,222
+2018-10-01,Red,5628
+2018-10-01,Silver,1020
+2018-10-01,Transparent,63
+2018-10-01,Turquoise,553
+2018-10-01,Unknown,61
+2018-10-01,White,20852
+2018-10-01,Yellow,3771
+2018-10-01,Yellowish Brown,2157
+2018-10-08,Beige,5148
+2018-10-08,Black,127618
+2018-10-08,Blue,10206
+2018-10-08,Bronze/Copper,138
+2018-10-08,Dark Beige,2445
+2018-10-08,Dark Blue,30547
+2018-10-08,Dark Green,6077
+2018-10-08,Dark Grey,11668
+2018-10-08,Dark Orange,1171
+2018-10-08,Dark Pink,2438
+2018-10-08,Dark Purple,1151
+2018-10-08,Dark Red,13732
+2018-10-08,Dark Turquoise,3698
+2018-10-08,Dark Yellow,1002
+2018-10-08,Gold,2172
+2018-10-08,Green,965
+2018-10-08,Greenish Khaki,6831
+2018-10-08,Grey,13383
+2018-10-08,Greyish Beige,288
+2018-10-08,Light Beige,7556
+2018-10-08,Light Blue,7939
+2018-10-08,Light Green,316
+2018-10-08,Light Grey,5754
+2018-10-08,Light Orange,2973
+2018-10-08,Light Pink,8390
+2018-10-08,Light Purple,544
+2018-10-08,Light Red,228
+2018-10-08,Light Turquoise,862
+2018-10-08,Light Yellow,622
+2018-10-08,Off White,6138
+2018-10-08,Orange,1042
+2018-10-08,Other,618
+2018-10-08,Other Blue,146
+2018-10-08,Other Green,51
+2018-10-08,Other Orange,89
+2018-10-08,Other Pink,765
+2018-10-08,Other Purple,137
+2018-10-08,Other Red,320
+2018-10-08,Other Turquoise,13
+2018-10-08,Other Yellow,80
+2018-10-08,Pink,4179
+2018-10-08,Purple,227
+2018-10-08,Red,7077
+2018-10-08,Silver,1453
+2018-10-08,Transparent,96
+2018-10-08,Turquoise,1047
+2018-10-08,Unknown,82
+2018-10-08,White,25645
+2018-10-08,Yellow,4679
+2018-10-08,Yellowish Brown,2592
+2018-10-15,Beige,5062
+2018-10-15,Black,113175
+2018-10-15,Blue,10324
+2018-10-15,Bronze/Copper,199
+2018-10-15,Dark Beige,1317
+2018-10-15,Dark Blue,28567
+2018-10-15,Dark Green,5788
+2018-10-15,Dark Grey,10426
+2018-10-15,Dark Orange,1161
+2018-10-15,Dark Pink,1806
+2018-10-15,Dark Purple,990
+2018-10-15,Dark Red,12190
+2018-10-15,Dark Turquoise,2906
+2018-10-15,Dark Yellow,979
+2018-10-15,Gold,1904
+2018-10-15,Green,869
+2018-10-15,Greenish Khaki,6446
+2018-10-15,Grey,12551
+2018-10-15,Greyish Beige,239
+2018-10-15,Light Beige,7057
+2018-10-15,Light Blue,8845
+2018-10-15,Light Green,403
+2018-10-15,Light Grey,5036
+2018-10-15,Light Orange,2782
+2018-10-15,Light Pink,7605
+2018-10-15,Light Purple,505
+2018-10-15,Light Red,316
+2018-10-15,Light Turquoise,766
+2018-10-15,Light Yellow,718
+2018-10-15,Off White,5679
+2018-10-15,Orange,1092
+2018-10-15,Other,459
+2018-10-15,Other Blue,75
+2018-10-15,Other Green,44
+2018-10-15,Other Orange,84
+2018-10-15,Other Pink,630
+2018-10-15,Other Purple,149
+2018-10-15,Other Red,441
+2018-10-15,Other Turquoise,9
+2018-10-15,Other Yellow,81
+2018-10-15,Pink,3870
+2018-10-15,Purple,330
+2018-10-15,Red,6124
+2018-10-15,Silver,1206
+2018-10-15,Transparent,74
+2018-10-15,Turquoise,968
+2018-10-15,Unknown,84
+2018-10-15,White,25417
+2018-10-15,Yellow,4147
+2018-10-15,Yellowish Brown,3014
+2018-10-22,Beige,6546
+2018-10-22,Black,139526
+2018-10-22,Blue,12579
+2018-10-22,Bronze/Copper,134
+2018-10-22,Dark Beige,1759
+2018-10-22,Dark Blue,35389
+2018-10-22,Dark Green,7245
+2018-10-22,Dark Grey,13578
+2018-10-22,Dark Orange,1423
+2018-10-22,Dark Pink,2196
+2018-10-22,Dark Purple,1282
+2018-10-22,Dark Red,16324
+2018-10-22,Dark Turquoise,3201
+2018-10-22,Dark Yellow,1408
+2018-10-22,Gold,2285
+2018-10-22,Green,1077
+2018-10-22,Greenish Khaki,8152
+2018-10-22,Grey,15882
+2018-10-22,Greyish Beige,307
+2018-10-22,Light Beige,9145
+2018-10-22,Light Blue,9577
+2018-10-22,Light Green,403
+2018-10-22,Light Grey,6923
+2018-10-22,Light Orange,3283
+2018-10-22,Light Pink,9682
+2018-10-22,Light Purple,583
+2018-10-22,Light Red,387
+2018-10-22,Light Turquoise,955
+2018-10-22,Light Yellow,911
+2018-10-22,Off White,6272
+2018-10-22,Orange,993
+2018-10-22,Other,765
+2018-10-22,Other Blue,92
+2018-10-22,Other Green,59
+2018-10-22,Other Orange,90
+2018-10-22,Other Pink,784
+2018-10-22,Other Purple,130
+2018-10-22,Other Red,666
+2018-10-22,Other Turquoise,10
+2018-10-22,Other Yellow,83
+2018-10-22,Pink,3712
+2018-10-22,Purple,378
+2018-10-22,Red,8708
+2018-10-22,Silver,1612
+2018-10-22,Transparent,112
+2018-10-22,Turquoise,1059
+2018-10-22,Unknown,104
+2018-10-22,White,28537
+2018-10-22,Yellow,4927
+2018-10-22,Yellowish Brown,3347
+2018-10-29,Beige,4400
+2018-10-29,Black,111210
+2018-10-29,Blue,8042
+2018-10-29,Bronze/Copper,79
+2018-10-29,Dark Beige,1303
+2018-10-29,Dark Blue,25356
+2018-10-29,Dark Green,5156
+2018-10-29,Dark Grey,9836
+2018-10-29,Dark Orange,921
+2018-10-29,Dark Pink,1589
+2018-10-29,Dark Purple,993
+2018-10-29,Dark Red,12229
+2018-10-29,Dark Turquoise,2265
+2018-10-29,Dark Yellow,1167
+2018-10-29,Gold,1890
+2018-10-29,Green,758
+2018-10-29,Greenish Khaki,5206
+2018-10-29,Grey,12470
+2018-10-29,Greyish Beige,270
+2018-10-29,Light Beige,6527
+2018-10-29,Light Blue,5952
+2018-10-29,Light Green,245
+2018-10-29,Light Grey,5286
+2018-10-29,Light Orange,2307
+2018-10-29,Light Pink,6746
+2018-10-29,Light Purple,414
+2018-10-29,Light Red,200
+2018-10-29,Light Turquoise,614
+2018-10-29,Light Yellow,500
+2018-10-29,Off White,3815
+2018-10-29,Orange,657
+2018-10-29,Other,429
+2018-10-29,Other Blue,49
+2018-10-29,Other Green,39
+2018-10-29,Other Orange,68
+2018-10-29,Other Pink,497
+2018-10-29,Other Purple,113
+2018-10-29,Other Red,285
+2018-10-29,Other Turquoise,2
+2018-10-29,Other Yellow,60
+2018-10-29,Pink,2725
+2018-10-29,Purple,257
+2018-10-29,Red,7075
+2018-10-29,Silver,1290
+2018-10-29,Transparent,77
+2018-10-29,Turquoise,963
+2018-10-29,Unknown,70
+2018-10-29,White,18878
+2018-10-29,Yellow,3146
+2018-10-29,Yellowish Brown,2372
+2018-11-05,Beige,3808
+2018-11-05,Black,104969
+2018-11-05,Blue,6015
+2018-11-05,Bronze/Copper,70
+2018-11-05,Dark Beige,1497
+2018-11-05,Dark Blue,20798
+2018-11-05,Dark Green,4789
+2018-11-05,Dark Grey,8571
+2018-11-05,Dark Orange,705
+2018-11-05,Dark Pink,1437
+2018-11-05,Dark Purple,1001
+2018-11-05,Dark Red,11428
+2018-11-05,Dark Turquoise,1939
+2018-11-05,Dark Yellow,942
+2018-11-05,Gold,1897
+2018-11-05,Green,700
+2018-11-05,Greenish Khaki,3895
+2018-11-05,Grey,10009
+2018-11-05,Greyish Beige,193
+2018-11-05,Light Beige,4670
+2018-11-05,Light Blue,4854
+2018-11-05,Light Green,232
+2018-11-05,Light Grey,4436
+2018-11-05,Light Orange,1892
+2018-11-05,Light Pink,5374
+2018-11-05,Light Purple,316
+2018-11-05,Light Red,125
+2018-11-05,Light Turquoise,440
+2018-11-05,Light Yellow,556
+2018-11-05,Off White,3710
+2018-11-05,Orange,495
+2018-11-05,Other,294
+2018-11-05,Other Blue,48
+2018-11-05,Other Green,19
+2018-11-05,Other Orange,55
+2018-11-05,Other Pink,434
+2018-11-05,Other Purple,61
+2018-11-05,Other Red,209
+2018-11-05,Other Turquoise,10
+2018-11-05,Other Yellow,65
+2018-11-05,Pink,2318
+2018-11-05,Purple,177
+2018-11-05,Red,7385
+2018-11-05,Silver,1456
+2018-11-05,Transparent,71
+2018-11-05,Turquoise,729
+2018-11-05,Unknown,61
+2018-11-05,White,16769
+2018-11-05,Yellow,2346
+2018-11-05,Yellowish Brown,1931
+2018-11-12,Beige,3363
+2018-11-12,Black,103538
+2018-11-12,Blue,6227
+2018-11-12,Bronze/Copper,68
+2018-11-12,Dark Beige,1165
+2018-11-12,Dark Blue,20505
+2018-11-12,Dark Green,5018
+2018-11-12,Dark Grey,8346
+2018-11-12,Dark Orange,571
+2018-11-12,Dark Pink,1275
+2018-11-12,Dark Purple,874
+2018-11-12,Dark Red,10822
+2018-11-12,Dark Turquoise,1687
+2018-11-12,Dark Yellow,983
+2018-11-12,Gold,1874
+2018-11-12,Green,672
+2018-11-12,Greenish Khaki,3590
+2018-11-12,Grey,10479
+2018-11-12,Greyish Beige,167
+2018-11-12,Light Beige,5622
+2018-11-12,Light Blue,4363
+2018-11-12,Light Green,155
+2018-11-12,Light Grey,4320
+2018-11-12,Light Orange,2114
+2018-11-12,Light Pink,4994
+2018-11-12,Light Purple,247
+2018-11-12,Light Red,107
+2018-11-12,Light Turquoise,406
+2018-11-12,Light Yellow,398
+2018-11-12,Off White,3778
+2018-11-12,Orange,458
+2018-11-12,Other,316
+2018-11-12,Other Blue,40
+2018-11-12,Other Green,36
+2018-11-12,Other Orange,47
+2018-11-12,Other Pink,453
+2018-11-12,Other Purple,53
+2018-11-12,Other Red,198
+2018-11-12,Other Turquoise,6
+2018-11-12,Other Yellow,46
+2018-11-12,Pink,2086
+2018-11-12,Purple,162
+2018-11-12,Red,7869
+2018-11-12,Silver,1294
+2018-11-12,Transparent,46
+2018-11-12,Turquoise,543
+2018-11-12,Unknown,48
+2018-11-12,White,15439
+2018-11-12,Yellow,2353
+2018-11-12,Yellowish Brown,2072
+2018-11-19,Beige,7017
+2018-11-19,Black,185592
+2018-11-19,Blue,12786
+2018-11-19,Bronze/Copper,62
+2018-11-19,Dark Beige,1933
+2018-11-19,Dark Blue,41926
+2018-11-19,Dark Green,8494
+2018-11-19,Dark Grey,16233
+2018-11-19,Dark Orange,887
+2018-11-19,Dark Pink,2266
+2018-11-19,Dark Purple,1860
+2018-11-19,Dark Red,22612
+2018-11-19,Dark Turquoise,2659
+2018-11-19,Dark Yellow,1464
+2018-11-19,Gold,3139
+2018-11-19,Green,1541
+2018-11-19,Greenish Khaki,6262
+2018-11-19,Grey,22864
+2018-11-19,Greyish Beige,269
+2018-11-19,Light Beige,9957
+2018-11-19,Light Blue,8818
+2018-11-19,Light Green,320
+2018-11-19,Light Grey,9925
+2018-11-19,Light Orange,4645
+2018-11-19,Light Pink,10779
+2018-11-19,Light Purple,396
+2018-11-19,Light Red,225
+2018-11-19,Light Turquoise,857
+2018-11-19,Light Yellow,827
+2018-11-19,Off White,6804
+2018-11-19,Orange,748
+2018-11-19,Other,546
+2018-11-19,Other Blue,107
+2018-11-19,Other Green,58
+2018-11-19,Other Orange,72
+2018-11-19,Other Pink,977
+2018-11-19,Other Purple,126
+2018-11-19,Other Red,273
+2018-11-19,Other Turquoise,8
+2018-11-19,Other Yellow,160
+2018-11-19,Pink,4118
+2018-11-19,Purple,211
+2018-11-19,Red,13688
+2018-11-19,Silver,2415
+2018-11-19,Transparent,87
+2018-11-19,Turquoise,1261
+2018-11-19,Unknown,85
+2018-11-19,White,29171
+2018-11-19,Yellow,3656
+2018-11-19,Yellowish Brown,3133
+2018-11-26,Beige,3464
+2018-11-26,Black,98085
+2018-11-26,Blue,6239
+2018-11-26,Bronze/Copper,46
+2018-11-26,Dark Beige,1089
+2018-11-26,Dark Blue,20887
+2018-11-26,Dark Green,4935
+2018-11-26,Dark Grey,7560
+2018-11-26,Dark Orange,1370
+2018-11-26,Dark Pink,1087
+2018-11-26,Dark Purple,1137
+2018-11-26,Dark Red,10352
+2018-11-26,Dark Turquoise,1201
+2018-11-26,Dark Yellow,648
+2018-11-26,Gold,1709
+2018-11-26,Green,757
+2018-11-26,Greenish Khaki,3175
+2018-11-26,Grey,11187
+2018-11-26,Greyish Beige,219
+2018-11-26,Light Beige,5117
+2018-11-26,Light Blue,4889
+2018-11-26,Light Green,235
+2018-11-26,Light Grey,5406
+2018-11-26,Light Orange,2038
+2018-11-26,Light Pink,5791
+2018-11-26,Light Purple,235
+2018-11-26,Light Red,119
+2018-11-26,Light Turquoise,405
+2018-11-26,Light Yellow,445
+2018-11-26,Off White,4957
+2018-11-26,Orange,539
+2018-11-26,Other,253
+2018-11-26,Other Blue,65
+2018-11-26,Other Green,38
+2018-11-26,Other Orange,35
+2018-11-26,Other Pink,611
+2018-11-26,Other Purple,57
+2018-11-26,Other Red,177
+2018-11-26,Other Turquoise,3
+2018-11-26,Other Yellow,179
+2018-11-26,Pink,2184
+2018-11-26,Purple,149
+2018-11-26,Red,9151
+2018-11-26,Silver,1493
+2018-11-26,Transparent,76
+2018-11-26,Turquoise,513
+2018-11-26,Unknown,40
+2018-11-26,White,16066
+2018-11-26,Yellow,1714
+2018-11-26,Yellowish Brown,1529
+2018-12-03,Beige,3643
+2018-12-03,Black,103699
+2018-12-03,Blue,4870
+2018-12-03,Bronze/Copper,49
+2018-12-03,Dark Beige,1140
+2018-12-03,Dark Blue,19442
+2018-12-03,Dark Green,4919
+2018-12-03,Dark Grey,6746
+2018-12-03,Dark Orange,897
+2018-12-03,Dark Pink,1148
+2018-12-03,Dark Purple,802
+2018-12-03,Dark Red,9920
+2018-12-03,Dark Turquoise,1160
+2018-12-03,Dark Yellow,664
+2018-12-03,Gold,2578
+2018-12-03,Green,540
+2018-12-03,Greenish Khaki,2886
+2018-12-03,Grey,9307
+2018-12-03,Greyish Beige,221
+2018-12-03,Light Beige,4708
+2018-12-03,Light Blue,4476
+2018-12-03,Light Green,270
+2018-12-03,Light Grey,4605
+2018-12-03,Light Orange,1961
+2018-12-03,Light Pink,5099
+2018-12-03,Light Purple,296
+2018-12-03,Light Red,154
+2018-12-03,Light Turquoise,481
+2018-12-03,Light Yellow,534
+2018-12-03,Off White,4088
+2018-12-03,Orange,605
+2018-12-03,Other,262
+2018-12-03,Other Blue,54
+2018-12-03,Other Green,28
+2018-12-03,Other Orange,58
+2018-12-03,Other Pink,448
+2018-12-03,Other Purple,94
+2018-12-03,Other Red,143
+2018-12-03,Other Turquoise,15
+2018-12-03,Other Yellow,86
+2018-12-03,Pink,2308
+2018-12-03,Purple,177
+2018-12-03,Red,9730
+2018-12-03,Silver,2115
+2018-12-03,Transparent,79
+2018-12-03,Turquoise,593
+2018-12-03,Unknown,50
+2018-12-03,White,15970
+2018-12-03,Yellow,1764
+2018-12-03,Yellowish Brown,1442
+2018-12-10,Beige,3499
+2018-12-10,Black,103054
+2018-12-10,Blue,4325
+2018-12-10,Bronze/Copper,80
+2018-12-10,Dark Beige,1004
+2018-12-10,Dark Blue,18799
+2018-12-10,Dark Green,4573
+2018-12-10,Dark Grey,6697
+2018-12-10,Dark Orange,976
+2018-12-10,Dark Pink,1001
+2018-12-10,Dark Purple,709
+2018-12-10,Dark Red,9063
+2018-12-10,Dark Turquoise,965
+2018-12-10,Dark Yellow,602
+2018-12-10,Gold,2623
+2018-12-10,Green,614
+2018-12-10,Greenish Khaki,2671
+2018-12-10,Grey,10078
+2018-12-10,Greyish Beige,164
+2018-12-10,Light Beige,4755
+2018-12-10,Light Blue,4244
+2018-12-10,Light Green,189
+2018-12-10,Light Grey,4734
+2018-12-10,Light Orange,1865
+2018-12-10,Light Pink,5314
+2018-12-10,Light Purple,280
+2018-12-10,Light Red,119
+2018-12-10,Light Turquoise,496
+2018-12-10,Light Yellow,543
+2018-12-10,Off White,4001
+2018-12-10,Orange,580
+2018-12-10,Other,215
+2018-12-10,Other Blue,31
+2018-12-10,Other Green,54
+2018-12-10,Other Orange,55
+2018-12-10,Other Pink,493
+2018-12-10,Other Purple,106
+2018-12-10,Other Red,128
+2018-12-10,Other Turquoise,12
+2018-12-10,Other Yellow,51
+2018-12-10,Pink,2152
+2018-12-10,Purple,142
+2018-12-10,Red,9748
+2018-12-10,Silver,2396
+2018-12-10,Transparent,91
+2018-12-10,Turquoise,486
+2018-12-10,Unknown,35
+2018-12-10,White,16241
+2018-12-10,Yellow,1458
+2018-12-10,Yellowish Brown,1385
+2018-12-17,Beige,4898
+2018-12-17,Black,138357
+2018-12-17,Blue,8320
+2018-12-17,Bronze/Copper,63
+2018-12-17,Dark Beige,1413
+2018-12-17,Dark Blue,30192
+2018-12-17,Dark Green,6017
+2018-12-17,Dark Grey,10511
+2018-12-17,Dark Orange,1062
+2018-12-17,Dark Pink,1566
+2018-12-17,Dark Purple,1192
+2018-12-17,Dark Red,13711
+2018-12-17,Dark Turquoise,1877
+2018-12-17,Dark Yellow,715
+2018-12-17,Gold,3160
+2018-12-17,Green,762
+2018-12-17,Greenish Khaki,4921
+2018-12-17,Grey,15179
+2018-12-17,Greyish Beige,310
+2018-12-17,Light Beige,7973
+2018-12-17,Light Blue,8062
+2018-12-17,Light Green,341
+2018-12-17,Light Grey,7788
+2018-12-17,Light Orange,2834
+2018-12-17,Light Pink,10298
+2018-12-17,Light Purple,405
+2018-12-17,Light Red,151
+2018-12-17,Light Turquoise,804
+2018-12-17,Light Yellow,657
+2018-12-17,Off White,5180
+2018-12-17,Orange,954
+2018-12-17,Other,357
+2018-12-17,Other Blue,84
+2018-12-17,Other Green,60
+2018-12-17,Other Orange,86
+2018-12-17,Other Pink,673
+2018-12-17,Other Purple,138
+2018-12-17,Other Red,177
+2018-12-17,Other Turquoise,7
+2018-12-17,Other Yellow,124
+2018-12-17,Pink,4200
+2018-12-17,Purple,288
+2018-12-17,Red,12582
+2018-12-17,Silver,2571
+2018-12-17,Transparent,155
+2018-12-17,Turquoise,840
+2018-12-17,Unknown,41
+2018-12-17,White,23104
+2018-12-17,Yellow,2329
+2018-12-17,Yellowish Brown,2384
+2018-12-24,Beige,3894
+2018-12-24,Black,98242
+2018-12-24,Blue,7296
+2018-12-24,Bronze/Copper,36
+2018-12-24,Dark Beige,1301
+2018-12-24,Dark Blue,23152
+2018-12-24,Dark Green,4568
+2018-12-24,Dark Grey,8498
+2018-12-24,Dark Orange,596
+2018-12-24,Dark Pink,1158
+2018-12-24,Dark Purple,1030
+2018-12-24,Dark Red,9211
+2018-12-24,Dark Turquoise,1306
+2018-12-24,Dark Yellow,582
+2018-12-24,Gold,1885
+2018-12-24,Green,631
+2018-12-24,Greenish Khaki,4390
+2018-12-24,Grey,11808
+2018-12-24,Greyish Beige,252
+2018-12-24,Light Beige,6829
+2018-12-24,Light Blue,6732
+2018-12-24,Light Green,255
+2018-12-24,Light Grey,5558
+2018-12-24,Light Orange,2304
+2018-12-24,Light Pink,8032
+2018-12-24,Light Purple,348
+2018-12-24,Light Red,138
+2018-12-24,Light Turquoise,687
+2018-12-24,Light Yellow,478
+2018-12-24,Off White,3907
+2018-12-24,Orange,817
+2018-12-24,Other,319
+2018-12-24,Other Blue,70
+2018-12-24,Other Green,24
+2018-12-24,Other Orange,80
+2018-12-24,Other Pink,504
+2018-12-24,Other Purple,119
+2018-12-24,Other Red,166
+2018-12-24,Other Turquoise,3
+2018-12-24,Other Yellow,150
+2018-12-24,Pink,3454
+2018-12-24,Purple,224
+2018-12-24,Red,6688
+2018-12-24,Silver,1396
+2018-12-24,Transparent,126
+2018-12-24,Turquoise,540
+2018-12-24,Unknown,31
+2018-12-24,White,19245
+2018-12-24,Yellow,1918
+2018-12-24,Yellowish Brown,2173
+2018-12-31,Beige,5541
+2018-12-31,Black,98215
+2018-12-31,Blue,7608
+2018-12-31,Bronze/Copper,43
+2018-12-31,Dark Beige,1468
+2018-12-31,Dark Blue,24373
+2018-12-31,Dark Green,5492
+2018-12-31,Dark Grey,8407
+2018-12-31,Dark Orange,536
+2018-12-31,Dark Pink,1359
+2018-12-31,Dark Purple,1200
+2018-12-31,Dark Red,8271
+2018-12-31,Dark Turquoise,1295
+2018-12-31,Dark Yellow,847
+2018-12-31,Gold,1651
+2018-12-31,Green,795
+2018-12-31,Greenish Khaki,4750
+2018-12-31,Grey,11721
+2018-12-31,Greyish Beige,175
+2018-12-31,Light Beige,7200
+2018-12-31,Light Blue,7417
+2018-12-31,Light Green,268
+2018-12-31,Light Grey,5255
+2018-12-31,Light Orange,2313
+2018-12-31,Light Pink,8196
+2018-12-31,Light Purple,345
+2018-12-31,Light Red,167
+2018-12-31,Light Turquoise,696
+2018-12-31,Light Yellow,501
+2018-12-31,Off White,3979
+2018-12-31,Orange,1322
+2018-12-31,Other,246
+2018-12-31,Other Blue,72
+2018-12-31,Other Green,31
+2018-12-31,Other Orange,148
+2018-12-31,Other Pink,638
+2018-12-31,Other Purple,158
+2018-12-31,Other Red,251
+2018-12-31,Other Turquoise,7
+2018-12-31,Other Yellow,155
+2018-12-31,Pink,3530
+2018-12-31,Purple,168
+2018-12-31,Red,6572
+2018-12-31,Silver,1077
+2018-12-31,Transparent,139
+2018-12-31,Turquoise,510
+2018-12-31,Unknown,89
+2018-12-31,White,20728
+2018-12-31,Yellow,1945
+2018-12-31,Yellowish Brown,2140
+2019-01-07,Beige,10492
+2019-01-07,Black,115924
+2019-01-07,Blue,9384
+2019-01-07,Bronze/Copper,33
+2019-01-07,Dark Beige,1777
+2019-01-07,Dark Blue,28792
+2019-01-07,Dark Green,8716
+2019-01-07,Dark Grey,9767
+2019-01-07,Dark Orange,925
+2019-01-07,Dark Pink,1762
+2019-01-07,Dark Purple,988
+2019-01-07,Dark Red,9629
+2019-01-07,Dark Turquoise,1559
+2019-01-07,Dark Yellow,1093
+2019-01-07,Gold,1584
+2019-01-07,Green,853
+2019-01-07,Greenish Khaki,4856
+2019-01-07,Grey,13586
+2019-01-07,Greyish Beige,181
+2019-01-07,Light Beige,9431
+2019-01-07,Light Blue,8052
+2019-01-07,Light Green,260
+2019-01-07,Light Grey,6316
+2019-01-07,Light Orange,2341
+2019-01-07,Light Pink,10228
+2019-01-07,Light Purple,338
+2019-01-07,Light Red,214
+2019-01-07,Light Turquoise,798
+2019-01-07,Light Yellow,1139
+2019-01-07,Off White,4787
+2019-01-07,Orange,2348
+2019-01-07,Other,320
+2019-01-07,Other Blue,88
+2019-01-07,Other Green,23
+2019-01-07,Other Orange,91
+2019-01-07,Other Pink,699
+2019-01-07,Other Purple,121
+2019-01-07,Other Red,257
+2019-01-07,Other Turquoise,4
+2019-01-07,Other Yellow,179
+2019-01-07,Pink,5051
+2019-01-07,Purple,175
+2019-01-07,Red,7558
+2019-01-07,Silver,1050
+2019-01-07,Transparent,140
+2019-01-07,Turquoise,542
+2019-01-07,Unknown,128
+2019-01-07,White,27144
+2019-01-07,Yellow,2037
+2019-01-07,Yellowish Brown,3534
+2019-01-14,Beige,9028
+2019-01-14,Black,96866
+2019-01-14,Blue,9001
+2019-01-14,Bronze/Copper,59
+2019-01-14,Dark Beige,1679
+2019-01-14,Dark Blue,24032
+2019-01-14,Dark Green,6241
+2019-01-14,Dark Grey,8153
+2019-01-14,Dark Orange,499
+2019-01-14,Dark Pink,1482
+2019-01-14,Dark Purple,867
+2019-01-14,Dark Red,6740
+2019-01-14,Dark Turquoise,1340
+2019-01-14,Dark Yellow,929
+2019-01-14,Gold,1595
+2019-01-14,Green,692
+2019-01-14,Greenish Khaki,4163
+2019-01-14,Grey,10709
+2019-01-14,Greyish Beige,256
+2019-01-14,Light Beige,7011
+2019-01-14,Light Blue,6550
+2019-01-14,Light Green,203
+2019-01-14,Light Grey,5464
+2019-01-14,Light Orange,1961
+2019-01-14,Light Pink,7855
+2019-01-14,Light Purple,423
+2019-01-14,Light Red,223
+2019-01-14,Light Turquoise,740
+2019-01-14,Light Yellow,895
+2019-01-14,Off White,3912
+2019-01-14,Orange,1548
+2019-01-14,Other,353
+2019-01-14,Other Blue,64
+2019-01-14,Other Green,20
+2019-01-14,Other Orange,81
+2019-01-14,Other Pink,587
+2019-01-14,Other Purple,121
+2019-01-14,Other Red,207
+2019-01-14,Other Turquoise,5
+2019-01-14,Other Yellow,132
+2019-01-14,Pink,4142
+2019-01-14,Purple,165
+2019-01-14,Red,7391
+2019-01-14,Silver,1045
+2019-01-14,Transparent,102
+2019-01-14,Turquoise,484
+2019-01-14,Unknown,144
+2019-01-14,White,21488
+2019-01-14,Yellow,2031
+2019-01-14,Yellowish Brown,2866
+2019-01-21,Beige,9783
+2019-01-21,Black,104945
+2019-01-21,Blue,10216
+2019-01-21,Bronze/Copper,67
+2019-01-21,Dark Beige,1969
+2019-01-21,Dark Blue,25935
+2019-01-21,Dark Green,5817
+2019-01-21,Dark Grey,8603
+2019-01-21,Dark Orange,640
+2019-01-21,Dark Pink,1579
+2019-01-21,Dark Purple,897
+2019-01-21,Dark Red,7096
+2019-01-21,Dark Turquoise,1537
+2019-01-21,Dark Yellow,1177
+2019-01-21,Gold,2025
+2019-01-21,Green,1025
+2019-01-21,Greenish Khaki,4554
+2019-01-21,Grey,11977
+2019-01-21,Greyish Beige,333
+2019-01-21,Light Beige,8274
+2019-01-21,Light Blue,8023
+2019-01-21,Light Green,229
+2019-01-21,Light Grey,6178
+2019-01-21,Light Orange,3030
+2019-01-21,Light Pink,8813
+2019-01-21,Light Purple,520
+2019-01-21,Light Red,278
+2019-01-21,Light Turquoise,925
+2019-01-21,Light Yellow,1103
+2019-01-21,Off White,4643
+2019-01-21,Orange,1334
+2019-01-21,Other,322
+2019-01-21,Other Blue,54
+2019-01-21,Other Green,12
+2019-01-21,Other Orange,75
+2019-01-21,Other Pink,564
+2019-01-21,Other Purple,124
+2019-01-21,Other Red,248
+2019-01-21,Other Turquoise,4
+2019-01-21,Other Yellow,155
+2019-01-21,Pink,4580
+2019-01-21,Purple,168
+2019-01-21,Red,8698
+2019-01-21,Silver,1230
+2019-01-21,Transparent,91
+2019-01-21,Turquoise,462
+2019-01-21,Unknown,415
+2019-01-21,White,22972
+2019-01-21,Yellow,2614
+2019-01-21,Yellowish Brown,3146
+2019-01-28,Beige,8510
+2019-01-28,Black,103812
+2019-01-28,Blue,10656
+2019-01-28,Bronze/Copper,102
+2019-01-28,Dark Beige,2029
+2019-01-28,Dark Blue,27336
+2019-01-28,Dark Green,5544
+2019-01-28,Dark Grey,7739
+2019-01-28,Dark Orange,629
+2019-01-28,Dark Pink,1680
+2019-01-28,Dark Purple,870
+2019-01-28,Dark Red,6614
+2019-01-28,Dark Turquoise,1347
+2019-01-28,Dark Yellow,1431
+2019-01-28,Gold,1989
+2019-01-28,Green,962
+2019-01-28,Greenish Khaki,4849
+2019-01-28,Grey,11139
+2019-01-28,Greyish Beige,367
+2019-01-28,Light Beige,7910
+2019-01-28,Light Blue,8522
+2019-01-28,Light Green,497
+2019-01-28,Light Grey,6178
+2019-01-28,Light Orange,2842
+2019-01-28,Light Pink,8836
+2019-01-28,Light Purple,554
+2019-01-28,Light Red,315
+2019-01-28,Light Turquoise,846
+2019-01-28,Light Yellow,1483
+2019-01-28,Off White,5081
+2019-01-28,Orange,1237
+2019-01-28,Other,259
+2019-01-28,Other Blue,65
+2019-01-28,Other Green,26
+2019-01-28,Other Orange,104
+2019-01-28,Other Pink,528
+2019-01-28,Other Purple,157
+2019-01-28,Other Red,247
+2019-01-28,Other Turquoise,1
+2019-01-28,Other Yellow,133
+2019-01-28,Pink,4547
+2019-01-28,Purple,216
+2019-01-28,Red,8583
+2019-01-28,Silver,1254
+2019-01-28,Transparent,163
+2019-01-28,Turquoise,514
+2019-01-28,Unknown,236
+2019-01-28,White,24222
+2019-01-28,Yellow,2546
+2019-01-28,Yellowish Brown,3104
+2019-02-04,Beige,8653
+2019-02-04,Black,94878
+2019-02-04,Blue,11613
+2019-02-04,Bronze/Copper,95
+2019-02-04,Dark Beige,1608
+2019-02-04,Dark Blue,24255
+2019-02-04,Dark Green,5324
+2019-02-04,Dark Grey,6884
+2019-02-04,Dark Orange,651
+2019-02-04,Dark Pink,1393
+2019-02-04,Dark Purple,642
+2019-02-04,Dark Red,5556
+2019-02-04,Dark Turquoise,1138
+2019-02-04,Dark Yellow,1733
+2019-02-04,Gold,2031
+2019-02-04,Green,721
+2019-02-04,Greenish Khaki,4385
+2019-02-04,Grey,8336
+2019-02-04,Greyish Beige,318
+2019-02-04,Light Beige,7344
+2019-02-04,Light Blue,7687
+2019-02-04,Light Green,413
+2019-02-04,Light Grey,4536
+2019-02-04,Light Orange,3133
+2019-02-04,Light Pink,6949
+2019-02-04,Light Purple,530
+2019-02-04,Light Red,287
+2019-02-04,Light Turquoise,639
+2019-02-04,Light Yellow,1182
+2019-02-04,Off White,4293
+2019-02-04,Orange,1036
+2019-02-04,Other,185
+2019-02-04,Other Blue,69
+2019-02-04,Other Green,23
+2019-02-04,Other Orange,78
+2019-02-04,Other Pink,640
+2019-02-04,Other Purple,79
+2019-02-04,Other Red,189
+2019-02-04,Other Turquoise,2
+2019-02-04,Other Yellow,566
+2019-02-04,Pink,4026
+2019-02-04,Purple,211
+2019-02-04,Red,7712
+2019-02-04,Silver,1220
+2019-02-04,Transparent,125
+2019-02-04,Turquoise,512
+2019-02-04,Unknown,221
+2019-02-04,White,21564
+2019-02-04,Yellow,2569
+2019-02-04,Yellowish Brown,2822
+2019-02-11,Beige,7430
+2019-02-11,Black,86079
+2019-02-11,Blue,12413
+2019-02-11,Bronze/Copper,89
+2019-02-11,Dark Beige,1848
+2019-02-11,Dark Blue,23173
+2019-02-11,Dark Green,5508
+2019-02-11,Dark Grey,6388
+2019-02-11,Dark Orange,586
+2019-02-11,Dark Pink,1257
+2019-02-11,Dark Purple,510
+2019-02-11,Dark Red,4491
+2019-02-11,Dark Turquoise,852
+2019-02-11,Dark Yellow,1563
+2019-02-11,Gold,2110
+2019-02-11,Green,907
+2019-02-11,Greenish Khaki,5078
+2019-02-11,Grey,7238
+2019-02-11,Greyish Beige,189
+2019-02-11,Light Beige,8204
+2019-02-11,Light Blue,8139
+2019-02-11,Light Green,376
+2019-02-11,Light Grey,3913
+2019-02-11,Light Orange,2840
+2019-02-11,Light Pink,6527
+2019-02-11,Light Purple,414
+2019-02-11,Light Red,312
+2019-02-11,Light Turquoise,584
+2019-02-11,Light Yellow,988
+2019-02-11,Off White,4408
+2019-02-11,Orange,851
+2019-02-11,Other,132
+2019-02-11,Other Blue,48
+2019-02-11,Other Green,20
+2019-02-11,Other Orange,86
+2019-02-11,Other Pink,648
+2019-02-11,Other Purple,55
+2019-02-11,Other Red,214
+2019-02-11,Other Turquoise,3
+2019-02-11,Other Yellow,690
+2019-02-11,Pink,3472
+2019-02-11,Purple,158
+2019-02-11,Red,7406
+2019-02-11,Silver,1176
+2019-02-11,Transparent,97
+2019-02-11,Turquoise,685
+2019-02-11,Unknown,223
+2019-02-11,White,23495
+2019-02-11,Yellow,2598
+2019-02-11,Yellowish Brown,2482
+2019-02-18,Beige,9868
+2019-02-18,Black,114480
+2019-02-18,Blue,14965
+2019-02-18,Bronze/Copper,113
+2019-02-18,Dark Beige,2575
+2019-02-18,Dark Blue,30328
+2019-02-18,Dark Green,8061
+2019-02-18,Dark Grey,8945
+2019-02-18,Dark Orange,918
+2019-02-18,Dark Pink,1759
+2019-02-18,Dark Purple,677
+2019-02-18,Dark Red,5364
+2019-02-18,Dark Turquoise,1001
+2019-02-18,Dark Yellow,2086
+2019-02-18,Gold,2779
+2019-02-18,Green,1594
+2019-02-18,Greenish Khaki,9135
+2019-02-18,Grey,9482
+2019-02-18,Greyish Beige,245
+2019-02-18,Light Beige,11763
+2019-02-18,Light Blue,11901
+2019-02-18,Light Green,479
+2019-02-18,Light Grey,4826
+2019-02-18,Light Orange,3761
+2019-02-18,Light Pink,9380
+2019-02-18,Light Purple,464
+2019-02-18,Light Red,428
+2019-02-18,Light Turquoise,871
+2019-02-18,Light Yellow,1371
+2019-02-18,Off White,7291
+2019-02-18,Orange,1088
+2019-02-18,Other,195
+2019-02-18,Other Blue,85
+2019-02-18,Other Green,39
+2019-02-18,Other Orange,101
+2019-02-18,Other Pink,744
+2019-02-18,Other Purple,82
+2019-02-18,Other Red,207
+2019-02-18,Other Turquoise,11
+2019-02-18,Other Yellow,245
+2019-02-18,Pink,4924
+2019-02-18,Purple,235
+2019-02-18,Red,10296
+2019-02-18,Silver,1699
+2019-02-18,Transparent,145
+2019-02-18,Turquoise,860
+2019-02-18,Unknown,206
+2019-02-18,White,36759
+2019-02-18,Yellow,4187
+2019-02-18,Yellowish Brown,3232
+2019-02-25,Beige,9161
+2019-02-25,Black,95940
+2019-02-25,Blue,12579
+2019-02-25,Bronze/Copper,140
+2019-02-25,Dark Beige,2027
+2019-02-25,Dark Blue,24119
+2019-02-25,Dark Green,7281
+2019-02-25,Dark Grey,6791
+2019-02-25,Dark Orange,911
+2019-02-25,Dark Pink,1556
+2019-02-25,Dark Purple,530
+2019-02-25,Dark Red,4172
+2019-02-25,Dark Turquoise,880
+2019-02-25,Dark Yellow,1563
+2019-02-25,Gold,2363
+2019-02-25,Green,1477
+2019-02-25,Greenish Khaki,8776
+2019-02-25,Grey,7103
+2019-02-25,Greyish Beige,211
+2019-02-25,Light Beige,10272
+2019-02-25,Light Blue,9775
+2019-02-25,Light Green,369
+2019-02-25,Light Grey,3942
+2019-02-25,Light Orange,3112
+2019-02-25,Light Pink,7593
+2019-02-25,Light Purple,346
+2019-02-25,Light Red,352
+2019-02-25,Light Turquoise,634
+2019-02-25,Light Yellow,991
+2019-02-25,Off White,6179
+2019-02-25,Orange,875
+2019-02-25,Other,160
+2019-02-25,Other Blue,79
+2019-02-25,Other Green,20
+2019-02-25,Other Orange,70
+2019-02-25,Other Pink,588
+2019-02-25,Other Purple,103
+2019-02-25,Other Red,167
+2019-02-25,Other Turquoise,5
+2019-02-25,Other Yellow,230
+2019-02-25,Pink,4136
+2019-02-25,Purple,141
+2019-02-25,Red,8417
+2019-02-25,Silver,1207
+2019-02-25,Transparent,113
+2019-02-25,Turquoise,717
+2019-02-25,Unknown,195
+2019-02-25,White,32222
+2019-02-25,Yellow,3643
+2019-02-25,Yellowish Brown,3223
+2019-03-04,Beige,7735
+2019-03-04,Black,95297
+2019-03-04,Blue,12324
+2019-03-04,Bronze/Copper,101
+2019-03-04,Dark Beige,2004
+2019-03-04,Dark Blue,23949
+2019-03-04,Dark Green,7409
+2019-03-04,Dark Grey,6170
+2019-03-04,Dark Orange,1033
+2019-03-04,Dark Pink,1442
+2019-03-04,Dark Purple,552
+2019-03-04,Dark Red,3811
+2019-03-04,Dark Turquoise,804
+2019-03-04,Dark Yellow,1293
+2019-03-04,Gold,1800
+2019-03-04,Green,1317
+2019-03-04,Greenish Khaki,7367
+2019-03-04,Grey,7004
+2019-03-04,Greyish Beige,221
+2019-03-04,Light Beige,9672
+2019-03-04,Light Blue,10208
+2019-03-04,Light Green,333
+2019-03-04,Light Grey,4087
+2019-03-04,Light Orange,2956
+2019-03-04,Light Pink,7274
+2019-03-04,Light Purple,437
+2019-03-04,Light Red,374
+2019-03-04,Light Turquoise,649
+2019-03-04,Light Yellow,979
+2019-03-04,Off White,6074
+2019-03-04,Orange,978
+2019-03-04,Other,215
+2019-03-04,Other Blue,63
+2019-03-04,Other Green,8
+2019-03-04,Other Orange,105
+2019-03-04,Other Pink,378
+2019-03-04,Other Purple,93
+2019-03-04,Other Red,203
+2019-03-04,Other Turquoise,2
+2019-03-04,Other Yellow,188
+2019-03-04,Pink,4442
+2019-03-04,Purple,229
+2019-03-04,Red,8414
+2019-03-04,Silver,974
+2019-03-04,Transparent,90
+2019-03-04,Turquoise,636
+2019-03-04,Unknown,163
+2019-03-04,White,30370
+2019-03-04,Yellow,4333
+2019-03-04,Yellowish Brown,2793
+2019-03-11,Beige,7193
+2019-03-11,Black,98445
+2019-03-11,Blue,12680
+2019-03-11,Bronze/Copper,66
+2019-03-11,Dark Beige,1755
+2019-03-11,Dark Blue,24135
+2019-03-11,Dark Green,7497
+2019-03-11,Dark Grey,5842
+2019-03-11,Dark Orange,1446
+2019-03-11,Dark Pink,1363
+2019-03-11,Dark Purple,580
+2019-03-11,Dark Red,4041
+2019-03-11,Dark Turquoise,869
+2019-03-11,Dark Yellow,1092
+2019-03-11,Gold,1887
+2019-03-11,Green,1319
+2019-03-11,Greenish Khaki,7029
+2019-03-11,Grey,6456
+2019-03-11,Greyish Beige,296
+2019-03-11,Light Beige,9684
+2019-03-11,Light Blue,10876
+2019-03-11,Light Green,546
+2019-03-11,Light Grey,4081
+2019-03-11,Light Orange,3049
+2019-03-11,Light Pink,7814
+2019-03-11,Light Purple,571
+2019-03-11,Light Red,419
+2019-03-11,Light Turquoise,723
+2019-03-11,Light Yellow,1228
+2019-03-11,Off White,5706
+2019-03-11,Orange,910
+2019-03-11,Other,167
+2019-03-11,Other Blue,36
+2019-03-11,Other Green,9
+2019-03-11,Other Orange,98
+2019-03-11,Other Pink,377
+2019-03-11,Other Purple,109
+2019-03-11,Other Red,191
+2019-03-11,Other Turquoise,3
+2019-03-11,Other Yellow,176
+2019-03-11,Pink,4369
+2019-03-11,Purple,215
+2019-03-11,Red,9968
+2019-03-11,Silver,826
+2019-03-11,Transparent,100
+2019-03-11,Turquoise,933
+2019-03-11,Unknown,122
+2019-03-11,White,31452
+2019-03-11,Yellow,4424
+2019-03-11,Yellowish Brown,2832
+2019-03-18,Beige,7262
+2019-03-18,Black,92529
+2019-03-18,Blue,11712
+2019-03-18,Bronze/Copper,64
+2019-03-18,Dark Beige,1892
+2019-03-18,Dark Blue,23877
+2019-03-18,Dark Green,7126
+2019-03-18,Dark Grey,5295
+2019-03-18,Dark Orange,1922
+2019-03-18,Dark Pink,1214
+2019-03-18,Dark Purple,318
+2019-03-18,Dark Red,3902
+2019-03-18,Dark Turquoise,695
+2019-03-18,Dark Yellow,1388
+2019-03-18,Gold,1959
+2019-03-18,Green,1347
+2019-03-18,Greenish Khaki,6388
+2019-03-18,Grey,5711
+2019-03-18,Greyish Beige,293
+2019-03-18,Light Beige,10262
+2019-03-18,Light Blue,9949
+2019-03-18,Light Green,1009
+2019-03-18,Light Grey,3481
+2019-03-18,Light Orange,2780
+2019-03-18,Light Pink,7659
+2019-03-18,Light Purple,428
+2019-03-18,Light Red,330
+2019-03-18,Light Turquoise,603
+2019-03-18,Light Yellow,1114
+2019-03-18,Off White,5568
+2019-03-18,Orange,933
+2019-03-18,Other,201
+2019-03-18,Other Blue,62
+2019-03-18,Other Green,4
+2019-03-18,Other Orange,88
+2019-03-18,Other Pink,274
+2019-03-18,Other Purple,72
+2019-03-18,Other Red,153
+2019-03-18,Other Turquoise,12
+2019-03-18,Other Yellow,158
+2019-03-18,Pink,4503
+2019-03-18,Purple,187
+2019-03-18,Red,12001
+2019-03-18,Silver,925
+2019-03-18,Transparent,129
+2019-03-18,Turquoise,1017
+2019-03-18,Unknown,127
+2019-03-18,White,32765
+2019-03-18,Yellow,4523
+2019-03-18,Yellowish Brown,2609
+2019-03-25,Beige,7519
+2019-03-25,Black,102371
+2019-03-25,Blue,15079
+2019-03-25,Bronze/Copper,80
+2019-03-25,Dark Beige,2074
+2019-03-25,Dark Blue,31206
+2019-03-25,Dark Green,7776
+2019-03-25,Dark Grey,5505
+2019-03-25,Dark Orange,2439
+2019-03-25,Dark Pink,1382
+2019-03-25,Dark Purple,346
+2019-03-25,Dark Red,4478
+2019-03-25,Dark Turquoise,741
+2019-03-25,Dark Yellow,1259
+2019-03-25,Gold,2222
+2019-03-25,Green,1815
+2019-03-25,Greenish Khaki,7345
+2019-03-25,Grey,6592
+2019-03-25,Greyish Beige,285
+2019-03-25,Light Beige,10612
+2019-03-25,Light Blue,13127
+2019-03-25,Light Green,1809
+2019-03-25,Light Grey,4144
+2019-03-25,Light Orange,4011
+2019-03-25,Light Pink,7983
+2019-03-25,Light Purple,328
+2019-03-25,Light Red,461
+2019-03-25,Light Turquoise,836
+2019-03-25,Light Yellow,1486
+2019-03-25,Off White,5961
+2019-03-25,Orange,1046
+2019-03-25,Other,203
+2019-03-25,Other Blue,109
+2019-03-25,Other Green,16
+2019-03-25,Other Orange,156
+2019-03-25,Other Pink,329
+2019-03-25,Other Purple,92
+2019-03-25,Other Red,172
+2019-03-25,Other Turquoise,10
+2019-03-25,Other Yellow,122
+2019-03-25,Pink,4330
+2019-03-25,Purple,154
+2019-03-25,Red,13650
+2019-03-25,Silver,1022
+2019-03-25,Transparent,89
+2019-03-25,Turquoise,1192
+2019-03-25,Unknown,183
+2019-03-25,White,41960
+2019-03-25,Yellow,5445
+2019-03-25,Yellowish Brown,2973
+2019-04-01,Beige,8611
+2019-04-01,Black,121195
+2019-04-01,Blue,15640
+2019-04-01,Bronze/Copper,110
+2019-04-01,Dark Beige,2254
+2019-04-01,Dark Blue,32433
+2019-04-01,Dark Green,9121
+2019-04-01,Dark Grey,6159
+2019-04-01,Dark Orange,2535
+2019-04-01,Dark Pink,1362
+2019-04-01,Dark Purple,411
+2019-04-01,Dark Red,4930
+2019-04-01,Dark Turquoise,924
+2019-04-01,Dark Yellow,1359
+2019-04-01,Gold,2646
+2019-04-01,Green,3021
+2019-04-01,Greenish Khaki,8450
+2019-04-01,Grey,6776
+2019-04-01,Greyish Beige,363
+2019-04-01,Light Beige,12988
+2019-04-01,Light Blue,14781
+2019-04-01,Light Green,3211
+2019-04-01,Light Grey,4356
+2019-04-01,Light Orange,5653
+2019-04-01,Light Pink,9509
+2019-04-01,Light Purple,438
+2019-04-01,Light Red,525
+2019-04-01,Light Turquoise,934
+2019-04-01,Light Yellow,2023
+2019-04-01,Off White,7590
+2019-04-01,Orange,1425
+2019-04-01,Other,226
+2019-04-01,Other Blue,110
+2019-04-01,Other Green,30
+2019-04-01,Other Orange,171
+2019-04-01,Other Pink,341
+2019-04-01,Other Purple,67
+2019-04-01,Other Red,180
+2019-04-01,Other Turquoise,14
+2019-04-01,Other Yellow,99
+2019-04-01,Pink,4567
+2019-04-01,Purple,189
+2019-04-01,Red,14749
+2019-04-01,Silver,1100
+2019-04-01,Transparent,95
+2019-04-01,Turquoise,1075
+2019-04-01,Unknown,195
+2019-04-01,White,48505
+2019-04-01,Yellow,6750
+2019-04-01,Yellowish Brown,4416
+2019-04-08,Beige,6898
+2019-04-08,Black,89049
+2019-04-08,Blue,11341
+2019-04-08,Bronze/Copper,113
+2019-04-08,Dark Beige,1356
+2019-04-08,Dark Blue,24290
+2019-04-08,Dark Green,6302
+2019-04-08,Dark Grey,5189
+2019-04-08,Dark Orange,1876
+2019-04-08,Dark Pink,1133
+2019-04-08,Dark Purple,287
+2019-04-08,Dark Red,5677
+2019-04-08,Dark Turquoise,805
+2019-04-08,Dark Yellow,870
+2019-04-08,Gold,2239
+2019-04-08,Green,2366
+2019-04-08,Greenish Khaki,7157
+2019-04-08,Grey,5189
+2019-04-08,Greyish Beige,287
+2019-04-08,Light Beige,11787
+2019-04-08,Light Blue,10569
+2019-04-08,Light Green,2704
+2019-04-08,Light Grey,2996
+2019-04-08,Light Orange,4346
+2019-04-08,Light Pink,7118
+2019-04-08,Light Purple,226
+2019-04-08,Light Red,611
+2019-04-08,Light Turquoise,725
+2019-04-08,Light Yellow,1580
+2019-04-08,Off White,6837
+2019-04-08,Orange,1613
+2019-04-08,Other,250
+2019-04-08,Other Blue,105
+2019-04-08,Other Green,13
+2019-04-08,Other Orange,180
+2019-04-08,Other Pink,277
+2019-04-08,Other Purple,67
+2019-04-08,Other Red,139
+2019-04-08,Other Turquoise,22
+2019-04-08,Other Yellow,73
+2019-04-08,Pink,3146
+2019-04-08,Purple,129
+2019-04-08,Red,9729
+2019-04-08,Silver,983
+2019-04-08,Transparent,87
+2019-04-08,Turquoise,883
+2019-04-08,Unknown,114
+2019-04-08,White,39230
+2019-04-08,Yellow,5837
+2019-04-08,Yellowish Brown,4061
+2019-04-15,Beige,8318
+2019-04-15,Black,95651
+2019-04-15,Blue,13085
+2019-04-15,Bronze/Copper,192
+2019-04-15,Dark Beige,1326
+2019-04-15,Dark Blue,26213
+2019-04-15,Dark Green,7143
+2019-04-15,Dark Grey,5811
+2019-04-15,Dark Orange,3364
+2019-04-15,Dark Pink,1417
+2019-04-15,Dark Purple,321
+2019-04-15,Dark Red,5072
+2019-04-15,Dark Turquoise,796
+2019-04-15,Dark Yellow,815
+2019-04-15,Gold,2360
+2019-04-15,Green,2718
+2019-04-15,Greenish Khaki,9567
+2019-04-15,Grey,5318
+2019-04-15,Greyish Beige,313
+2019-04-15,Light Beige,12732
+2019-04-15,Light Blue,11717
+2019-04-15,Light Green,3040
+2019-04-15,Light Grey,2864
+2019-04-15,Light Orange,4319
+2019-04-15,Light Pink,7288
+2019-04-15,Light Purple,211
+2019-04-15,Light Red,439
+2019-04-15,Light Turquoise,766
+2019-04-15,Light Yellow,1804
+2019-04-15,Off White,8506
+2019-04-15,Orange,1767
+2019-04-15,Other,382
+2019-04-15,Other Blue,148
+2019-04-15,Other Green,33
+2019-04-15,Other Orange,250
+2019-04-15,Other Pink,335
+2019-04-15,Other Purple,62
+2019-04-15,Other Red,211
+2019-04-15,Other Turquoise,20
+2019-04-15,Other Yellow,136
+2019-04-15,Pink,3236
+2019-04-15,Purple,160
+2019-04-15,Red,11614
+2019-04-15,Silver,909
+2019-04-15,Transparent,75
+2019-04-15,Turquoise,896
+2019-04-15,Unknown,92
+2019-04-15,White,46023
+2019-04-15,Yellow,7144
+2019-04-15,Yellowish Brown,3810
+2019-04-22,Beige,9716
+2019-04-22,Black,115772
+2019-04-22,Blue,14396
+2019-04-22,Bronze/Copper,219
+2019-04-22,Dark Beige,1425
+2019-04-22,Dark Blue,31762
+2019-04-22,Dark Green,7704
+2019-04-22,Dark Grey,7690
+2019-04-22,Dark Orange,4222
+2019-04-22,Dark Pink,1662
+2019-04-22,Dark Purple,343
+2019-04-22,Dark Red,6100
+2019-04-22,Dark Turquoise,790
+2019-04-22,Dark Yellow,1067
+2019-04-22,Gold,2790
+2019-04-22,Green,2859
+2019-04-22,Greenish Khaki,10710
+2019-04-22,Grey,6123
+2019-04-22,Greyish Beige,329
+2019-04-22,Light Beige,15255
+2019-04-22,Light Blue,13972
+2019-04-22,Light Green,3328
+2019-04-22,Light Grey,3204
+2019-04-22,Light Orange,4663
+2019-04-22,Light Pink,9224
+2019-04-22,Light Purple,265
+2019-04-22,Light Red,514
+2019-04-22,Light Turquoise,847
+2019-04-22,Light Yellow,1978
+2019-04-22,Off White,11717
+2019-04-22,Orange,2127
+2019-04-22,Other,534
+2019-04-22,Other Blue,145
+2019-04-22,Other Green,39
+2019-04-22,Other Orange,443
+2019-04-22,Other Pink,355
+2019-04-22,Other Purple,84
+2019-04-22,Other Red,225
+2019-04-22,Other Turquoise,38
+2019-04-22,Other Yellow,274
+2019-04-22,Pink,3754
+2019-04-22,Purple,202
+2019-04-22,Red,14036
+2019-04-22,Silver,1083
+2019-04-22,Transparent,92
+2019-04-22,Turquoise,1185
+2019-04-22,Unknown,102
+2019-04-22,White,52051
+2019-04-22,Yellow,8503
+2019-04-22,Yellowish Brown,4558
+2019-04-29,Beige,10781
+2019-04-29,Black,122214
+2019-04-29,Blue,13876
+2019-04-29,Bronze/Copper,235
+2019-04-29,Dark Beige,1563
+2019-04-29,Dark Blue,31926
+2019-04-29,Dark Green,8529
+2019-04-29,Dark Grey,7728
+2019-04-29,Dark Orange,3081
+2019-04-29,Dark Pink,2092
+2019-04-29,Dark Purple,376
+2019-04-29,Dark Red,8907
+2019-04-29,Dark Turquoise,1048
+2019-04-29,Dark Yellow,1232
+2019-04-29,Gold,2915
+2019-04-29,Green,3012
+2019-04-29,Greenish Khaki,11797
+2019-04-29,Grey,6484
+2019-04-29,Greyish Beige,301
+2019-04-29,Light Beige,15862
+2019-04-29,Light Blue,13873
+2019-04-29,Light Green,3147
+2019-04-29,Light Grey,3413
+2019-04-29,Light Orange,4613
+2019-04-29,Light Pink,9884
+2019-04-29,Light Purple,275
+2019-04-29,Light Red,597
+2019-04-29,Light Turquoise,903
+2019-04-29,Light Yellow,2023
+2019-04-29,Off White,15155
+2019-04-29,Orange,1623
+2019-04-29,Other,675
+2019-04-29,Other Blue,120
+2019-04-29,Other Green,24
+2019-04-29,Other Orange,564
+2019-04-29,Other Pink,365
+2019-04-29,Other Purple,104
+2019-04-29,Other Red,241
+2019-04-29,Other Turquoise,15
+2019-04-29,Other Yellow,263
+2019-04-29,Pink,4166
+2019-04-29,Purple,184
+2019-04-29,Red,15827
+2019-04-29,Silver,1070
+2019-04-29,Transparent,112
+2019-04-29,Turquoise,1123
+2019-04-29,Unknown,127
+2019-04-29,White,55723
+2019-04-29,Yellow,8822
+2019-04-29,Yellowish Brown,4505
+2019-05-06,Beige,7856
+2019-05-06,Black,88214
+2019-05-06,Blue,9949
+2019-05-06,Bronze/Copper,153
+2019-05-06,Dark Beige,971
+2019-05-06,Dark Blue,21249
+2019-05-06,Dark Green,6197
+2019-05-06,Dark Grey,4961
+2019-05-06,Dark Orange,2840
+2019-05-06,Dark Pink,1524
+2019-05-06,Dark Purple,257
+2019-05-06,Dark Red,4627
+2019-05-06,Dark Turquoise,598
+2019-05-06,Dark Yellow,693
+2019-05-06,Gold,2189
+2019-05-06,Green,1880
+2019-05-06,Greenish Khaki,7966
+2019-05-06,Grey,4169
+2019-05-06,Greyish Beige,247
+2019-05-06,Light Beige,11281
+2019-05-06,Light Blue,9820
+2019-05-06,Light Green,1972
+2019-05-06,Light Grey,2234
+2019-05-06,Light Orange,3321
+2019-05-06,Light Pink,6898
+2019-05-06,Light Purple,234
+2019-05-06,Light Red,547
+2019-05-06,Light Turquoise,626
+2019-05-06,Light Yellow,1756
+2019-05-06,Off White,11341
+2019-05-06,Orange,1319
+2019-05-06,Other,462
+2019-05-06,Other Blue,104
+2019-05-06,Other Green,17
+2019-05-06,Other Orange,437
+2019-05-06,Other Pink,413
+2019-05-06,Other Purple,77
+2019-05-06,Other Red,163
+2019-05-06,Other Turquoise,14
+2019-05-06,Other Yellow,213
+2019-05-06,Pink,3035
+2019-05-06,Purple,136
+2019-05-06,Red,11174
+2019-05-06,Silver,795
+2019-05-06,Transparent,70
+2019-05-06,Turquoise,788
+2019-05-06,Unknown,77
+2019-05-06,White,38602
+2019-05-06,Yellow,5697
+2019-05-06,Yellowish Brown,3022
+2019-05-13,Beige,11468
+2019-05-13,Black,105038
+2019-05-13,Blue,11839
+2019-05-13,Bronze/Copper,146
+2019-05-13,Dark Beige,1093
+2019-05-13,Dark Blue,26881
+2019-05-13,Dark Green,6801
+2019-05-13,Dark Grey,5636
+2019-05-13,Dark Orange,5164
+2019-05-13,Dark Pink,1675
+2019-05-13,Dark Purple,347
+2019-05-13,Dark Red,5110
+2019-05-13,Dark Turquoise,612
+2019-05-13,Dark Yellow,1594
+2019-05-13,Gold,2522
+2019-05-13,Green,2066
+2019-05-13,Greenish Khaki,8780
+2019-05-13,Grey,4585
+2019-05-13,Greyish Beige,282
+2019-05-13,Light Beige,14215
+2019-05-13,Light Blue,11817
+2019-05-13,Light Green,2124
+2019-05-13,Light Grey,2440
+2019-05-13,Light Orange,3835
+2019-05-13,Light Pink,7613
+2019-05-13,Light Purple,233
+2019-05-13,Light Red,413
+2019-05-13,Light Turquoise,654
+2019-05-13,Light Yellow,2072
+2019-05-13,Off White,12218
+2019-05-13,Orange,3650
+2019-05-13,Other,542
+2019-05-13,Other Blue,113
+2019-05-13,Other Green,37
+2019-05-13,Other Orange,507
+2019-05-13,Other Pink,529
+2019-05-13,Other Purple,99
+2019-05-13,Other Red,196
+2019-05-13,Other Turquoise,13
+2019-05-13,Other Yellow,251
+2019-05-13,Pink,3572
+2019-05-13,Purple,173
+2019-05-13,Red,12824
+2019-05-13,Silver,1139
+2019-05-13,Transparent,97
+2019-05-13,Turquoise,833
+2019-05-13,Unknown,87
+2019-05-13,White,46552
+2019-05-13,Yellow,7033
+2019-05-13,Yellowish Brown,3396
+2019-05-20,Beige,9062
+2019-05-20,Black,110546
+2019-05-20,Blue,12490
+2019-05-20,Bronze/Copper,135
+2019-05-20,Dark Beige,1041
+2019-05-20,Dark Blue,29111
+2019-05-20,Dark Green,7011
+2019-05-20,Dark Grey,6163
+2019-05-20,Dark Orange,5045
+2019-05-20,Dark Pink,1663
+2019-05-20,Dark Purple,352
+2019-05-20,Dark Red,5603
+2019-05-20,Dark Turquoise,650
+2019-05-20,Dark Yellow,1752
+2019-05-20,Gold,3071
+2019-05-20,Green,2035
+2019-05-20,Greenish Khaki,8932
+2019-05-20,Grey,5260
+2019-05-20,Greyish Beige,309
+2019-05-20,Light Beige,14837
+2019-05-20,Light Blue,12488
+2019-05-20,Light Green,1931
+2019-05-20,Light Grey,2934
+2019-05-20,Light Orange,3701
+2019-05-20,Light Pink,8614
+2019-05-20,Light Purple,282
+2019-05-20,Light Red,400
+2019-05-20,Light Turquoise,714
+2019-05-20,Light Yellow,2187
+2019-05-20,Off White,12168
+2019-05-20,Orange,3595
+2019-05-20,Other,528
+2019-05-20,Other Blue,190
+2019-05-20,Other Green,39
+2019-05-20,Other Orange,448
+2019-05-20,Other Pink,483
+2019-05-20,Other Purple,111
+2019-05-20,Other Red,192
+2019-05-20,Other Turquoise,11
+2019-05-20,Other Yellow,197
+2019-05-20,Pink,4016
+2019-05-20,Purple,162
+2019-05-20,Red,12879
+2019-05-20,Silver,1376
+2019-05-20,Transparent,136
+2019-05-20,Turquoise,916
+2019-05-20,Unknown,56
+2019-05-20,White,50736
+2019-05-20,Yellow,7211
+2019-05-20,Yellowish Brown,3577
+2019-05-27,Beige,7761
+2019-05-27,Black,127563
+2019-05-27,Blue,14013
+2019-05-27,Bronze/Copper,174
+2019-05-27,Dark Beige,1500
+2019-05-27,Dark Blue,32953
+2019-05-27,Dark Green,9042
+2019-05-27,Dark Grey,6360
+2019-05-27,Dark Orange,7527
+2019-05-27,Dark Pink,1957
+2019-05-27,Dark Purple,259
+2019-05-27,Dark Red,6881
+2019-05-27,Dark Turquoise,693
+2019-05-27,Dark Yellow,2478
+2019-05-27,Gold,3428
+2019-05-27,Green,2232
+2019-05-27,Greenish Khaki,10568
+2019-05-27,Grey,5163
+2019-05-27,Greyish Beige,353
+2019-05-27,Light Beige,16842
+2019-05-27,Light Blue,14367
+2019-05-27,Light Green,2013
+2019-05-27,Light Grey,2907
+2019-05-27,Light Orange,4364
+2019-05-27,Light Pink,9128
+2019-05-27,Light Purple,238
+2019-05-27,Light Red,412
+2019-05-27,Light Turquoise,791
+2019-05-27,Light Yellow,3014
+2019-05-27,Off White,13405
+2019-05-27,Orange,3477
+2019-05-27,Other,532
+2019-05-27,Other Blue,367
+2019-05-27,Other Green,328
+2019-05-27,Other Orange,479
+2019-05-27,Other Pink,638
+2019-05-27,Other Purple,179
+2019-05-27,Other Red,253
+2019-05-27,Other Turquoise,14
+2019-05-27,Other Yellow,818
+2019-05-27,Pink,4450
+2019-05-27,Purple,210
+2019-05-27,Red,14400
+2019-05-27,Silver,1378
+2019-05-27,Transparent,120
+2019-05-27,Turquoise,1105
+2019-05-27,Unknown,80
+2019-05-27,White,58178
+2019-05-27,Yellow,7983
+2019-05-27,Yellowish Brown,4426
+2019-06-03,Beige,5770
+2019-06-03,Black,109196
+2019-06-03,Blue,11535
+2019-06-03,Bronze/Copper,114
+2019-06-03,Dark Beige,1374
+2019-06-03,Dark Blue,25177
+2019-06-03,Dark Green,7004
+2019-06-03,Dark Grey,5412
+2019-06-03,Dark Orange,7667
+2019-06-03,Dark Pink,1679
+2019-06-03,Dark Purple,164
+2019-06-03,Dark Red,5044
+2019-06-03,Dark Turquoise,500
+2019-06-03,Dark Yellow,1345
+2019-06-03,Gold,3232
+2019-06-03,Green,1629
+2019-06-03,Greenish Khaki,8068
+2019-06-03,Grey,4703
+2019-06-03,Greyish Beige,306
+2019-06-03,Light Beige,14820
+2019-06-03,Light Blue,11689
+2019-06-03,Light Green,1539
+2019-06-03,Light Grey,2280
+2019-06-03,Light Orange,4045
+2019-06-03,Light Pink,7843
+2019-06-03,Light Purple,351
+2019-06-03,Light Red,689
+2019-06-03,Light Turquoise,686
+2019-06-03,Light Yellow,2278
+2019-06-03,Off White,10301
+2019-06-03,Orange,2156
+2019-06-03,Other,501
+2019-06-03,Other Blue,204
+2019-06-03,Other Green,76
+2019-06-03,Other Orange,442
+2019-06-03,Other Pink,493
+2019-06-03,Other Purple,100
+2019-06-03,Other Red,165
+2019-06-03,Other Turquoise,9
+2019-06-03,Other Yellow,369
+2019-06-03,Pink,3805
+2019-06-03,Purple,124
+2019-06-03,Red,10900
+2019-06-03,Silver,1296
+2019-06-03,Transparent,135
+2019-06-03,Turquoise,920
+2019-06-03,Unknown,65
+2019-06-03,White,46570
+2019-06-03,Yellow,6600
+2019-06-03,Yellowish Brown,3721
+2019-06-10,Beige,5600
+2019-06-10,Black,98809
+2019-06-10,Blue,9510
+2019-06-10,Bronze/Copper,123
+2019-06-10,Dark Beige,1045
+2019-06-10,Dark Blue,22509
+2019-06-10,Dark Green,5536
+2019-06-10,Dark Grey,4774
+2019-06-10,Dark Orange,6533
+2019-06-10,Dark Pink,2769
+2019-06-10,Dark Purple,160
+2019-06-10,Dark Red,5043
+2019-06-10,Dark Turquoise,413
+2019-06-10,Dark Yellow,1070
+2019-06-10,Gold,2563
+2019-06-10,Green,1304
+2019-06-10,Greenish Khaki,15810
+2019-06-10,Grey,4362
+2019-06-10,Greyish Beige,227
+2019-06-10,Light Beige,24358
+2019-06-10,Light Blue,10497
+2019-06-10,Light Green,1213
+2019-06-10,Light Grey,2262
+2019-06-10,Light Orange,8023
+2019-06-10,Light Pink,7417
+2019-06-10,Light Purple,222
+2019-06-10,Light Red,603
+2019-06-10,Light Turquoise,622
+2019-06-10,Light Yellow,2125
+2019-06-10,Off White,10343
+2019-06-10,Orange,1630
+2019-06-10,Other,347
+2019-06-10,Other Blue,157
+2019-06-10,Other Green,47
+2019-06-10,Other Orange,344
+2019-06-10,Other Pink,422
+2019-06-10,Other Purple,114
+2019-06-10,Other Red,130
+2019-06-10,Other Turquoise,10
+2019-06-10,Other Yellow,294
+2019-06-10,Pink,4006
+2019-06-10,Purple,141
+2019-06-10,Red,9377
+2019-06-10,Silver,1106
+2019-06-10,Transparent,121
+2019-06-10,Turquoise,931
+2019-06-10,Unknown,51
+2019-06-10,White,41032
+2019-06-10,Yellow,8256
+2019-06-10,Yellowish Brown,2976
+2019-06-17,Beige,12553
+2019-06-17,Black,173022
+2019-06-17,Blue,19490
+2019-06-17,Bronze/Copper,199
+2019-06-17,Dark Beige,2007
+2019-06-17,Dark Blue,50873
+2019-06-17,Dark Green,9478
+2019-06-17,Dark Grey,9306
+2019-06-17,Dark Orange,10534
+2019-06-17,Dark Pink,2529
+2019-06-17,Dark Purple,299
+2019-06-17,Dark Red,7691
+2019-06-17,Dark Turquoise,825
+2019-06-17,Dark Yellow,2459
+2019-06-17,Gold,3463
+2019-06-17,Green,2773
+2019-06-17,Greenish Khaki,15378
+2019-06-17,Grey,8877
+2019-06-17,Greyish Beige,325
+2019-06-17,Light Beige,22333
+2019-06-17,Light Blue,21446
+2019-06-17,Light Green,3266
+2019-06-17,Light Grey,4102
+2019-06-17,Light Orange,7880
+2019-06-17,Light Pink,15213
+2019-06-17,Light Purple,448
+2019-06-17,Light Red,743
+2019-06-17,Light Turquoise,1335
+2019-06-17,Light Yellow,3822
+2019-06-17,Off White,17130
+2019-06-17,Orange,2739
+2019-06-17,Other,590
+2019-06-17,Other Blue,231
+2019-06-17,Other Green,220
+2019-06-17,Other Orange,602
+2019-06-17,Other Pink,855
+2019-06-17,Other Purple,487
+2019-06-17,Other Red,241
+2019-06-17,Other Turquoise,16
+2019-06-17,Other Yellow,513
+2019-06-17,Pink,6227
+2019-06-17,Purple,356
+2019-06-17,Red,16570
+2019-06-17,Silver,1217
+2019-06-17,Transparent,192
+2019-06-17,Turquoise,1657
+2019-06-17,Unknown,159
+2019-06-17,White,81218
+2019-06-17,Yellow,9751
+2019-06-17,Yellowish Brown,6436
+2019-06-24,Beige,10253
+2019-06-24,Black,174273
+2019-06-24,Blue,18909
+2019-06-24,Bronze/Copper,211
+2019-06-24,Dark Beige,2147
+2019-06-24,Dark Blue,50305
+2019-06-24,Dark Green,8159
+2019-06-24,Dark Grey,8769
+2019-06-24,Dark Orange,9684
+2019-06-24,Dark Pink,2865
+2019-06-24,Dark Purple,221
+2019-06-24,Dark Red,9096
+2019-06-24,Dark Turquoise,755
+2019-06-24,Dark Yellow,2027
+2019-06-24,Gold,3475
+2019-06-24,Green,2578
+2019-06-24,Greenish Khaki,14778
+2019-06-24,Grey,8743
+2019-06-24,Greyish Beige,312
+2019-06-24,Light Beige,23459
+2019-06-24,Light Blue,20911
+2019-06-24,Light Green,3010
+2019-06-24,Light Grey,3979
+2019-06-24,Light Orange,8535
+2019-06-24,Light Pink,13219
+2019-06-24,Light Purple,467
+2019-06-24,Light Red,691
+2019-06-24,Light Turquoise,1374
+2019-06-24,Light Yellow,4214
+2019-06-24,Off White,19248
+2019-06-24,Orange,3749
+2019-06-24,Other,589
+2019-06-24,Other Blue,237
+2019-06-24,Other Green,134
+2019-06-24,Other Orange,628
+2019-06-24,Other Pink,1511
+2019-06-24,Other Purple,385
+2019-06-24,Other Red,276
+2019-06-24,Other Turquoise,38
+2019-06-24,Other Yellow,557
+2019-06-24,Pink,6803
+2019-06-24,Purple,285
+2019-06-24,Red,17419
+2019-06-24,Silver,1156
+2019-06-24,Transparent,156
+2019-06-24,Turquoise,1635
+2019-06-24,Unknown,140
+2019-06-24,White,83438
+2019-06-24,Yellow,10582
+2019-06-24,Yellowish Brown,6605
+2019-07-01,Beige,8161
+2019-07-01,Black,133911
+2019-07-01,Blue,14089
+2019-07-01,Bronze/Copper,189
+2019-07-01,Dark Beige,1824
+2019-07-01,Dark Blue,38029
+2019-07-01,Dark Green,5536
+2019-07-01,Dark Grey,7109
+2019-07-01,Dark Orange,6180
+2019-07-01,Dark Pink,2494
+2019-07-01,Dark Purple,242
+2019-07-01,Dark Red,6790
+2019-07-01,Dark Turquoise,603
+2019-07-01,Dark Yellow,1821
+2019-07-01,Gold,3222
+2019-07-01,Green,2145
+2019-07-01,Greenish Khaki,9850
+2019-07-01,Grey,6989
+2019-07-01,Greyish Beige,331
+2019-07-01,Light Beige,18150
+2019-07-01,Light Blue,15748
+2019-07-01,Light Green,1872
+2019-07-01,Light Grey,3779
+2019-07-01,Light Orange,6994
+2019-07-01,Light Pink,10587
+2019-07-01,Light Purple,421
+2019-07-01,Light Red,470
+2019-07-01,Light Turquoise,943
+2019-07-01,Light Yellow,2896
+2019-07-01,Off White,14695
+2019-07-01,Orange,3102
+2019-07-01,Other,306
+2019-07-01,Other Blue,127
+2019-07-01,Other Green,84
+2019-07-01,Other Orange,421
+2019-07-01,Other Pink,1821
+2019-07-01,Other Purple,329
+2019-07-01,Other Red,574
+2019-07-01,Other Turquoise,19
+2019-07-01,Other Yellow,507
+2019-07-01,Pink,6897
+2019-07-01,Purple,212
+2019-07-01,Red,11890
+2019-07-01,Silver,1031
+2019-07-01,Transparent,125
+2019-07-01,Turquoise,1235
+2019-07-01,Unknown,140
+2019-07-01,White,62217
+2019-07-01,Yellow,7600
+2019-07-01,Yellowish Brown,4819
+2019-07-08,Beige,7436
+2019-07-08,Black,118673
+2019-07-08,Blue,13160
+2019-07-08,Bronze/Copper,124
+2019-07-08,Dark Beige,1936
+2019-07-08,Dark Blue,32865
+2019-07-08,Dark Green,4548
+2019-07-08,Dark Grey,5822
+2019-07-08,Dark Orange,5500
+2019-07-08,Dark Pink,2400
+2019-07-08,Dark Purple,190
+2019-07-08,Dark Red,6110
+2019-07-08,Dark Turquoise,426
+2019-07-08,Dark Yellow,1666
+2019-07-08,Gold,2492
+2019-07-08,Green,2155
+2019-07-08,Greenish Khaki,8778
+2019-07-08,Grey,6787
+2019-07-08,Greyish Beige,314
+2019-07-08,Light Beige,15124
+2019-07-08,Light Blue,14642
+2019-07-08,Light Green,1588
+2019-07-08,Light Grey,3694
+2019-07-08,Light Orange,5663
+2019-07-08,Light Pink,9506
+2019-07-08,Light Purple,293
+2019-07-08,Light Red,351
+2019-07-08,Light Turquoise,735
+2019-07-08,Light Yellow,2712
+2019-07-08,Off White,12520
+2019-07-08,Orange,2346
+2019-07-08,Other,293
+2019-07-08,Other Blue,133
+2019-07-08,Other Green,50
+2019-07-08,Other Orange,453
+2019-07-08,Other Pink,755
+2019-07-08,Other Purple,136
+2019-07-08,Other Red,358
+2019-07-08,Other Turquoise,19
+2019-07-08,Other Yellow,527
+2019-07-08,Pink,6135
+2019-07-08,Purple,154
+2019-07-08,Red,9700
+2019-07-08,Silver,944
+2019-07-08,Transparent,120
+2019-07-08,Turquoise,1114
+2019-07-08,Unknown,100
+2019-07-08,White,52449
+2019-07-08,Yellow,6006
+2019-07-08,Yellowish Brown,4635
+2019-07-15,Beige,7235
+2019-07-15,Black,117249
+2019-07-15,Blue,13253
+2019-07-15,Bronze/Copper,123
+2019-07-15,Dark Beige,1967
+2019-07-15,Dark Blue,33703
+2019-07-15,Dark Green,4312
+2019-07-15,Dark Grey,5941
+2019-07-15,Dark Orange,4865
+2019-07-15,Dark Pink,2705
+2019-07-15,Dark Purple,234
+2019-07-15,Dark Red,6811
+2019-07-15,Dark Turquoise,392
+2019-07-15,Dark Yellow,1545
+2019-07-15,Gold,2497
+2019-07-15,Green,2075
+2019-07-15,Greenish Khaki,9011
+2019-07-15,Grey,6744
+2019-07-15,Greyish Beige,331
+2019-07-15,Light Beige,14722
+2019-07-15,Light Blue,13464
+2019-07-15,Light Green,1727
+2019-07-15,Light Grey,3597
+2019-07-15,Light Orange,5484
+2019-07-15,Light Pink,9155
+2019-07-15,Light Purple,271
+2019-07-15,Light Red,347
+2019-07-15,Light Turquoise,766
+2019-07-15,Light Yellow,2555
+2019-07-15,Off White,11714
+2019-07-15,Orange,2142
+2019-07-15,Other,261
+2019-07-15,Other Blue,245
+2019-07-15,Other Green,65
+2019-07-15,Other Orange,506
+2019-07-15,Other Pink,964
+2019-07-15,Other Purple,160
+2019-07-15,Other Red,341
+2019-07-15,Other Turquoise,14
+2019-07-15,Other Yellow,512
+2019-07-15,Pink,5797
+2019-07-15,Purple,197
+2019-07-15,Red,9700
+2019-07-15,Silver,877
+2019-07-15,Transparent,94
+2019-07-15,Turquoise,1265
+2019-07-15,Unknown,61
+2019-07-15,White,52513
+2019-07-15,Yellow,5921
+2019-07-15,Yellowish Brown,4647
+2019-07-22,Beige,8634
+2019-07-22,Black,146605
+2019-07-22,Blue,15734
+2019-07-22,Bronze/Copper,155
+2019-07-22,Dark Beige,2303
+2019-07-22,Dark Blue,42671
+2019-07-22,Dark Green,5829
+2019-07-22,Dark Grey,7127
+2019-07-22,Dark Orange,6289
+2019-07-22,Dark Pink,3904
+2019-07-22,Dark Purple,291
+2019-07-22,Dark Red,9975
+2019-07-22,Dark Turquoise,531
+2019-07-22,Dark Yellow,2175
+2019-07-22,Gold,2547
+2019-07-22,Green,3232
+2019-07-22,Greenish Khaki,11835
+2019-07-22,Grey,7484
+2019-07-22,Greyish Beige,402
+2019-07-22,Light Beige,19228
+2019-07-22,Light Blue,16153
+2019-07-22,Light Green,2741
+2019-07-22,Light Grey,3728
+2019-07-22,Light Orange,6812
+2019-07-22,Light Pink,10617
+2019-07-22,Light Purple,555
+2019-07-22,Light Red,484
+2019-07-22,Light Turquoise,1128
+2019-07-22,Light Yellow,3388
+2019-07-22,Off White,17348
+2019-07-22,Orange,3327
+2019-07-22,Other,292
+2019-07-22,Other Blue,370
+2019-07-22,Other Green,76
+2019-07-22,Other Orange,651
+2019-07-22,Other Pink,1031
+2019-07-22,Other Purple,227
+2019-07-22,Other Red,545
+2019-07-22,Other Turquoise,18
+2019-07-22,Other Yellow,728
+2019-07-22,Pink,6866
+2019-07-22,Purple,608
+2019-07-22,Red,12651
+2019-07-22,Silver,817
+2019-07-22,Transparent,89
+2019-07-22,Turquoise,1978
+2019-07-22,Unknown,91
+2019-07-22,White,65627
+2019-07-22,Yellow,8978
+2019-07-22,Yellowish Brown,6991
+2019-07-29,Beige,6797
+2019-07-29,Black,107506
+2019-07-29,Blue,11832
+2019-07-29,Bronze/Copper,117
+2019-07-29,Dark Beige,1962
+2019-07-29,Dark Blue,27531
+2019-07-29,Dark Green,4355
+2019-07-29,Dark Grey,5114
+2019-07-29,Dark Orange,4243
+2019-07-29,Dark Pink,2610
+2019-07-29,Dark Purple,277
+2019-07-29,Dark Red,7515
+2019-07-29,Dark Turquoise,413
+2019-07-29,Dark Yellow,1206
+2019-07-29,Gold,2045
+2019-07-29,Green,1810
+2019-07-29,Greenish Khaki,7869
+2019-07-29,Grey,5775
+2019-07-29,Greyish Beige,286
+2019-07-29,Light Beige,14343
+2019-07-29,Light Blue,10792
+2019-07-29,Light Green,1545
+2019-07-29,Light Grey,2773
+2019-07-29,Light Orange,4580
+2019-07-29,Light Pink,7916
+2019-07-29,Light Purple,336
+2019-07-29,Light Red,259
+2019-07-29,Light Turquoise,722
+2019-07-29,Light Yellow,1854
+2019-07-29,Off White,10594
+2019-07-29,Orange,1711
+2019-07-29,Other,145
+2019-07-29,Other Blue,227
+2019-07-29,Other Green,39
+2019-07-29,Other Orange,397
+2019-07-29,Other Pink,604
+2019-07-29,Other Purple,97
+2019-07-29,Other Red,303
+2019-07-29,Other Turquoise,9
+2019-07-29,Other Yellow,661
+2019-07-29,Pink,5584
+2019-07-29,Purple,188
+2019-07-29,Red,8856
+2019-07-29,Silver,732
+2019-07-29,Transparent,78
+2019-07-29,Turquoise,1161
+2019-07-29,Unknown,46
+2019-07-29,White,42911
+2019-07-29,Yellow,5647
+2019-07-29,Yellowish Brown,5011
+2019-08-05,Beige,6680
+2019-08-05,Black,101256
+2019-08-05,Blue,10959
+2019-08-05,Bronze/Copper,101
+2019-08-05,Dark Beige,2284
+2019-08-05,Dark Blue,23455
+2019-08-05,Dark Green,4849
+2019-08-05,Dark Grey,5208
+2019-08-05,Dark Orange,3904
+2019-08-05,Dark Pink,3128
+2019-08-05,Dark Purple,239
+2019-08-05,Dark Red,7872
+2019-08-05,Dark Turquoise,595
+2019-08-05,Dark Yellow,1041
+2019-08-05,Gold,1892
+2019-08-05,Green,1620
+2019-08-05,Greenish Khaki,7058
+2019-08-05,Grey,5625
+2019-08-05,Greyish Beige,349
+2019-08-05,Light Beige,12889
+2019-08-05,Light Blue,9032
+2019-08-05,Light Green,1176
+2019-08-05,Light Grey,2600
+2019-08-05,Light Orange,4185
+2019-08-05,Light Pink,6710
+2019-08-05,Light Purple,265
+2019-08-05,Light Red,255
+2019-08-05,Light Turquoise,606
+2019-08-05,Light Yellow,1377
+2019-08-05,Off White,8486
+2019-08-05,Orange,1327
+2019-08-05,Other,113
+2019-08-05,Other Blue,189
+2019-08-05,Other Green,36
+2019-08-05,Other Orange,373
+2019-08-05,Other Pink,397
+2019-08-05,Other Purple,62
+2019-08-05,Other Red,209
+2019-08-05,Other Turquoise,4
+2019-08-05,Other Yellow,633
+2019-08-05,Pink,4691
+2019-08-05,Purple,228
+2019-08-05,Red,6802
+2019-08-05,Silver,699
+2019-08-05,Transparent,70
+2019-08-05,Turquoise,957
+2019-08-05,Unknown,37
+2019-08-05,White,36927
+2019-08-05,Yellow,4565
+2019-08-05,Yellowish Brown,4777
+2019-08-12,Beige,8597
+2019-08-12,Black,109444
+2019-08-12,Blue,12144
+2019-08-12,Bronze/Copper,144
+2019-08-12,Dark Beige,3316
+2019-08-12,Dark Blue,23727
+2019-08-12,Dark Green,5510
+2019-08-12,Dark Grey,5539
+2019-08-12,Dark Orange,3918
+2019-08-12,Dark Pink,2688
+2019-08-12,Dark Purple,260
+2019-08-12,Dark Red,8929
+2019-08-12,Dark Turquoise,1246
+2019-08-12,Dark Yellow,1005
+2019-08-12,Gold,1806
+2019-08-12,Green,1681
+2019-08-12,Greenish Khaki,7996
+2019-08-12,Grey,7441
+2019-08-12,Greyish Beige,772
+2019-08-12,Light Beige,14345
+2019-08-12,Light Blue,9359
+2019-08-12,Light Green,1072
+2019-08-12,Light Grey,3616
+2019-08-12,Light Orange,4030
+2019-08-12,Light Pink,8302
+2019-08-12,Light Purple,344
+2019-08-12,Light Red,244
+2019-08-12,Light Turquoise,844
+2019-08-12,Light Yellow,1612
+2019-08-12,Off White,9176
+2019-08-12,Orange,1446
+2019-08-12,Other,182
+2019-08-12,Other Blue,203
+2019-08-12,Other Green,44
+2019-08-12,Other Orange,305
+2019-08-12,Other Pink,417
+2019-08-12,Other Purple,36
+2019-08-12,Other Red,158
+2019-08-12,Other Turquoise,4
+2019-08-12,Other Yellow,797
+2019-08-12,Pink,6409
+2019-08-12,Purple,253
+2019-08-12,Red,6685
+2019-08-12,Silver,746
+2019-08-12,Transparent,56
+2019-08-12,Turquoise,968
+2019-08-12,Unknown,47
+2019-08-12,White,36354
+2019-08-12,Yellow,4868
+2019-08-12,Yellowish Brown,5943
+2019-08-19,Beige,6980
+2019-08-19,Black,91969
+2019-08-19,Blue,9510
+2019-08-19,Bronze/Copper,89
+2019-08-19,Dark Beige,3634
+2019-08-19,Dark Blue,16964
+2019-08-19,Dark Green,4788
+2019-08-19,Dark Grey,4561
+2019-08-19,Dark Orange,2796
+2019-08-19,Dark Pink,1894
+2019-08-19,Dark Purple,214
+2019-08-19,Dark Red,7161
+2019-08-19,Dark Turquoise,1497
+2019-08-19,Dark Yellow,812
+2019-08-19,Gold,2036
+2019-08-19,Green,1091
+2019-08-19,Greenish Khaki,5671
+2019-08-19,Grey,5680
+2019-08-19,Greyish Beige,592
+2019-08-19,Light Beige,11963
+2019-08-19,Light Blue,7179
+2019-08-19,Light Green,663
+2019-08-19,Light Grey,2934
+2019-08-19,Light Orange,3014
+2019-08-19,Light Pink,5754
+2019-08-19,Light Purple,203
+2019-08-19,Light Red,158
+2019-08-19,Light Turquoise,581
+2019-08-19,Light Yellow,1120
+2019-08-19,Off White,7057
+2019-08-19,Orange,1234
+2019-08-19,Other,62
+2019-08-19,Other Blue,116
+2019-08-19,Other Green,20
+2019-08-19,Other Orange,219
+2019-08-19,Other Pink,292
+2019-08-19,Other Purple,28
+2019-08-19,Other Red,144
+2019-08-19,Other Yellow,625
+2019-08-19,Pink,4548
+2019-08-19,Purple,147
+2019-08-19,Red,4541
+2019-08-19,Silver,812
+2019-08-19,Transparent,61
+2019-08-19,Turquoise,678
+2019-08-19,Unknown,22
+2019-08-19,White,28428
+2019-08-19,Yellow,3608
+2019-08-19,Yellowish Brown,5538
+2019-08-26,Beige,6792
+2019-08-26,Black,86817
+2019-08-26,Blue,7647
+2019-08-26,Bronze/Copper,53
+2019-08-26,Dark Beige,3890
+2019-08-26,Dark Blue,14839
+2019-08-26,Dark Green,4531
+2019-08-26,Dark Grey,4213
+2019-08-26,Dark Orange,2617
+2019-08-26,Dark Pink,1617
+2019-08-26,Dark Purple,150
+2019-08-26,Dark Red,6828
+2019-08-26,Dark Turquoise,1734
+2019-08-26,Dark Yellow,707
+2019-08-26,Gold,1730
+2019-08-26,Green,950
+2019-08-26,Greenish Khaki,4541
+2019-08-26,Grey,5017
+2019-08-26,Greyish Beige,678
+2019-08-26,Light Beige,10749
+2019-08-26,Light Blue,5750
+2019-08-26,Light Green,454
+2019-08-26,Light Grey,2597
+2019-08-26,Light Orange,2439
+2019-08-26,Light Pink,4912
+2019-08-26,Light Purple,144
+2019-08-26,Light Red,101
+2019-08-26,Light Turquoise,522
+2019-08-26,Light Yellow,893
+2019-08-26,Off White,6297
+2019-08-26,Orange,1204
+2019-08-26,Other,40
+2019-08-26,Other Blue,51
+2019-08-26,Other Green,11
+2019-08-26,Other Orange,213
+2019-08-26,Other Pink,357
+2019-08-26,Other Purple,23
+2019-08-26,Other Red,121
+2019-08-26,Other Turquoise,5
+2019-08-26,Other Yellow,487
+2019-08-26,Pink,3923
+2019-08-26,Purple,86
+2019-08-26,Red,3638
+2019-08-26,Silver,773
+2019-08-26,Transparent,43
+2019-08-26,Turquoise,568
+2019-08-26,Unknown,15
+2019-08-26,White,24143
+2019-08-26,Yellow,3343
+2019-08-26,Yellowish Brown,5001
+2019-09-02,Beige,8500
+2019-09-02,Black,98261
+2019-09-02,Blue,8182
+2019-09-02,Bronze/Copper,51
+2019-09-02,Dark Beige,6280
+2019-09-02,Dark Blue,15489
+2019-09-02,Dark Green,5656
+2019-09-02,Dark Grey,5518
+2019-09-02,Dark Orange,2893
+2019-09-02,Dark Pink,1574
+2019-09-02,Dark Purple,178
+2019-09-02,Dark Red,8169
+2019-09-02,Dark Turquoise,2185
+2019-09-02,Dark Yellow,909
+2019-09-02,Gold,1727
+2019-09-02,Green,955
+2019-09-02,Greenish Khaki,4912
+2019-09-02,Grey,7449
+2019-09-02,Greyish Beige,1123
+2019-09-02,Light Beige,12300
+2019-09-02,Light Blue,5229
+2019-09-02,Light Green,392
+2019-09-02,Light Grey,3439
+2019-09-02,Light Orange,2585
+2019-09-02,Light Pink,5149
+2019-09-02,Light Purple,124
+2019-09-02,Light Red,99
+2019-09-02,Light Turquoise,512
+2019-09-02,Light Yellow,524
+2019-09-02,Off White,5582
+2019-09-02,Orange,2054
+2019-09-02,Other,37
+2019-09-02,Other Blue,28
+2019-09-02,Other Green,8
+2019-09-02,Other Orange,194
+2019-09-02,Other Pink,322
+2019-09-02,Other Purple,17
+2019-09-02,Other Red,86
+2019-09-02,Other Turquoise,2
+2019-09-02,Other Yellow,492
+2019-09-02,Pink,3909
+2019-09-02,Purple,56
+2019-09-02,Red,3355
+2019-09-02,Silver,915
+2019-09-02,Transparent,53
+2019-09-02,Turquoise,442
+2019-09-02,Unknown,10
+2019-09-02,White,21677
+2019-09-02,Yellow,3967
+2019-09-02,Yellowish Brown,6513
+2019-09-09,Beige,8089
+2019-09-09,Black,91453
+2019-09-09,Blue,7513
+2019-09-09,Bronze/Copper,21
+2019-09-09,Dark Beige,5396
+2019-09-09,Dark Blue,13840
+2019-09-09,Dark Green,6525
+2019-09-09,Dark Grey,5281
+2019-09-09,Dark Orange,2585
+2019-09-09,Dark Pink,1586
+2019-09-09,Dark Purple,125
+2019-09-09,Dark Red,8114
+2019-09-09,Dark Turquoise,1837
+2019-09-09,Dark Yellow,1227
+2019-09-09,Gold,1543
+2019-09-09,Green,881
+2019-09-09,Greenish Khaki,4372
+2019-09-09,Grey,7810
+2019-09-09,Greyish Beige,1211
+2019-09-09,Light Beige,11401
+2019-09-09,Light Blue,4653
+2019-09-09,Light Green,306
+2019-09-09,Light Grey,3741
+2019-09-09,Light Orange,2694
+2019-09-09,Light Pink,4717
+2019-09-09,Light Purple,84
+2019-09-09,Light Red,59
+2019-09-09,Light Turquoise,398
+2019-09-09,Light Yellow,418
+2019-09-09,Off White,7566
+2019-09-09,Orange,2355
+2019-09-09,Other,28
+2019-09-09,Other Blue,45
+2019-09-09,Other Green,7
+2019-09-09,Other Orange,112
+2019-09-09,Other Pink,346
+2019-09-09,Other Purple,14
+2019-09-09,Other Red,61
+2019-09-09,Other Yellow,618
+2019-09-09,Pink,3228
+2019-09-09,Purple,53
+2019-09-09,Red,2832
+2019-09-09,Silver,807
+2019-09-09,Transparent,38
+2019-09-09,Turquoise,408
+2019-09-09,Unknown,13
+2019-09-09,White,18805
+2019-09-09,Yellow,3757
+2019-09-09,Yellowish Brown,7445
+2019-09-16,Beige,7770
+2019-09-16,Black,88003
+2019-09-16,Blue,6525
+2019-09-16,Bronze/Copper,20
+2019-09-16,Dark Beige,4889
+2019-09-16,Dark Blue,12479
+2019-09-16,Dark Green,8423
+2019-09-16,Dark Grey,4997
+2019-09-16,Dark Orange,2276
+2019-09-16,Dark Pink,1657
+2019-09-16,Dark Purple,140
+2019-09-16,Dark Red,7495
+2019-09-16,Dark Turquoise,1759
+2019-09-16,Dark Yellow,1402
+2019-09-16,Gold,1415
+2019-09-16,Green,693
+2019-09-16,Greenish Khaki,3898
+2019-09-16,Grey,7145
+2019-09-16,Greyish Beige,1168
+2019-09-16,Light Beige,10806
+2019-09-16,Light Blue,3879
+2019-09-16,Light Green,242
+2019-09-16,Light Grey,3285
+2019-09-16,Light Orange,2391
+2019-09-16,Light Pink,4640
+2019-09-16,Light Purple,114
+2019-09-16,Light Red,58
+2019-09-16,Light Turquoise,278
+2019-09-16,Light Yellow,314
+2019-09-16,Off White,6460
+2019-09-16,Orange,2411
+2019-09-16,Other,25
+2019-09-16,Other Blue,29
+2019-09-16,Other Green,5
+2019-09-16,Other Orange,120
+2019-09-16,Other Pink,240
+2019-09-16,Other Purple,15
+2019-09-16,Other Red,54
+2019-09-16,Other Yellow,552
+2019-09-16,Pink,2890
+2019-09-16,Purple,51
+2019-09-16,Red,2535
+2019-09-16,Silver,644
+2019-09-16,Transparent,27
+2019-09-16,Turquoise,344
+2019-09-16,Unknown,12
+2019-09-16,White,16972
+2019-09-16,Yellow,3536
+2019-09-16,Yellowish Brown,7195
+2019-09-23,Beige,14851
+2019-09-23,Black,163679
+2019-09-23,Blue,10887
+2019-09-23,Bronze/Copper,40
+2019-09-23,Dark Beige,10011
+2019-09-23,Dark Blue,23291
+2019-09-23,Dark Green,14119
+2019-09-23,Dark Grey,10508
+2019-09-23,Dark Orange,3480
+2019-09-23,Dark Pink,3795
+2019-09-23,Dark Purple,226
+2019-09-23,Dark Red,15659
+2019-09-23,Dark Turquoise,3140
+2019-09-23,Dark Yellow,2472
+2019-09-23,Gold,2725
+2019-09-23,Green,895
+2019-09-23,Greenish Khaki,7262
+2019-09-23,Grey,14227
+2019-09-23,Greyish Beige,2277
+2019-09-23,Light Beige,19497
+2019-09-23,Light Blue,6197
+2019-09-23,Light Green,422
+2019-09-23,Light Grey,5684
+2019-09-23,Light Orange,3828
+2019-09-23,Light Pink,8374
+2019-09-23,Light Purple,188
+2019-09-23,Light Red,81
+2019-09-23,Light Turquoise,371
+2019-09-23,Light Yellow,540
+2019-09-23,Off White,10067
+2019-09-23,Orange,3227
+2019-09-23,Other,31
+2019-09-23,Other Blue,52
+2019-09-23,Other Green,8
+2019-09-23,Other Orange,126
+2019-09-23,Other Pink,374
+2019-09-23,Other Purple,10
+2019-09-23,Other Red,135
+2019-09-23,Other Turquoise,1
+2019-09-23,Other Yellow,584
+2019-09-23,Pink,5006
+2019-09-23,Purple,94
+2019-09-23,Red,4512
+2019-09-23,Silver,1004
+2019-09-23,Transparent,57
+2019-09-23,Turquoise,616
+2019-09-23,Unknown,10
+2019-09-23,White,27657
+2019-09-23,Yellow,7270
+2019-09-23,Yellowish Brown,13857
+2019-09-30,Beige,12129
+2019-09-30,Black,116411
+2019-09-30,Blue,8494
+2019-09-30,Bronze/Copper,35
+2019-09-30,Dark Beige,7096
+2019-09-30,Dark Blue,18209
+2019-09-30,Dark Green,10118
+2019-09-30,Dark Grey,7850
+2019-09-30,Dark Orange,2617
+2019-09-30,Dark Pink,2408
+2019-09-30,Dark Purple,138
+2019-09-30,Dark Red,10558
+2019-09-30,Dark Turquoise,2186
+2019-09-30,Dark Yellow,1950
+2019-09-30,Gold,1688
+2019-09-30,Green,740
+2019-09-30,Greenish Khaki,5649
+2019-09-30,Grey,11499
+2019-09-30,Greyish Beige,1459
+2019-09-30,Light Beige,14350
+2019-09-30,Light Blue,5602
+2019-09-30,Light Green,299
+2019-09-30,Light Grey,4691
+2019-09-30,Light Orange,2993
+2019-09-30,Light Pink,7870
+2019-09-30,Light Purple,312
+2019-09-30,Light Red,108
+2019-09-30,Light Turquoise,305
+2019-09-30,Light Yellow,641
+2019-09-30,Off White,7914
+2019-09-30,Orange,2285
+2019-09-30,Other,39
+2019-09-30,Other Blue,69
+2019-09-30,Other Green,7
+2019-09-30,Other Orange,114
+2019-09-30,Other Pink,239
+2019-09-30,Other Purple,14
+2019-09-30,Other Red,78
+2019-09-30,Other Yellow,457
+2019-09-30,Pink,4410
+2019-09-30,Purple,84
+2019-09-30,Red,4472
+2019-09-30,Silver,668
+2019-09-30,Transparent,44
+2019-09-30,Turquoise,392
+2019-09-30,Unknown,18
+2019-09-30,White,21411
+2019-09-30,Yellow,5854
+2019-09-30,Yellowish Brown,8747
+2019-10-07,Beige,9732
+2019-10-07,Black,99253
+2019-10-07,Blue,6850
+2019-10-07,Bronze/Copper,38
+2019-10-07,Dark Beige,5432
+2019-10-07,Dark Blue,14933
+2019-10-07,Dark Green,9272
+2019-10-07,Dark Grey,7215
+2019-10-07,Dark Orange,2200
+2019-10-07,Dark Pink,2016
+2019-10-07,Dark Purple,130
+2019-10-07,Dark Red,9717
+2019-10-07,Dark Turquoise,1810
+2019-10-07,Dark Yellow,1510
+2019-10-07,Gold,1482
+2019-10-07,Green,824
+2019-10-07,Greenish Khaki,4890
+2019-10-07,Grey,8859
+2019-10-07,Greyish Beige,1253
+2019-10-07,Light Beige,11427
+2019-10-07,Light Blue,4040
+2019-10-07,Light Green,236
+2019-10-07,Light Grey,3844
+2019-10-07,Light Orange,2349
+2019-10-07,Light Pink,5951
+2019-10-07,Light Purple,304
+2019-10-07,Light Red,93
+2019-10-07,Light Turquoise,259
+2019-10-07,Light Yellow,416
+2019-10-07,Off White,6144
+2019-10-07,Orange,1876
+2019-10-07,Other,25
+2019-10-07,Other Blue,58
+2019-10-07,Other Green,6
+2019-10-07,Other Orange,85
+2019-10-07,Other Pink,219
+2019-10-07,Other Purple,15
+2019-10-07,Other Red,61
+2019-10-07,Other Yellow,412
+2019-10-07,Pink,3366
+2019-10-07,Purple,39
+2019-10-07,Red,3696
+2019-10-07,Silver,591
+2019-10-07,Transparent,30
+2019-10-07,Turquoise,401
+2019-10-07,Unknown,27
+2019-10-07,White,17618
+2019-10-07,Yellow,4324
+2019-10-07,Yellowish Brown,7378
+2019-10-14,Beige,7637
+2019-10-14,Black,86344
+2019-10-14,Blue,5601
+2019-10-14,Bronze/Copper,41
+2019-10-14,Dark Beige,4252
+2019-10-14,Dark Blue,12775
+2019-10-14,Dark Green,8966
+2019-10-14,Dark Grey,6110
+2019-10-14,Dark Orange,1865
+2019-10-14,Dark Pink,1630
+2019-10-14,Dark Purple,139
+2019-10-14,Dark Red,9542
+2019-10-14,Dark Turquoise,1689
+2019-10-14,Dark Yellow,1440
+2019-10-14,Gold,1391
+2019-10-14,Green,464
+2019-10-14,Greenish Khaki,4618
+2019-10-14,Grey,7797
+2019-10-14,Greyish Beige,1083
+2019-10-14,Light Beige,8850
+2019-10-14,Light Blue,3283
+2019-10-14,Light Green,216
+2019-10-14,Light Grey,3458
+2019-10-14,Light Orange,2069
+2019-10-14,Light Pink,4936
+2019-10-14,Light Purple,179
+2019-10-14,Light Red,65
+2019-10-14,Light Turquoise,174
+2019-10-14,Light Yellow,332
+2019-10-14,Off White,4739
+2019-10-14,Orange,1474
+2019-10-14,Other,15
+2019-10-14,Other Blue,53
+2019-10-14,Other Green,5
+2019-10-14,Other Orange,67
+2019-10-14,Other Pink,163
+2019-10-14,Other Purple,9
+2019-10-14,Other Red,39
+2019-10-14,Other Turquoise,1
+2019-10-14,Other Yellow,374
+2019-10-14,Pink,2648
+2019-10-14,Purple,59
+2019-10-14,Red,3441
+2019-10-14,Silver,709
+2019-10-14,Transparent,30
+2019-10-14,Turquoise,321
+2019-10-14,Unknown,6
+2019-10-14,White,15156
+2019-10-14,Yellow,3290
+2019-10-14,Yellowish Brown,5899
+2019-10-21,Beige,8225
+2019-10-21,Black,95732
+2019-10-21,Blue,5321
+2019-10-21,Bronze/Copper,26
+2019-10-21,Dark Beige,4998
+2019-10-21,Dark Blue,13871
+2019-10-21,Dark Green,10132
+2019-10-21,Dark Grey,6353
+2019-10-21,Dark Orange,1946
+2019-10-21,Dark Pink,1693
+2019-10-21,Dark Purple,179
+2019-10-21,Dark Red,10898
+2019-10-21,Dark Turquoise,1924
+2019-10-21,Dark Yellow,1612
+2019-10-21,Gold,1829
+2019-10-21,Green,470
+2019-10-21,Greenish Khaki,5473
+2019-10-21,Grey,9144
+2019-10-21,Greyish Beige,1166
+2019-10-21,Light Beige,9819
+2019-10-21,Light Blue,3052
+2019-10-21,Light Green,203
+2019-10-21,Light Grey,3772
+2019-10-21,Light Orange,2513
+2019-10-21,Light Pink,4949
+2019-10-21,Light Purple,119
+2019-10-21,Light Red,46
+2019-10-21,Light Turquoise,201
+2019-10-21,Light Yellow,261
+2019-10-21,Off White,5618
+2019-10-21,Orange,1703
+2019-10-21,Other,5
+2019-10-21,Other Blue,44
+2019-10-21,Other Green,11
+2019-10-21,Other Orange,60
+2019-10-21,Other Pink,141
+2019-10-21,Other Purple,8
+2019-10-21,Other Red,55
+2019-10-21,Other Yellow,304
+2019-10-21,Pink,2961
+2019-10-21,Purple,49
+2019-10-21,Red,4077
+2019-10-21,Silver,829
+2019-10-21,Transparent,36
+2019-10-21,Turquoise,217
+2019-10-21,Unknown,11
+2019-10-21,White,15394
+2019-10-21,Yellow,3364
+2019-10-21,Yellowish Brown,6364
+2019-10-28,Beige,9915
+2019-10-28,Black,110040
+2019-10-28,Blue,5712
+2019-10-28,Bronze/Copper,38
+2019-10-28,Dark Beige,5692
+2019-10-28,Dark Blue,14758
+2019-10-28,Dark Green,12206
+2019-10-28,Dark Grey,8152
+2019-10-28,Dark Orange,2180
+2019-10-28,Dark Pink,1800
+2019-10-28,Dark Purple,193
+2019-10-28,Dark Red,13807
+2019-10-28,Dark Turquoise,2275
+2019-10-28,Dark Yellow,1747
+2019-10-28,Gold,1839
+2019-10-28,Green,885
+2019-10-28,Greenish Khaki,5374
+2019-10-28,Grey,10348
+2019-10-28,Greyish Beige,1411
+2019-10-28,Light Beige,11556
+2019-10-28,Light Blue,2847
+2019-10-28,Light Green,181
+2019-10-28,Light Grey,4041
+2019-10-28,Light Orange,2398
+2019-10-28,Light Pink,4790
+2019-10-28,Light Purple,165
+2019-10-28,Light Red,88
+2019-10-28,Light Turquoise,219
+2019-10-28,Light Yellow,261
+2019-10-28,Off White,6723
+2019-10-28,Orange,1657
+2019-10-28,Other,12
+2019-10-28,Other Blue,31
+2019-10-28,Other Green,65
+2019-10-28,Other Orange,48
+2019-10-28,Other Pink,323
+2019-10-28,Other Purple,10
+2019-10-28,Other Red,62
+2019-10-28,Other Yellow,319
+2019-10-28,Pink,2751
+2019-10-28,Purple,65
+2019-10-28,Red,5166
+2019-10-28,Silver,832
+2019-10-28,Transparent,39
+2019-10-28,Turquoise,217
+2019-10-28,Unknown,8
+2019-10-28,White,15761
+2019-10-28,Yellow,3281
+2019-10-28,Yellowish Brown,7405
+2019-11-04,Beige,6566
+2019-11-04,Black,81218
+2019-11-04,Blue,3980
+2019-11-04,Bronze/Copper,37
+2019-11-04,Dark Beige,3689
+2019-11-04,Dark Blue,10331
+2019-11-04,Dark Green,8877
+2019-11-04,Dark Grey,5544
+2019-11-04,Dark Orange,1337
+2019-11-04,Dark Pink,1238
+2019-11-04,Dark Purple,209
+2019-11-04,Dark Red,10316
+2019-11-04,Dark Turquoise,1387
+2019-11-04,Dark Yellow,1039
+2019-11-04,Gold,1452
+2019-11-04,Green,724
+2019-11-04,Greenish Khaki,3887
+2019-11-04,Grey,7200
+2019-11-04,Greyish Beige,823
+2019-11-04,Light Beige,7698
+2019-11-04,Light Blue,2241
+2019-11-04,Light Green,145
+2019-11-04,Light Grey,2811
+2019-11-04,Light Orange,1576
+2019-11-04,Light Pink,3619
+2019-11-04,Light Purple,91
+2019-11-04,Light Red,64
+2019-11-04,Light Turquoise,122
+2019-11-04,Light Yellow,211
+2019-11-04,Off White,4780
+2019-11-04,Orange,1021
+2019-11-04,Other,13
+2019-11-04,Other Blue,18
+2019-11-04,Other Green,92
+2019-11-04,Other Orange,33
+2019-11-04,Other Pink,203
+2019-11-04,Other Purple,10
+2019-11-04,Other Red,39
+2019-11-04,Other Yellow,287
+2019-11-04,Pink,2208
+2019-11-04,Purple,43
+2019-11-04,Red,4744
+2019-11-04,Silver,839
+2019-11-04,Transparent,45
+2019-11-04,Turquoise,175
+2019-11-04,Unknown,6
+2019-11-04,White,11925
+2019-11-04,Yellow,2235
+2019-11-04,Yellowish Brown,4494
+2019-11-11,Beige,7327
+2019-11-11,Black,84233
+2019-11-11,Blue,3763
+2019-11-11,Bronze/Copper,26
+2019-11-11,Dark Beige,3749
+2019-11-11,Dark Blue,10443
+2019-11-11,Dark Green,8488
+2019-11-11,Dark Grey,6185
+2019-11-11,Dark Orange,1226
+2019-11-11,Dark Pink,1239
+2019-11-11,Dark Purple,187
+2019-11-11,Dark Red,11442
+2019-11-11,Dark Turquoise,1256
+2019-11-11,Dark Yellow,1016
+2019-11-11,Gold,1468
+2019-11-11,Green,872
+2019-11-11,Greenish Khaki,3610
+2019-11-11,Grey,7439
+2019-11-11,Greyish Beige,952
+2019-11-11,Light Beige,7465
+2019-11-11,Light Blue,2365
+2019-11-11,Light Green,197
+2019-11-11,Light Grey,2871
+2019-11-11,Light Orange,1679
+2019-11-11,Light Pink,4065
+2019-11-11,Light Purple,109
+2019-11-11,Light Red,107
+2019-11-11,Light Turquoise,158
+2019-11-11,Light Yellow,206
+2019-11-11,Off White,5280
+2019-11-11,Orange,860
+2019-11-11,Other,27
+2019-11-11,Other Blue,14
+2019-11-11,Other Green,95
+2019-11-11,Other Orange,57
+2019-11-11,Other Pink,184
+2019-11-11,Other Purple,7
+2019-11-11,Other Red,31
+2019-11-11,Other Yellow,282
+2019-11-11,Pink,1978
+2019-11-11,Purple,82
+2019-11-11,Red,5353
+2019-11-11,Silver,875
+2019-11-11,Transparent,45
+2019-11-11,Turquoise,154
+2019-11-11,Unknown,7
+2019-11-11,White,11890
+2019-11-11,Yellow,2158
+2019-11-11,Yellowish Brown,4283
+2019-11-18,Beige,6388
+2019-11-18,Black,80836
+2019-11-18,Blue,3450
+2019-11-18,Bronze/Copper,51
+2019-11-18,Dark Beige,3291
+2019-11-18,Dark Blue,9980
+2019-11-18,Dark Green,7231
+2019-11-18,Dark Grey,5655
+2019-11-18,Dark Orange,1062
+2019-11-18,Dark Pink,1262
+2019-11-18,Dark Purple,197
+2019-11-18,Dark Red,11043
+2019-11-18,Dark Turquoise,1091
+2019-11-18,Dark Yellow,897
+2019-11-18,Gold,1531
+2019-11-18,Green,710
+2019-11-18,Greenish Khaki,2869
+2019-11-18,Grey,7185
+2019-11-18,Greyish Beige,931
+2019-11-18,Light Beige,6824
+2019-11-18,Light Blue,2192
+2019-11-18,Light Green,218
+2019-11-18,Light Grey,2859
+2019-11-18,Light Orange,1582
+2019-11-18,Light Pink,3425
+2019-11-18,Light Purple,111
+2019-11-18,Light Red,77
+2019-11-18,Light Turquoise,107
+2019-11-18,Light Yellow,182
+2019-11-18,Off White,4936
+2019-11-18,Orange,775
+2019-11-18,Other,33
+2019-11-18,Other Blue,11
+2019-11-18,Other Green,93
+2019-11-18,Other Orange,35
+2019-11-18,Other Pink,204
+2019-11-18,Other Purple,8
+2019-11-18,Other Red,44
+2019-11-18,Other Yellow,264
+2019-11-18,Pink,1875
+2019-11-18,Purple,107
+2019-11-18,Red,5370
+2019-11-18,Silver,914
+2019-11-18,Transparent,53
+2019-11-18,Turquoise,143
+2019-11-18,Unknown,7
+2019-11-18,White,10954
+2019-11-18,Yellow,1905
+2019-11-18,Yellowish Brown,3934
+2019-11-25,Beige,19162
+2019-11-25,Black,201620
+2019-11-25,Blue,11460
+2019-11-25,Bronze/Copper,115
+2019-11-25,Dark Beige,11097
+2019-11-25,Dark Blue,26624
+2019-11-25,Dark Green,14959
+2019-11-25,Dark Grey,15973
+2019-11-25,Dark Orange,2345
+2019-11-25,Dark Pink,3009
+2019-11-25,Dark Purple,486
+2019-11-25,Dark Red,27184
+2019-11-25,Dark Turquoise,3183
+2019-11-25,Dark Yellow,2388
+2019-11-25,Gold,3424
+2019-11-25,Green,1913
+2019-11-25,Greenish Khaki,7512
+2019-11-25,Grey,19722
+2019-11-25,Greyish Beige,3905
+2019-11-25,Light Beige,19842
+2019-11-25,Light Blue,6100
+2019-11-25,Light Green,500
+2019-11-25,Light Grey,8514
+2019-11-25,Light Orange,4708
+2019-11-25,Light Pink,10555
+2019-11-25,Light Purple,283
+2019-11-25,Light Red,150
+2019-11-25,Light Turquoise,309
+2019-11-25,Light Yellow,543
+2019-11-25,Off White,13272
+2019-11-25,Orange,1813
+2019-11-25,Other,49
+2019-11-25,Other Blue,27
+2019-11-25,Other Green,129
+2019-11-25,Other Orange,103
+2019-11-25,Other Pink,332
+2019-11-25,Other Purple,10
+2019-11-25,Other Red,86
+2019-11-25,Other Turquoise,1
+2019-11-25,Other Yellow,709
+2019-11-25,Pink,4915
+2019-11-25,Purple,206
+2019-11-25,Red,12664
+2019-11-25,Silver,1840
+2019-11-25,Transparent,151
+2019-11-25,Turquoise,352
+2019-11-25,Unknown,22
+2019-11-25,White,28665
+2019-11-25,Yellow,6053
+2019-11-25,Yellowish Brown,10945
+2019-12-02,Beige,6841
+2019-12-02,Black,87698
+2019-12-02,Blue,5234
+2019-12-02,Bronze/Copper,88
+2019-12-02,Dark Beige,3029
+2019-12-02,Dark Blue,9775
+2019-12-02,Dark Green,4892
+2019-12-02,Dark Grey,6035
+2019-12-02,Dark Orange,1031
+2019-12-02,Dark Pink,1279
+2019-12-02,Dark Purple,227
+2019-12-02,Dark Red,10002
+2019-12-02,Dark Turquoise,989
+2019-12-02,Dark Yellow,844
+2019-12-02,Gold,2477
+2019-12-02,Green,459
+2019-12-02,Greenish Khaki,2766
+2019-12-02,Grey,7270
+2019-12-02,Greyish Beige,1027
+2019-12-02,Light Beige,9623
+2019-12-02,Light Blue,2366
+2019-12-02,Light Green,263
+2019-12-02,Light Grey,3354
+2019-12-02,Light Orange,1952
+2019-12-02,Light Pink,4039
+2019-12-02,Light Purple,92
+2019-12-02,Light Red,54
+2019-12-02,Light Turquoise,148
+2019-12-02,Light Yellow,350
+2019-12-02,Off White,4643
+2019-12-02,Orange,820
+2019-12-02,Other,18
+2019-12-02,Other Blue,11
+2019-12-02,Other Green,32
+2019-12-02,Other Orange,46
+2019-12-02,Other Pink,164
+2019-12-02,Other Purple,5
+2019-12-02,Other Red,39
+2019-12-02,Other Yellow,330
+2019-12-02,Pink,1956
+2019-12-02,Purple,114
+2019-12-02,Red,5052
+2019-12-02,Silver,1147
+2019-12-02,Transparent,136
+2019-12-02,Turquoise,160
+2019-12-02,Unknown,13
+2019-12-02,White,11940
+2019-12-02,Yellow,2124
+2019-12-02,Yellowish Brown,4367
+2019-12-09,Beige,6430
+2019-12-09,Black,95302
+2019-12-09,Blue,4011
+2019-12-09,Bronze/Copper,100
+2019-12-09,Dark Beige,2302
+2019-12-09,Dark Blue,10396
+2019-12-09,Dark Green,5507
+2019-12-09,Dark Grey,5033
+2019-12-09,Dark Orange,1016
+2019-12-09,Dark Pink,1194
+2019-12-09,Dark Purple,230
+2019-12-09,Dark Red,8614
+2019-12-09,Dark Turquoise,947
+2019-12-09,Dark Yellow,617
+2019-12-09,Gold,2463
+2019-12-09,Green,458
+2019-12-09,Greenish Khaki,2256
+2019-12-09,Grey,6035
+2019-12-09,Greyish Beige,863
+2019-12-09,Light Beige,8270
+2019-12-09,Light Blue,2268
+2019-12-09,Light Green,287
+2019-12-09,Light Grey,2902
+2019-12-09,Light Orange,1389
+2019-12-09,Light Pink,3559
+2019-12-09,Light Purple,235
+2019-12-09,Light Red,50
+2019-12-09,Light Turquoise,155
+2019-12-09,Light Yellow,349
+2019-12-09,Off White,4447
+2019-12-09,Orange,784
+2019-12-09,Other,22
+2019-12-09,Other Blue,28
+2019-12-09,Other Green,45
+2019-12-09,Other Orange,64
+2019-12-09,Other Pink,173
+2019-12-09,Other Purple,7
+2019-12-09,Other Red,32
+2019-12-09,Other Yellow,372
+2019-12-09,Pink,2370
+2019-12-09,Purple,134
+2019-12-09,Red,5601
+2019-12-09,Silver,1511
+2019-12-09,Transparent,140
+2019-12-09,Turquoise,146
+2019-12-09,Unknown,6
+2019-12-09,White,11447
+2019-12-09,Yellow,1659
+2019-12-09,Yellowish Brown,4007
+2019-12-16,Beige,12385
+2019-12-16,Black,133833
+2019-12-16,Blue,5932
+2019-12-16,Bronze/Copper,117
+2019-12-16,Dark Beige,5261
+2019-12-16,Dark Blue,21687
+2019-12-16,Dark Green,9266
+2019-12-16,Dark Grey,8656
+2019-12-16,Dark Orange,1758
+2019-12-16,Dark Pink,2576
+2019-12-16,Dark Purple,311
+2019-12-16,Dark Red,15460
+2019-12-16,Dark Turquoise,1902
+2019-12-16,Dark Yellow,1914
+2019-12-16,Gold,3609
+2019-12-16,Green,925
+2019-12-16,Greenish Khaki,6642
+2019-12-16,Grey,10463
+2019-12-16,Greyish Beige,2029
+2019-12-16,Light Beige,13482
+2019-12-16,Light Blue,3570
+2019-12-16,Light Green,517
+2019-12-16,Light Grey,5477
+2019-12-16,Light Orange,2543
+2019-12-16,Light Pink,6716
+2019-12-16,Light Purple,277
+2019-12-16,Light Red,142
+2019-12-16,Light Turquoise,264
+2019-12-16,Light Yellow,535
+2019-12-16,Off White,7323
+2019-12-16,Orange,1633
+2019-12-16,Other,68
+2019-12-16,Other Blue,62
+2019-12-16,Other Green,55
+2019-12-16,Other Orange,82
+2019-12-16,Other Pink,307
+2019-12-16,Other Purple,8
+2019-12-16,Other Red,53
+2019-12-16,Other Yellow,480
+2019-12-16,Pink,4085
+2019-12-16,Purple,272
+2019-12-16,Red,9799
+2019-12-16,Silver,1968
+2019-12-16,Transparent,175
+2019-12-16,Turquoise,245
+2019-12-16,Unknown,9
+2019-12-16,White,22115
+2019-12-16,Yellow,4092
+2019-12-16,Yellowish Brown,7664
+2019-12-23,Beige,8624
+2019-12-23,Black,95450
+2019-12-23,Blue,4849
+2019-12-23,Bronze/Copper,46
+2019-12-23,Dark Beige,3462
+2019-12-23,Dark Blue,14841
+2019-12-23,Dark Green,5644
+2019-12-23,Dark Grey,6712
+2019-12-23,Dark Orange,1371
+2019-12-23,Dark Pink,1929
+2019-12-23,Dark Purple,209
+2019-12-23,Dark Red,9644
+2019-12-23,Dark Turquoise,1265
+2019-12-23,Dark Yellow,1108
+2019-12-23,Gold,2577
+2019-12-23,Green,528
+2019-12-23,Greenish Khaki,4755
+2019-12-23,Grey,7452
+2019-12-23,Greyish Beige,1074
+2019-12-23,Light Beige,8665
+2019-12-23,Light Blue,3048
+2019-12-23,Light Green,392
+2019-12-23,Light Grey,4093
+2019-12-23,Light Orange,1814
+2019-12-23,Light Pink,5088
+2019-12-23,Light Purple,284
+2019-12-23,Light Red,88
+2019-12-23,Light Turquoise,243
+2019-12-23,Light Yellow,502
+2019-12-23,Off White,5369
+2019-12-23,Orange,1233
+2019-12-23,Other,19
+2019-12-23,Other Blue,48
+2019-12-23,Other Green,78
+2019-12-23,Other Orange,57
+2019-12-23,Other Pink,340
+2019-12-23,Other Purple,10
+2019-12-23,Other Red,39
+2019-12-23,Other Yellow,338
+2019-12-23,Pink,3521
+2019-12-23,Purple,162
+2019-12-23,Red,5142
+2019-12-23,Silver,1310
+2019-12-23,Transparent,149
+2019-12-23,Turquoise,205
+2019-12-23,Unknown,7
+2019-12-23,White,16663
+2019-12-23,Yellow,2980
+2019-12-23,Yellowish Brown,4814
+2019-12-30,Beige,8939
+2019-12-30,Black,97515
+2019-12-30,Blue,5644
+2019-12-30,Bronze/Copper,70
+2019-12-30,Dark Beige,3810
+2019-12-30,Dark Blue,13821
+2019-12-30,Dark Green,4903
+2019-12-30,Dark Grey,7514
+2019-12-30,Dark Orange,1393
+2019-12-30,Dark Pink,1858
+2019-12-30,Dark Purple,197
+2019-12-30,Dark Red,9302
+2019-12-30,Dark Turquoise,1123
+2019-12-30,Dark Yellow,802
+2019-12-30,Gold,1670
+2019-12-30,Green,742
+2019-12-30,Greenish Khaki,4944
+2019-12-30,Grey,7898
+2019-12-30,Greyish Beige,1225
+2019-12-30,Light Beige,8961
+2019-12-30,Light Blue,3561
+2019-12-30,Light Green,450
+2019-12-30,Light Grey,4040
+2019-12-30,Light Orange,2116
+2019-12-30,Light Pink,5605
+2019-12-30,Light Purple,358
+2019-12-30,Light Red,71
+2019-12-30,Light Turquoise,199
+2019-12-30,Light Yellow,740
+2019-12-30,Off White,5539
+2019-12-30,Orange,1094
+2019-12-30,Other,21
+2019-12-30,Other Blue,43
+2019-12-30,Other Green,89
+2019-12-30,Other Orange,75
+2019-12-30,Other Pink,439
+2019-12-30,Other Purple,14
+2019-12-30,Other Red,39
+2019-12-30,Other Yellow,394
+2019-12-30,Pink,4364
+2019-12-30,Purple,68
+2019-12-30,Red,5426
+2019-12-30,Silver,863
+2019-12-30,Transparent,87
+2019-12-30,Turquoise,287
+2019-12-30,Unknown,25
+2019-12-30,White,17003
+2019-12-30,Yellow,2805
+2019-12-30,Yellowish Brown,4296
+2020-01-06,Beige,8926
+2020-01-06,Black,97341
+2020-01-06,Blue,5571
+2020-01-06,Bronze/Copper,61
+2020-01-06,Dark Beige,3515
+2020-01-06,Dark Blue,13150
+2020-01-06,Dark Green,4755
+2020-01-06,Dark Grey,7852
+2020-01-06,Dark Orange,1615
+2020-01-06,Dark Pink,2093
+2020-01-06,Dark Purple,157
+2020-01-06,Dark Red,8225
+2020-01-06,Dark Turquoise,751
+2020-01-06,Dark Yellow,715
+2020-01-06,Gold,1206
+2020-01-06,Green,914
+2020-01-06,Greenish Khaki,4780
+2020-01-06,Grey,7220
+2020-01-06,Greyish Beige,1029
+2020-01-06,Light Beige,8942
+2020-01-06,Light Blue,3947
+2020-01-06,Light Green,441
+2020-01-06,Light Grey,3685
+2020-01-06,Light Orange,2419
+2020-01-06,Light Pink,6208
+2020-01-06,Light Purple,542
+2020-01-06,Light Red,91
+2020-01-06,Light Turquoise,285
+2020-01-06,Light Yellow,1105
+2020-01-06,Off White,5133
+2020-01-06,Orange,1120
+2020-01-06,Other,22
+2020-01-06,Other Blue,26
+2020-01-06,Other Green,76
+2020-01-06,Other Orange,87
+2020-01-06,Other Pink,554
+2020-01-06,Other Purple,14
+2020-01-06,Other Red,49
+2020-01-06,Other Yellow,596
+2020-01-06,Pink,4822
+2020-01-06,Purple,43
+2020-01-06,Red,4656
+2020-01-06,Silver,650
+2020-01-06,Transparent,61
+2020-01-06,Turquoise,309
+2020-01-06,Unknown,2
+2020-01-06,White,16985
+2020-01-06,Yellow,2924
+2020-01-06,Yellowish Brown,4047
+2020-01-13,Beige,9055
+2020-01-13,Black,90792
+2020-01-13,Blue,5370
+2020-01-13,Bronze/Copper,69
+2020-01-13,Dark Beige,3543
+2020-01-13,Dark Blue,11941
+2020-01-13,Dark Green,4954
+2020-01-13,Dark Grey,7179
+2020-01-13,Dark Orange,1531
+2020-01-13,Dark Pink,2002
+2020-01-13,Dark Purple,140
+2020-01-13,Dark Red,5848
+2020-01-13,Dark Turquoise,584
+2020-01-13,Dark Yellow,534
+2020-01-13,Gold,1418
+2020-01-13,Green,1060
+2020-01-13,Greenish Khaki,4821
+2020-01-13,Grey,6604
+2020-01-13,Greyish Beige,753
+2020-01-13,Light Beige,7978
+2020-01-13,Light Blue,4500
+2020-01-13,Light Green,511
+2020-01-13,Light Grey,3170
+2020-01-13,Light Orange,2163
+2020-01-13,Light Pink,6089
+2020-01-13,Light Purple,549
+2020-01-13,Light Red,122
+2020-01-13,Light Turquoise,225
+2020-01-13,Light Yellow,1153
+2020-01-13,Off White,5015
+2020-01-13,Orange,920
+2020-01-13,Other,23
+2020-01-13,Other Blue,23
+2020-01-13,Other Green,117
+2020-01-13,Other Orange,84
+2020-01-13,Other Pink,440
+2020-01-13,Other Purple,5
+2020-01-13,Other Red,36
+2020-01-13,Other Yellow,618
+2020-01-13,Pink,5228
+2020-01-13,Purple,47
+2020-01-13,Red,4134
+2020-01-13,Silver,683
+2020-01-13,Transparent,44
+2020-01-13,Turquoise,348
+2020-01-13,Unknown,10
+2020-01-13,White,16620
+2020-01-13,Yellow,2761
+2020-01-13,Yellowish Brown,3469
+2020-01-20,Beige,11382
+2020-01-20,Black,97150
+2020-01-20,Blue,6650
+2020-01-20,Bronze/Copper,44
+2020-01-20,Dark Beige,4849
+2020-01-20,Dark Blue,12180
+2020-01-20,Dark Green,5907
+2020-01-20,Dark Grey,7381
+2020-01-20,Dark Orange,1589
+2020-01-20,Dark Pink,2007
+2020-01-20,Dark Purple,117
+2020-01-20,Dark Red,5571
+2020-01-20,Dark Turquoise,686
+2020-01-20,Dark Yellow,546
+2020-01-20,Gold,1700
+2020-01-20,Green,1230
+2020-01-20,Greenish Khaki,5912
+2020-01-20,Grey,7373
+2020-01-20,Greyish Beige,707
+2020-01-20,Light Beige,9163
+2020-01-20,Light Blue,5226
+2020-01-20,Light Green,623
+2020-01-20,Light Grey,3341
+2020-01-20,Light Orange,2599
+2020-01-20,Light Pink,7576
+2020-01-20,Light Purple,872
+2020-01-20,Light Red,106
+2020-01-20,Light Turquoise,271
+2020-01-20,Light Yellow,1334
+2020-01-20,Off White,6080
+2020-01-20,Orange,1032
+2020-01-20,Other,35
+2020-01-20,Other Blue,32
+2020-01-20,Other Green,509
+2020-01-20,Other Orange,60
+2020-01-20,Other Pink,526
+2020-01-20,Other Purple,18
+2020-01-20,Other Red,47
+2020-01-20,Other Yellow,620
+2020-01-20,Pink,6449
+2020-01-20,Purple,67
+2020-01-20,Red,4466
+2020-01-20,Silver,901
+2020-01-20,Transparent,49
+2020-01-20,Turquoise,269
+2020-01-20,Unknown,14
+2020-01-20,White,18950
+2020-01-20,Yellow,2931
+2020-01-20,Yellowish Brown,3807
+2020-01-27,Beige,11066
+2020-01-27,Black,95272
+2020-01-27,Blue,7238
+2020-01-27,Bronze/Copper,38
+2020-01-27,Dark Beige,4512
+2020-01-27,Dark Blue,12118
+2020-01-27,Dark Green,5717
+2020-01-27,Dark Grey,6697
+2020-01-27,Dark Orange,1514
+2020-01-27,Dark Pink,1815
+2020-01-27,Dark Purple,90
+2020-01-27,Dark Red,4832
+2020-01-27,Dark Turquoise,622
+2020-01-27,Dark Yellow,510
+2020-01-27,Gold,1684
+2020-01-27,Green,1233
+2020-01-27,Greenish Khaki,6608
+2020-01-27,Grey,6817
+2020-01-27,Greyish Beige,703
+2020-01-27,Light Beige,9092
+2020-01-27,Light Blue,6060
+2020-01-27,Light Green,581
+2020-01-27,Light Grey,3436
+2020-01-27,Light Orange,2638
+2020-01-27,Light Pink,7321
+2020-01-27,Light Purple,1064
+2020-01-27,Light Red,159
+2020-01-27,Light Turquoise,261
+2020-01-27,Light Yellow,1549
+2020-01-27,Off White,5828
+2020-01-27,Orange,1053
+2020-01-27,Other,20
+2020-01-27,Other Blue,22
+2020-01-27,Other Green,465
+2020-01-27,Other Orange,71
+2020-01-27,Other Pink,481
+2020-01-27,Other Purple,16
+2020-01-27,Other Red,51
+2020-01-27,Other Yellow,575
+2020-01-27,Pink,6743
+2020-01-27,Purple,63
+2020-01-27,Red,4122
+2020-01-27,Silver,985
+2020-01-27,Transparent,60
+2020-01-27,Turquoise,219
+2020-01-27,Unknown,12
+2020-01-27,White,18852
+2020-01-27,Yellow,2336
+2020-01-27,Yellowish Brown,3449
+2020-02-03,Beige,10660
+2020-02-03,Black,95768
+2020-02-03,Blue,7745
+2020-02-03,Bronze/Copper,42
+2020-02-03,Dark Beige,3932
+2020-02-03,Dark Blue,11983
+2020-02-03,Dark Green,6118
+2020-02-03,Dark Grey,6192
+2020-02-03,Dark Orange,1765
+2020-02-03,Dark Pink,1396
+2020-02-03,Dark Purple,137
+2020-02-03,Dark Red,4779
+2020-02-03,Dark Turquoise,559
+2020-02-03,Dark Yellow,531
+2020-02-03,Gold,1932
+2020-02-03,Green,1441
+2020-02-03,Greenish Khaki,7452
+2020-02-03,Grey,6508
+2020-02-03,Greyish Beige,572
+2020-02-03,Light Beige,8975
+2020-02-03,Light Blue,6465
+2020-02-03,Light Green,829
+2020-02-03,Light Grey,3497
+2020-02-03,Light Orange,2753
+2020-02-03,Light Pink,7823
+2020-02-03,Light Purple,1276
+2020-02-03,Light Red,261
+2020-02-03,Light Turquoise,248
+2020-02-03,Light Yellow,1688
+2020-02-03,Off White,6046
+2020-02-03,Orange,1009
+2020-02-03,Other,8
+2020-02-03,Other Blue,24
+2020-02-03,Other Green,445
+2020-02-03,Other Orange,55
+2020-02-03,Other Pink,618
+2020-02-03,Other Purple,20
+2020-02-03,Other Red,67
+2020-02-03,Other Turquoise,1
+2020-02-03,Other Yellow,666
+2020-02-03,Pink,6675
+2020-02-03,Purple,125
+2020-02-03,Red,4970
+2020-02-03,Silver,971
+2020-02-03,Transparent,52
+2020-02-03,Turquoise,218
+2020-02-03,Unknown,10
+2020-02-03,White,19974
+2020-02-03,Yellow,2491
+2020-02-03,Yellowish Brown,3295
+2020-02-10,Beige,9168
+2020-02-10,Black,86827
+2020-02-10,Blue,7133
+2020-02-10,Bronze/Copper,39
+2020-02-10,Dark Beige,3364
+2020-02-10,Dark Blue,10838
+2020-02-10,Dark Green,5672
+2020-02-10,Dark Grey,5396
+2020-02-10,Dark Orange,1593
+2020-02-10,Dark Pink,1105
+2020-02-10,Dark Purple,182
+2020-02-10,Dark Red,3856
+2020-02-10,Dark Turquoise,480
+2020-02-10,Dark Yellow,473
+2020-02-10,Gold,1914
+2020-02-10,Green,1266
+2020-02-10,Greenish Khaki,6543
+2020-02-10,Grey,5462
+2020-02-10,Greyish Beige,497
+2020-02-10,Light Beige,8227
+2020-02-10,Light Blue,5794
+2020-02-10,Light Green,825
+2020-02-10,Light Grey,3180
+2020-02-10,Light Orange,2292
+2020-02-10,Light Pink,7466
+2020-02-10,Light Purple,1234
+2020-02-10,Light Red,296
+2020-02-10,Light Turquoise,221
+2020-02-10,Light Yellow,1597
+2020-02-10,Off White,5585
+2020-02-10,Orange,951
+2020-02-10,Other,11
+2020-02-10,Other Blue,24
+2020-02-10,Other Green,418
+2020-02-10,Other Orange,76
+2020-02-10,Other Pink,518
+2020-02-10,Other Purple,11
+2020-02-10,Other Red,61
+2020-02-10,Other Yellow,600
+2020-02-10,Pink,6544
+2020-02-10,Purple,154
+2020-02-10,Red,5201
+2020-02-10,Silver,1033
+2020-02-10,Transparent,43
+2020-02-10,Turquoise,219
+2020-02-10,Unknown,10
+2020-02-10,White,19456
+2020-02-10,Yellow,2389
+2020-02-10,Yellowish Brown,2846
+2020-02-17,Beige,9064
+2020-02-17,Black,85584
+2020-02-17,Blue,7417
+2020-02-17,Bronze/Copper,34
+2020-02-17,Dark Beige,3415
+2020-02-17,Dark Blue,10604
+2020-02-17,Dark Green,6279
+2020-02-17,Dark Grey,5148
+2020-02-17,Dark Orange,1318
+2020-02-17,Dark Pink,1371
+2020-02-17,Dark Purple,247
+2020-02-17,Dark Red,3491
+2020-02-17,Dark Turquoise,447
+2020-02-17,Dark Yellow,731
+2020-02-17,Gold,2135
+2020-02-17,Green,1382
+2020-02-17,Greenish Khaki,6541
+2020-02-17,Grey,5332
+2020-02-17,Greyish Beige,547
+2020-02-17,Light Beige,9058
+2020-02-17,Light Blue,5921
+2020-02-17,Light Green,864
+2020-02-17,Light Grey,3055
+2020-02-17,Light Orange,2583
+2020-02-17,Light Pink,7476
+2020-02-17,Light Purple,1623
+2020-02-17,Light Red,366
+2020-02-17,Light Turquoise,336
+2020-02-17,Light Yellow,1485
+2020-02-17,Off White,6238
+2020-02-17,Orange,961
+2020-02-17,Other,7
+2020-02-17,Other Blue,115
+2020-02-17,Other Green,418
+2020-02-17,Other Orange,98
+2020-02-17,Other Pink,1101
+2020-02-17,Other Purple,10
+2020-02-17,Other Red,72
+2020-02-17,Other Yellow,519
+2020-02-17,Pink,6163
+2020-02-17,Purple,182
+2020-02-17,Red,4863
+2020-02-17,Silver,1127
+2020-02-17,Transparent,52
+2020-02-17,Turquoise,201
+2020-02-17,Unknown,6
+2020-02-17,White,19928
+2020-02-17,Yellow,2269
+2020-02-17,Yellowish Brown,2683
+2020-02-24,Beige,9726
+2020-02-24,Black,94331
+2020-02-24,Blue,9126
+2020-02-24,Bronze/Copper,70
+2020-02-24,Dark Beige,3642
+2020-02-24,Dark Blue,12922
+2020-02-24,Dark Green,7200
+2020-02-24,Dark Grey,5321
+2020-02-24,Dark Orange,1541
+2020-02-24,Dark Pink,1421
+2020-02-24,Dark Purple,204
+2020-02-24,Dark Red,3739
+2020-02-24,Dark Turquoise,422
+2020-02-24,Dark Yellow,720
+2020-02-24,Gold,2222
+2020-02-24,Green,2438
+2020-02-24,Greenish Khaki,7581
+2020-02-24,Grey,5692
+2020-02-24,Greyish Beige,509
+2020-02-24,Light Beige,10427
+2020-02-24,Light Blue,7242
+2020-02-24,Light Green,1199
+2020-02-24,Light Grey,3177
+2020-02-24,Light Orange,2937
+2020-02-24,Light Pink,8223
+2020-02-24,Light Purple,2499
+2020-02-24,Light Red,588
+2020-02-24,Light Turquoise,285
+2020-02-24,Light Yellow,1673
+2020-02-24,Off White,6661
+2020-02-24,Orange,931
+2020-02-24,Other,7
+2020-02-24,Other Blue,29
+2020-02-24,Other Green,491
+2020-02-24,Other Orange,83
+2020-02-24,Other Pink,676
+2020-02-24,Other Purple,15
+2020-02-24,Other Red,53
+2020-02-24,Other Yellow,466
+2020-02-24,Pink,6667
+2020-02-24,Purple,183
+2020-02-24,Red,5404
+2020-02-24,Silver,1311
+2020-02-24,Transparent,74
+2020-02-24,Turquoise,178
+2020-02-24,Unknown,6
+2020-02-24,White,22820
+2020-02-24,Yellow,2585
+2020-02-24,Yellowish Brown,2796
+2020-03-02,Beige,11795
+2020-03-02,Black,106698
+2020-03-02,Blue,9427
+2020-03-02,Bronze/Copper,90
+2020-03-02,Dark Beige,3827
+2020-03-02,Dark Blue,14516
+2020-03-02,Dark Green,6626
+2020-03-02,Dark Grey,5848
+2020-03-02,Dark Orange,2129
+2020-03-02,Dark Pink,1534
+2020-03-02,Dark Purple,185
+2020-03-02,Dark Red,4152
+2020-03-02,Dark Turquoise,490
+2020-03-02,Dark Yellow,864
+2020-03-02,Gold,2763
+2020-03-02,Green,2533
+2020-03-02,Greenish Khaki,7945
+2020-03-02,Grey,5734
+2020-03-02,Greyish Beige,618
+2020-03-02,Light Beige,13095
+2020-03-02,Light Blue,7953
+2020-03-02,Light Green,1518
+2020-03-02,Light Grey,4113
+2020-03-02,Light Orange,4018
+2020-03-02,Light Pink,9840
+2020-03-02,Light Purple,2397
+2020-03-02,Light Red,586
+2020-03-02,Light Turquoise,501
+2020-03-02,Light Yellow,2103
+2020-03-02,Off White,8113
+2020-03-02,Orange,1549
+2020-03-02,Other,16
+2020-03-02,Other Blue,48
+2020-03-02,Other Green,618
+2020-03-02,Other Orange,189
+2020-03-02,Other Pink,815
+2020-03-02,Other Purple,8
+2020-03-02,Other Red,73
+2020-03-02,Other Yellow,407
+2020-03-02,Pink,8326
+2020-03-02,Purple,184
+2020-03-02,Red,6613
+2020-03-02,Silver,1530
+2020-03-02,Transparent,86
+2020-03-02,Turquoise,252
+2020-03-02,Unknown,8
+2020-03-02,White,25047
+2020-03-02,Yellow,3946
+2020-03-02,Yellowish Brown,3397
+2020-03-09,Beige,9057
+2020-03-09,Black,80775
+2020-03-09,Blue,8075
+2020-03-09,Bronze/Copper,94
+2020-03-09,Dark Beige,3056
+2020-03-09,Dark Blue,11706
+2020-03-09,Dark Green,4778
+2020-03-09,Dark Grey,4466
+2020-03-09,Dark Orange,1925
+2020-03-09,Dark Pink,1233
+2020-03-09,Dark Purple,134
+2020-03-09,Dark Red,2824
+2020-03-09,Dark Turquoise,404
+2020-03-09,Dark Yellow,716
+2020-03-09,Gold,2056
+2020-03-09,Green,2144
+2020-03-09,Greenish Khaki,7004
+2020-03-09,Grey,5568
+2020-03-09,Greyish Beige,537
+2020-03-09,Light Beige,11221
+2020-03-09,Light Blue,6908
+2020-03-09,Light Green,994
+2020-03-09,Light Grey,3062
+2020-03-09,Light Orange,3539
+2020-03-09,Light Pink,7785
+2020-03-09,Light Purple,1933
+2020-03-09,Light Red,647
+2020-03-09,Light Turquoise,424
+2020-03-09,Light Yellow,1695
+2020-03-09,Off White,6379
+2020-03-09,Orange,1195
+2020-03-09,Other,20
+2020-03-09,Other Blue,20
+2020-03-09,Other Green,490
+2020-03-09,Other Orange,201
+2020-03-09,Other Pink,812
+2020-03-09,Other Purple,7
+2020-03-09,Other Red,58
+2020-03-09,Other Yellow,364
+2020-03-09,Pink,5654
+2020-03-09,Purple,172
+2020-03-09,Red,5195
+2020-03-09,Silver,1125
+2020-03-09,Transparent,36
+2020-03-09,Turquoise,260
+2020-03-09,Unknown,5
+2020-03-09,White,21918
+2020-03-09,Yellow,3225
+2020-03-09,Yellowish Brown,3206
+2020-03-16,Beige,7345
+2020-03-16,Black,61927
+2020-03-16,Blue,6865
+2020-03-16,Bronze/Copper,117
+2020-03-16,Dark Beige,2004
+2020-03-16,Dark Blue,8411
+2020-03-16,Dark Green,2915
+2020-03-16,Dark Grey,3559
+2020-03-16,Dark Orange,1791
+2020-03-16,Dark Pink,1084
+2020-03-16,Dark Purple,166
+2020-03-16,Dark Red,1549
+2020-03-16,Dark Turquoise,219
+2020-03-16,Dark Yellow,599
+2020-03-16,Gold,1511
+2020-03-16,Green,1872
+2020-03-16,Greenish Khaki,5841
+2020-03-16,Grey,4583
+2020-03-16,Greyish Beige,230
+2020-03-16,Light Beige,8207
+2020-03-16,Light Blue,6049
+2020-03-16,Light Green,859
+2020-03-16,Light Grey,2283
+2020-03-16,Light Orange,2770
+2020-03-16,Light Pink,5921
+2020-03-16,Light Purple,1660
+2020-03-16,Light Red,455
+2020-03-16,Light Turquoise,363
+2020-03-16,Light Yellow,1875
+2020-03-16,Off White,5313
+2020-03-16,Orange,729
+2020-03-16,Other,7
+2020-03-16,Other Blue,10
+2020-03-16,Other Green,253
+2020-03-16,Other Orange,143
+2020-03-16,Other Pink,556
+2020-03-16,Other Purple,4
+2020-03-16,Other Red,29
+2020-03-16,Other Yellow,256
+2020-03-16,Pink,4500
+2020-03-16,Purple,67
+2020-03-16,Red,4101
+2020-03-16,Silver,569
+2020-03-16,Transparent,15
+2020-03-16,Turquoise,144
+2020-03-16,Unknown,5
+2020-03-16,White,19303
+2020-03-16,Yellow,2352
+2020-03-16,Yellowish Brown,2270
+2020-03-23,Beige,10064
+2020-03-23,Black,75675
+2020-03-23,Blue,9365
+2020-03-23,Bronze/Copper,135
+2020-03-23,Dark Beige,2278
+2020-03-23,Dark Blue,10165
+2020-03-23,Dark Green,3059
+2020-03-23,Dark Grey,4206
+2020-03-23,Dark Orange,2323
+2020-03-23,Dark Pink,1127
+2020-03-23,Dark Purple,218
+2020-03-23,Dark Red,1618
+2020-03-23,Dark Turquoise,207
+2020-03-23,Dark Yellow,799
+2020-03-23,Gold,1526
+2020-03-23,Green,1944
+2020-03-23,Greenish Khaki,8420
+2020-03-23,Grey,5868
+2020-03-23,Greyish Beige,207
+2020-03-23,Light Beige,9618
+2020-03-23,Light Blue,7464
+2020-03-23,Light Green,1182
+2020-03-23,Light Grey,3061
+2020-03-23,Light Orange,3235
+2020-03-23,Light Pink,7161
+2020-03-23,Light Purple,1582
+2020-03-23,Light Red,815
+2020-03-23,Light Turquoise,438
+2020-03-23,Light Yellow,2103
+2020-03-23,Off White,6898
+2020-03-23,Orange,740
+2020-03-23,Other,5
+2020-03-23,Other Blue,14
+2020-03-23,Other Green,340
+2020-03-23,Other Orange,121
+2020-03-23,Other Pink,577
+2020-03-23,Other Purple,3
+2020-03-23,Other Red,23
+2020-03-23,Other Yellow,394
+2020-03-23,Pink,4944
+2020-03-23,Purple,63
+2020-03-23,Red,5384
+2020-03-23,Silver,507
+2020-03-23,Transparent,31
+2020-03-23,Turquoise,208
+2020-03-23,Unknown,5
+2020-03-23,White,24947
+2020-03-23,Yellow,2606
+2020-03-23,Yellowish Brown,2170
+2020-03-30,Beige,12333
+2020-03-30,Black,104055
+2020-03-30,Blue,13678
+2020-03-30,Bronze/Copper,207
+2020-03-30,Dark Beige,3264
+2020-03-30,Dark Blue,14832
+2020-03-30,Dark Green,9338
+2020-03-30,Dark Grey,5480
+2020-03-30,Dark Orange,2713
+2020-03-30,Dark Pink,1378
+2020-03-30,Dark Purple,198
+2020-03-30,Dark Red,2046
+2020-03-30,Dark Turquoise,194
+2020-03-30,Dark Yellow,1160
+2020-03-30,Gold,1942
+2020-03-30,Green,3028
+2020-03-30,Greenish Khaki,12124
+2020-03-30,Grey,7332
+2020-03-30,Greyish Beige,288
+2020-03-30,Light Beige,14315
+2020-03-30,Light Blue,11473
+2020-03-30,Light Green,1486
+2020-03-30,Light Grey,4105
+2020-03-30,Light Orange,4387
+2020-03-30,Light Pink,9587
+2020-03-30,Light Purple,2129
+2020-03-30,Light Red,1363
+2020-03-30,Light Turquoise,885
+2020-03-30,Light Yellow,2821
+2020-03-30,Off White,9731
+2020-03-30,Orange,1124
+2020-03-30,Other,33
+2020-03-30,Other Blue,22
+2020-03-30,Other Green,441
+2020-03-30,Other Orange,106
+2020-03-30,Other Pink,1196
+2020-03-30,Other Purple,2
+2020-03-30,Other Red,26
+2020-03-30,Other Yellow,383
+2020-03-30,Pink,6677
+2020-03-30,Purple,121
+2020-03-30,Red,7605
+2020-03-30,Silver,893
+2020-03-30,Transparent,33
+2020-03-30,Turquoise,282
+2020-03-30,Unknown,3
+2020-03-30,White,38412
+2020-03-30,Yellow,3730
+2020-03-30,Yellowish Brown,3036
+2020-04-06,Beige,13358
+2020-04-06,Black,130296
+2020-04-06,Blue,19889
+2020-04-06,Bronze/Copper,438
+2020-04-06,Dark Beige,3650
+2020-04-06,Dark Blue,21624
+2020-04-06,Dark Green,12976
+2020-04-06,Dark Grey,6714
+2020-04-06,Dark Orange,3801
+2020-04-06,Dark Pink,1753
+2020-04-06,Dark Purple,407
+2020-04-06,Dark Red,2190
+2020-04-06,Dark Turquoise,208
+2020-04-06,Dark Yellow,1629
+2020-04-06,Gold,1919
+2020-04-06,Green,4272
+2020-04-06,Greenish Khaki,16122
+2020-04-06,Grey,8941
+2020-04-06,Greyish Beige,291
+2020-04-06,Light Beige,20982
+2020-04-06,Light Blue,15679
+2020-04-06,Light Green,2030
+2020-04-06,Light Grey,4510
+2020-04-06,Light Orange,5458
+2020-04-06,Light Pink,12422
+2020-04-06,Light Purple,3278
+2020-04-06,Light Red,1302
+2020-04-06,Light Turquoise,1395
+2020-04-06,Light Yellow,5024
+2020-04-06,Off White,11011
+2020-04-06,Orange,1637
+2020-04-06,Other,150
+2020-04-06,Other Blue,21
+2020-04-06,Other Green,638
+2020-04-06,Other Orange,119
+2020-04-06,Other Pink,3970
+2020-04-06,Other Purple,46
+2020-04-06,Other Red,40
+2020-04-06,Other Turquoise,7
+2020-04-06,Other Yellow,644
+2020-04-06,Pink,7603
+2020-04-06,Purple,253
+2020-04-06,Red,8984
+2020-04-06,Silver,632
+2020-04-06,Transparent,32
+2020-04-06,Turquoise,555
+2020-04-06,Unknown,4
+2020-04-06,White,57242
+2020-04-06,Yellow,5912
+2020-04-06,Yellowish Brown,4236
+2020-04-13,Beige,6974
+2020-04-13,Black,69707
+2020-04-13,Blue,10668
+2020-04-13,Bronze/Copper,161
+2020-04-13,Dark Beige,2089
+2020-04-13,Dark Blue,10960
+2020-04-13,Dark Green,6682
+2020-04-13,Dark Grey,3002
+2020-04-13,Dark Orange,1581
+2020-04-13,Dark Pink,1133
+2020-04-13,Dark Purple,241
+2020-04-13,Dark Red,1343
+2020-04-13,Dark Turquoise,120
+2020-04-13,Dark Yellow,577
+2020-04-13,Gold,1246
+2020-04-13,Green,1631
+2020-04-13,Greenish Khaki,8457
+2020-04-13,Grey,4279
+2020-04-13,Greyish Beige,184
+2020-04-13,Light Beige,9092
+2020-04-13,Light Blue,8266
+2020-04-13,Light Green,1034
+2020-04-13,Light Grey,2325
+2020-04-13,Light Orange,3273
+2020-04-13,Light Pink,7567
+2020-04-13,Light Purple,1398
+2020-04-13,Light Red,810
+2020-04-13,Light Turquoise,487
+2020-04-13,Light Yellow,2905
+2020-04-13,Off White,6182
+2020-04-13,Orange,757
+2020-04-13,Other,62
+2020-04-13,Other Blue,12
+2020-04-13,Other Green,281
+2020-04-13,Other Orange,96
+2020-04-13,Other Pink,1340
+2020-04-13,Other Purple,30
+2020-04-13,Other Red,63
+2020-04-13,Other Yellow,332
+2020-04-13,Pink,4643
+2020-04-13,Purple,115
+2020-04-13,Red,4291
+2020-04-13,Silver,364
+2020-04-13,Transparent,10
+2020-04-13,Turquoise,260
+2020-04-13,White,31293
+2020-04-13,Yellow,3236
+2020-04-13,Yellowish Brown,2084
+2020-04-20,Beige,8837
+2020-04-20,Black,96338
+2020-04-20,Blue,14320
+2020-04-20,Bronze/Copper,248
+2020-04-20,Dark Beige,2751
+2020-04-20,Dark Blue,15049
+2020-04-20,Dark Green,8502
+2020-04-20,Dark Grey,3837
+2020-04-20,Dark Orange,2182
+2020-04-20,Dark Pink,1617
+2020-04-20,Dark Purple,427
+2020-04-20,Dark Red,1517
+2020-04-20,Dark Turquoise,149
+2020-04-20,Dark Yellow,772
+2020-04-20,Gold,1977
+2020-04-20,Green,2938
+2020-04-20,Greenish Khaki,10281
+2020-04-20,Grey,5104
+2020-04-20,Greyish Beige,212
+2020-04-20,Light Beige,13032
+2020-04-20,Light Blue,11701
+2020-04-20,Light Green,1361
+2020-04-20,Light Grey,2670
+2020-04-20,Light Orange,4535
+2020-04-20,Light Pink,9918
+2020-04-20,Light Purple,1578
+2020-04-20,Light Red,1017
+2020-04-20,Light Turquoise,607
+2020-04-20,Light Yellow,4219
+2020-04-20,Off White,8773
+2020-04-20,Orange,930
+2020-04-20,Other,31
+2020-04-20,Other Blue,13
+2020-04-20,Other Green,234
+2020-04-20,Other Orange,135
+2020-04-20,Other Pink,1731
+2020-04-20,Other Purple,70
+2020-04-20,Other Red,61
+2020-04-20,Other Yellow,364
+2020-04-20,Pink,6285
+2020-04-20,Purple,83
+2020-04-20,Red,6058
+2020-04-20,Silver,505
+2020-04-20,Transparent,6
+2020-04-20,Turquoise,356
+2020-04-20,Unknown,1
+2020-04-20,White,42161
+2020-04-20,Yellow,3917
+2020-04-20,Yellowish Brown,2598
+2020-04-27,Beige,7155
+2020-04-27,Black,70531
+2020-04-27,Blue,11010
+2020-04-27,Bronze/Copper,119
+2020-04-27,Dark Beige,2116
+2020-04-27,Dark Blue,11526
+2020-04-27,Dark Green,5826
+2020-04-27,Dark Grey,3303
+2020-04-27,Dark Orange,2232
+2020-04-27,Dark Pink,1039
+2020-04-27,Dark Purple,282
+2020-04-27,Dark Red,1413
+2020-04-27,Dark Turquoise,103
+2020-04-27,Dark Yellow,621
+2020-04-27,Gold,1504
+2020-04-27,Green,2318
+2020-04-27,Greenish Khaki,7144
+2020-04-27,Grey,4335
+2020-04-27,Greyish Beige,166
+2020-04-27,Light Beige,10610
+2020-04-27,Light Blue,8921
+2020-04-27,Light Green,938
+2020-04-27,Light Grey,1991
+2020-04-27,Light Orange,3479
+2020-04-27,Light Pink,6373
+2020-04-27,Light Purple,1610
+2020-04-27,Light Red,690
+2020-04-27,Light Turquoise,407
+2020-04-27,Light Yellow,2563
+2020-04-27,Off White,6151
+2020-04-27,Orange,784
+2020-04-27,Other,31
+2020-04-27,Other Blue,9
+2020-04-27,Other Green,122
+2020-04-27,Other Orange,210
+2020-04-27,Other Pink,959
+2020-04-27,Other Purple,36
+2020-04-27,Other Red,23
+2020-04-27,Other Yellow,245
+2020-04-27,Pink,4357
+2020-04-27,Purple,79
+2020-04-27,Red,4462
+2020-04-27,Silver,294
+2020-04-27,Transparent,5
+2020-04-27,Turquoise,349
+2020-04-27,Unknown,1
+2020-04-27,White,30005
+2020-04-27,Yellow,2602
+2020-04-27,Yellowish Brown,1928
+2020-05-04,Beige,7522
+2020-05-04,Black,72530
+2020-05-04,Blue,11408
+2020-05-04,Bronze/Copper,99
+2020-05-04,Dark Beige,1917
+2020-05-04,Dark Blue,11535
+2020-05-04,Dark Green,5578
+2020-05-04,Dark Grey,3715
+2020-05-04,Dark Orange,2651
+2020-05-04,Dark Pink,939
+2020-05-04,Dark Purple,207
+2020-05-04,Dark Red,1721
+2020-05-04,Dark Turquoise,226
+2020-05-04,Dark Yellow,727
+2020-05-04,Gold,1573
+2020-05-04,Green,2455
+2020-05-04,Greenish Khaki,7346
+2020-05-04,Grey,4403
+2020-05-04,Greyish Beige,189
+2020-05-04,Light Beige,11576
+2020-05-04,Light Blue,9752
+2020-05-04,Light Green,1789
+2020-05-04,Light Grey,2023
+2020-05-04,Light Orange,3593
+2020-05-04,Light Pink,7197
+2020-05-04,Light Purple,2964
+2020-05-04,Light Red,571
+2020-05-04,Light Turquoise,516
+2020-05-04,Light Yellow,2737
+2020-05-04,Off White,7767
+2020-05-04,Orange,1128
+2020-05-04,Other,57
+2020-05-04,Other Blue,16
+2020-05-04,Other Green,189
+2020-05-04,Other Orange,209
+2020-05-04,Other Pink,1012
+2020-05-04,Other Purple,32
+2020-05-04,Other Red,26
+2020-05-04,Other Yellow,364
+2020-05-04,Pink,4556
+2020-05-04,Purple,74
+2020-05-04,Red,5525
+2020-05-04,Silver,445
+2020-05-04,Transparent,20
+2020-05-04,Turquoise,297
+2020-05-04,Unknown,1
+2020-05-04,White,32091
+2020-05-04,Yellow,2664
+2020-05-04,Yellowish Brown,2189
+2020-05-11,Beige,8434
+2020-05-11,Black,84523
+2020-05-11,Blue,11578
+2020-05-11,Bronze/Copper,99
+2020-05-11,Dark Beige,2143
+2020-05-11,Dark Blue,12680
+2020-05-11,Dark Green,7313
+2020-05-11,Dark Grey,3863
+2020-05-11,Dark Orange,3273
+2020-05-11,Dark Pink,1288
+2020-05-11,Dark Purple,144
+2020-05-11,Dark Red,1908
+2020-05-11,Dark Turquoise,325
+2020-05-11,Dark Yellow,651
+2020-05-11,Gold,2785
+2020-05-11,Green,2858
+2020-05-11,Greenish Khaki,8243
+2020-05-11,Grey,4475
+2020-05-11,Greyish Beige,274
+2020-05-11,Light Beige,13318
+2020-05-11,Light Blue,10954
+2020-05-11,Light Green,3368
+2020-05-11,Light Grey,2384
+2020-05-11,Light Orange,3579
+2020-05-11,Light Pink,8877
+2020-05-11,Light Purple,5344
+2020-05-11,Light Red,478
+2020-05-11,Light Turquoise,714
+2020-05-11,Light Yellow,4070
+2020-05-11,Off White,8580
+2020-05-11,Orange,1288
+2020-05-11,Other,52
+2020-05-11,Other Blue,32
+2020-05-11,Other Green,183
+2020-05-11,Other Orange,392
+2020-05-11,Other Pink,1263
+2020-05-11,Other Purple,56
+2020-05-11,Other Red,24
+2020-05-11,Other Yellow,339
+2020-05-11,Pink,4924
+2020-05-11,Purple,102
+2020-05-11,Red,7163
+2020-05-11,Silver,997
+2020-05-11,Transparent,54
+2020-05-11,Turquoise,273
+2020-05-11,White,39422
+2020-05-11,Yellow,3001
+2020-05-11,Yellowish Brown,2467
+2020-05-18,Beige,12559
+2020-05-18,Black,111428
+2020-05-18,Blue,14350
+2020-05-18,Bronze/Copper,109
+2020-05-18,Dark Beige,3132
+2020-05-18,Dark Blue,17737
+2020-05-18,Dark Green,10465
+2020-05-18,Dark Grey,5094
+2020-05-18,Dark Orange,4376
+2020-05-18,Dark Pink,2291
+2020-05-18,Dark Purple,207
+2020-05-18,Dark Red,2476
+2020-05-18,Dark Turquoise,907
+2020-05-18,Dark Yellow,994
+2020-05-18,Gold,2895
+2020-05-18,Green,4411
+2020-05-18,Greenish Khaki,12149
+2020-05-18,Grey,5948
+2020-05-18,Greyish Beige,325
+2020-05-18,Light Beige,18871
+2020-05-18,Light Blue,12732
+2020-05-18,Light Green,4437
+2020-05-18,Light Grey,2821
+2020-05-18,Light Orange,5126
+2020-05-18,Light Pink,13006
+2020-05-18,Light Purple,3883
+2020-05-18,Light Red,450
+2020-05-18,Light Turquoise,915
+2020-05-18,Light Yellow,6653
+2020-05-18,Off White,12303
+2020-05-18,Orange,2005
+2020-05-18,Other,68
+2020-05-18,Other Blue,35
+2020-05-18,Other Green,267
+2020-05-18,Other Orange,685
+2020-05-18,Other Pink,1652
+2020-05-18,Other Purple,35
+2020-05-18,Other Red,55
+2020-05-18,Other Turquoise,3
+2020-05-18,Other Yellow,756
+2020-05-18,Pink,6744
+2020-05-18,Purple,151
+2020-05-18,Red,9820
+2020-05-18,Silver,1221
+2020-05-18,Transparent,80
+2020-05-18,Turquoise,617
+2020-05-18,Unknown,1
+2020-05-18,White,49297
+2020-05-18,Yellow,4245
+2020-05-18,Yellowish Brown,3849
+2020-05-25,Beige,11819
+2020-05-25,Black,114111
+2020-05-25,Blue,15294
+2020-05-25,Bronze/Copper,129
+2020-05-25,Dark Beige,3306
+2020-05-25,Dark Blue,18419
+2020-05-25,Dark Green,10583
+2020-05-25,Dark Grey,5213
+2020-05-25,Dark Orange,4549
+2020-05-25,Dark Pink,1999
+2020-05-25,Dark Purple,175
+2020-05-25,Dark Red,2675
+2020-05-25,Dark Turquoise,1075
+2020-05-25,Dark Yellow,956
+2020-05-25,Gold,3079
+2020-05-25,Green,4188
+2020-05-25,Greenish Khaki,12779
+2020-05-25,Grey,5522
+2020-05-25,Greyish Beige,349
+2020-05-25,Light Beige,18969
+2020-05-25,Light Blue,13593
+2020-05-25,Light Green,2683
+2020-05-25,Light Grey,2834
+2020-05-25,Light Orange,6808
+2020-05-25,Light Pink,13159
+2020-05-25,Light Purple,2444
+2020-05-25,Light Red,457
+2020-05-25,Light Turquoise,974
+2020-05-25,Light Yellow,4791
+2020-05-25,Off White,13855
+2020-05-25,Orange,2218
+2020-05-25,Other,59
+2020-05-25,Other Blue,56
+2020-05-25,Other Green,337
+2020-05-25,Other Orange,826
+2020-05-25,Other Pink,1872
+2020-05-25,Other Purple,70
+2020-05-25,Other Red,73
+2020-05-25,Other Turquoise,3
+2020-05-25,Other Yellow,981
+2020-05-25,Pink,7685
+2020-05-25,Purple,657
+2020-05-25,Red,9819
+2020-05-25,Silver,1216
+2020-05-25,Transparent,105
+2020-05-25,Turquoise,859
+2020-05-25,Unknown,2
+2020-05-25,White,51286
+2020-05-25,Yellow,4879
+2020-05-25,Yellowish Brown,3622
+2020-06-01,Beige,9950
+2020-06-01,Black,95765
+2020-06-01,Blue,13067
+2020-06-01,Bronze/Copper,105
+2020-06-01,Dark Beige,2736
+2020-06-01,Dark Blue,15421
+2020-06-01,Dark Green,8397
+2020-06-01,Dark Grey,4477
+2020-06-01,Dark Orange,3370
+2020-06-01,Dark Pink,1770
+2020-06-01,Dark Purple,106
+2020-06-01,Dark Red,2374
+2020-06-01,Dark Turquoise,969
+2020-06-01,Dark Yellow,706
+2020-06-01,Gold,2604
+2020-06-01,Green,3448
+2020-06-01,Greenish Khaki,10420
+2020-06-01,Grey,4867
+2020-06-01,Greyish Beige,331
+2020-06-01,Light Beige,17275
+2020-06-01,Light Blue,11931
+2020-06-01,Light Green,2348
+2020-06-01,Light Grey,2799
+2020-06-01,Light Orange,5772
+2020-06-01,Light Pink,10563
+2020-06-01,Light Purple,2341
+2020-06-01,Light Red,313
+2020-06-01,Light Turquoise,1097
+2020-06-01,Light Yellow,3989
+2020-06-01,Off White,12118
+2020-06-01,Orange,1835
+2020-06-01,Other,66
+2020-06-01,Other Blue,56
+2020-06-01,Other Green,337
+2020-06-01,Other Orange,584
+2020-06-01,Other Pink,1385
+2020-06-01,Other Purple,70
+2020-06-01,Other Red,63
+2020-06-01,Other Turquoise,2
+2020-06-01,Other Yellow,751
+2020-06-01,Pink,5801
+2020-06-01,Purple,216
+2020-06-01,Red,7044
+2020-06-01,Silver,1092
+2020-06-01,Transparent,105
+2020-06-01,Turquoise,870
+2020-06-01,Unknown,2
+2020-06-01,White,42417
+2020-06-01,Yellow,3887
+2020-06-01,Yellowish Brown,3247
+2020-06-08,Beige,9223
+2020-06-08,Black,87717
+2020-06-08,Blue,10958
+2020-06-08,Bronze/Copper,78
+2020-06-08,Dark Beige,2242
+2020-06-08,Dark Blue,13367
+2020-06-08,Dark Green,7361
+2020-06-08,Dark Grey,4160
+2020-06-08,Dark Orange,3119
+2020-06-08,Dark Pink,1394
+2020-06-08,Dark Purple,113
+2020-06-08,Dark Red,2211
+2020-06-08,Dark Turquoise,733
+2020-06-08,Dark Yellow,554
+2020-06-08,Gold,2558
+2020-06-08,Green,2854
+2020-06-08,Greenish Khaki,9539
+2020-06-08,Grey,4353
+2020-06-08,Greyish Beige,284
+2020-06-08,Light Beige,15637
+2020-06-08,Light Blue,10455
+2020-06-08,Light Green,1826
+2020-06-08,Light Grey,2507
+2020-06-08,Light Orange,4232
+2020-06-08,Light Pink,9854
+2020-06-08,Light Purple,2093
+2020-06-08,Light Red,258
+2020-06-08,Light Turquoise,1062
+2020-06-08,Light Yellow,4010
+2020-06-08,Off White,9100
+2020-06-08,Orange,1599
+2020-06-08,Other,85
+2020-06-08,Other Blue,56
+2020-06-08,Other Green,302
+2020-06-08,Other Orange,756
+2020-06-08,Other Pink,1031
+2020-06-08,Other Purple,51
+2020-06-08,Other Red,50
+2020-06-08,Other Turquoise,1
+2020-06-08,Other Yellow,735
+2020-06-08,Pink,5500
+2020-06-08,Purple,213
+2020-06-08,Red,5865
+2020-06-08,Silver,1149
+2020-06-08,Transparent,83
+2020-06-08,Turquoise,688
+2020-06-08,Unknown,4
+2020-06-08,White,37825
+2020-06-08,Yellow,3463
+2020-06-08,Yellowish Brown,2787
+2020-06-15,Beige,15747
+2020-06-15,Black,138444
+2020-06-15,Blue,18536
+2020-06-15,Bronze/Copper,99
+2020-06-15,Dark Beige,4512
+2020-06-15,Dark Blue,24657
+2020-06-15,Dark Green,11166
+2020-06-15,Dark Grey,6396
+2020-06-15,Dark Orange,5933
+2020-06-15,Dark Pink,3314
+2020-06-15,Dark Purple,507
+2020-06-15,Dark Red,3020
+2020-06-15,Dark Turquoise,1079
+2020-06-15,Dark Yellow,1311
+2020-06-15,Gold,3727
+2020-06-15,Green,4841
+2020-06-15,Greenish Khaki,17090
+2020-06-15,Grey,6668
+2020-06-15,Greyish Beige,518
+2020-06-15,Light Beige,28775
+2020-06-15,Light Blue,17407
+2020-06-15,Light Green,2921
+2020-06-15,Light Grey,3577
+2020-06-15,Light Orange,7187
+2020-06-15,Light Pink,18397
+2020-06-15,Light Purple,3711
+2020-06-15,Light Red,381
+2020-06-15,Light Turquoise,1416
+2020-06-15,Light Yellow,6236
+2020-06-15,Off White,16290
+2020-06-15,Orange,3016
+2020-06-15,Other,179
+2020-06-15,Other Blue,79
+2020-06-15,Other Green,351
+2020-06-15,Other Orange,1011
+2020-06-15,Other Pink,1608
+2020-06-15,Other Purple,180
+2020-06-15,Other Red,115
+2020-06-15,Other Yellow,825
+2020-06-15,Pink,8623
+2020-06-15,Purple,399
+2020-06-15,Red,8723
+2020-06-15,Silver,1438
+2020-06-15,Transparent,71
+2020-06-15,Turquoise,1773
+2020-06-15,Unknown,2
+2020-06-15,White,71460
+2020-06-15,Yellow,7789
+2020-06-15,Yellowish Brown,5819
+2020-06-22,Beige,16620
+2020-06-22,Black,161281
+2020-06-22,Blue,22503
+2020-06-22,Bronze/Copper,165
+2020-06-22,Dark Beige,4087
+2020-06-22,Dark Blue,28767
+2020-06-22,Dark Green,12317
+2020-06-22,Dark Grey,8152
+2020-06-22,Dark Orange,7140
+2020-06-22,Dark Pink,3880
+2020-06-22,Dark Purple,396
+2020-06-22,Dark Red,3288
+2020-06-22,Dark Turquoise,1286
+2020-06-22,Dark Yellow,1557
+2020-06-22,Gold,3841
+2020-06-22,Green,5355
+2020-06-22,Greenish Khaki,16965
+2020-06-22,Grey,7409
+2020-06-22,Greyish Beige,469
+2020-06-22,Light Beige,28401
+2020-06-22,Light Blue,20194
+2020-06-22,Light Green,5041
+2020-06-22,Light Grey,4368
+2020-06-22,Light Orange,8680
+2020-06-22,Light Pink,19427
+2020-06-22,Light Purple,4050
+2020-06-22,Light Red,543
+2020-06-22,Light Turquoise,1627
+2020-06-22,Light Yellow,8003
+2020-06-22,Off White,18550
+2020-06-22,Orange,4232
+2020-06-22,Other,132
+2020-06-22,Other Blue,66
+2020-06-22,Other Green,476
+2020-06-22,Other Orange,1410
+2020-06-22,Other Pink,2276
+2020-06-22,Other Purple,187
+2020-06-22,Other Red,167
+2020-06-22,Other Turquoise,1
+2020-06-22,Other Yellow,1493
+2020-06-22,Pink,9726
+2020-06-22,Purple,739
+2020-06-22,Red,9860
+2020-06-22,Silver,1481
+2020-06-22,Transparent,98
+2020-06-22,Turquoise,1795
+2020-06-22,Unknown,2
+2020-06-22,White,82569
+2020-06-22,Yellow,8213
+2020-06-22,Yellowish Brown,6198
+2020-06-29,Beige,11849
+2020-06-29,Black,108380
+2020-06-29,Blue,15268
+2020-06-29,Bronze/Copper,79
+2020-06-29,Dark Beige,3077
+2020-06-29,Dark Blue,18517
+2020-06-29,Dark Green,6979
+2020-06-29,Dark Grey,4946
+2020-06-29,Dark Orange,4261
+2020-06-29,Dark Pink,2359
+2020-06-29,Dark Purple,421
+2020-06-29,Dark Red,2721
+2020-06-29,Dark Turquoise,983
+2020-06-29,Dark Yellow,1019
+2020-06-29,Gold,3561
+2020-06-29,Green,3291
+2020-06-29,Greenish Khaki,10639
+2020-06-29,Grey,5586
+2020-06-29,Greyish Beige,340
+2020-06-29,Light Beige,17321
+2020-06-29,Light Blue,13821
+2020-06-29,Light Green,3526
+2020-06-29,Light Grey,2928
+2020-06-29,Light Orange,6216
+2020-06-29,Light Pink,13219
+2020-06-29,Light Purple,3484
+2020-06-29,Light Red,334
+2020-06-29,Light Turquoise,1284
+2020-06-29,Light Yellow,4531
+2020-06-29,Off White,11396
+2020-06-29,Orange,2322
+2020-06-29,Other,142
+2020-06-29,Other Blue,55
+2020-06-29,Other Green,353
+2020-06-29,Other Orange,918
+2020-06-29,Other Pink,1171
+2020-06-29,Other Purple,102
+2020-06-29,Other Red,94
+2020-06-29,Other Turquoise,2
+2020-06-29,Other Yellow,843
+2020-06-29,Pink,7225
+2020-06-29,Purple,784
+2020-06-29,Red,5791
+2020-06-29,Silver,1477
+2020-06-29,Transparent,85
+2020-06-29,Turquoise,970
+2020-06-29,White,52672
+2020-06-29,Yellow,4571
+2020-06-29,Yellowish Brown,3781
+2020-07-06,Beige,9798
+2020-07-06,Black,88564
+2020-07-06,Blue,11824
+2020-07-06,Bronze/Copper,80
+2020-07-06,Dark Beige,2613
+2020-07-06,Dark Blue,14387
+2020-07-06,Dark Green,5447
+2020-07-06,Dark Grey,4854
+2020-07-06,Dark Orange,3532
+2020-07-06,Dark Pink,1746
+2020-07-06,Dark Purple,430
+2020-07-06,Dark Red,1962
+2020-07-06,Dark Turquoise,913
+2020-07-06,Dark Yellow,728
+2020-07-06,Gold,3304
+2020-07-06,Green,2116
+2020-07-06,Greenish Khaki,8349
+2020-07-06,Grey,4181
+2020-07-06,Greyish Beige,366
+2020-07-06,Light Beige,13550
+2020-07-06,Light Blue,10371
+2020-07-06,Light Green,2023
+2020-07-06,Light Grey,2765
+2020-07-06,Light Orange,4733
+2020-07-06,Light Pink,10658
+2020-07-06,Light Purple,3409
+2020-07-06,Light Red,165
+2020-07-06,Light Turquoise,1509
+2020-07-06,Light Yellow,3020
+2020-07-06,Off White,8964
+2020-07-06,Orange,2099
+2020-07-06,Other,120
+2020-07-06,Other Blue,39
+2020-07-06,Other Green,310
+2020-07-06,Other Orange,779
+2020-07-06,Other Pink,821
+2020-07-06,Other Purple,69
+2020-07-06,Other Red,106
+2020-07-06,Other Yellow,680
+2020-07-06,Pink,6183
+2020-07-06,Purple,576
+2020-07-06,Red,4069
+2020-07-06,Silver,1389
+2020-07-06,Transparent,74
+2020-07-06,Turquoise,796
+2020-07-06,White,41534
+2020-07-06,Yellow,3916
+2020-07-06,Yellowish Brown,3013
+2020-07-13,Beige,8740
+2020-07-13,Black,87026
+2020-07-13,Blue,11069
+2020-07-13,Bronze/Copper,120
+2020-07-13,Dark Beige,2111
+2020-07-13,Dark Blue,13585
+2020-07-13,Dark Green,5506
+2020-07-13,Dark Grey,4671
+2020-07-13,Dark Orange,3673
+2020-07-13,Dark Pink,1677
+2020-07-13,Dark Purple,783
+2020-07-13,Dark Red,1907
+2020-07-13,Dark Turquoise,933
+2020-07-13,Dark Yellow,715
+2020-07-13,Gold,3308
+2020-07-13,Green,2141
+2020-07-13,Greenish Khaki,7556
+2020-07-13,Grey,4716
+2020-07-13,Greyish Beige,301
+2020-07-13,Light Beige,13623
+2020-07-13,Light Blue,9937
+2020-07-13,Light Green,1907
+2020-07-13,Light Grey,2586
+2020-07-13,Light Orange,4879
+2020-07-13,Light Pink,10056
+2020-07-13,Light Purple,2909
+2020-07-13,Light Red,182
+2020-07-13,Light Turquoise,1282
+2020-07-13,Light Yellow,3403
+2020-07-13,Off White,9085
+2020-07-13,Orange,2164
+2020-07-13,Other,123
+2020-07-13,Other Blue,44
+2020-07-13,Other Green,324
+2020-07-13,Other Orange,836
+2020-07-13,Other Pink,973
+2020-07-13,Other Purple,64
+2020-07-13,Other Red,120
+2020-07-13,Other Turquoise,3
+2020-07-13,Other Yellow,665
+2020-07-13,Pink,5398
+2020-07-13,Purple,1074
+2020-07-13,Red,3807
+2020-07-13,Silver,1381
+2020-07-13,Transparent,65
+2020-07-13,Turquoise,847
+2020-07-13,White,40444
+2020-07-13,Yellow,3661
+2020-07-13,Yellowish Brown,3414
+2020-07-20,Beige,9101
+2020-07-20,Black,91781
+2020-07-20,Blue,11041
+2020-07-20,Bronze/Copper,86
+2020-07-20,Dark Beige,2362
+2020-07-20,Dark Blue,14252
+2020-07-20,Dark Green,4955
+2020-07-20,Dark Grey,4943
+2020-07-20,Dark Orange,3290
+2020-07-20,Dark Pink,1611
+2020-07-20,Dark Purple,787
+2020-07-20,Dark Red,1779
+2020-07-20,Dark Turquoise,992
+2020-07-20,Dark Yellow,650
+2020-07-20,Gold,3930
+2020-07-20,Green,2248
+2020-07-20,Greenish Khaki,7755
+2020-07-20,Grey,5015
+2020-07-20,Greyish Beige,291
+2020-07-20,Light Beige,14301
+2020-07-20,Light Blue,9757
+2020-07-20,Light Green,2074
+2020-07-20,Light Grey,3032
+2020-07-20,Light Orange,5117
+2020-07-20,Light Pink,11226
+2020-07-20,Light Purple,3178
+2020-07-20,Light Red,205
+2020-07-20,Light Turquoise,1319
+2020-07-20,Light Yellow,3200
+2020-07-20,Off White,9085
+2020-07-20,Orange,1902
+2020-07-20,Other,136
+2020-07-20,Other Blue,40
+2020-07-20,Other Green,339
+2020-07-20,Other Orange,929
+2020-07-20,Other Pink,806
+2020-07-20,Other Purple,42
+2020-07-20,Other Red,75
+2020-07-20,Other Turquoise,3
+2020-07-20,Other Yellow,523
+2020-07-20,Pink,5860
+2020-07-20,Purple,838
+2020-07-20,Red,3165
+2020-07-20,Silver,1553
+2020-07-20,Transparent,109
+2020-07-20,Turquoise,1112
+2020-07-20,Unknown,1
+2020-07-20,White,42859
+2020-07-20,Yellow,3357
+2020-07-20,Yellowish Brown,3117
+2020-07-27,Beige,8783
+2020-07-27,Black,94003
+2020-07-27,Blue,10807
+2020-07-27,Bronze/Copper,61
+2020-07-27,Dark Beige,2348
+2020-07-27,Dark Blue,14989
+2020-07-27,Dark Green,5372
+2020-07-27,Dark Grey,5686
+2020-07-27,Dark Orange,3428
+2020-07-27,Dark Pink,2503
+2020-07-27,Dark Purple,861
+2020-07-27,Dark Red,1635
+2020-07-27,Dark Turquoise,956
+2020-07-27,Dark Yellow,773
+2020-07-27,Gold,3575
+2020-07-27,Green,2630
+2020-07-27,Greenish Khaki,7666
+2020-07-27,Grey,5757
+2020-07-27,Greyish Beige,313
+2020-07-27,Light Beige,14713
+2020-07-27,Light Blue,10828
+2020-07-27,Light Green,2809
+2020-07-27,Light Grey,3093
+2020-07-27,Light Orange,4918
+2020-07-27,Light Pink,12067
+2020-07-27,Light Purple,4063
+2020-07-27,Light Red,188
+2020-07-27,Light Turquoise,1447
+2020-07-27,Light Yellow,3483
+2020-07-27,Off White,9630
+2020-07-27,Orange,1968
+2020-07-27,Other,127
+2020-07-27,Other Blue,38
+2020-07-27,Other Green,365
+2020-07-27,Other Orange,877
+2020-07-27,Other Pink,915
+2020-07-27,Other Purple,43
+2020-07-27,Other Red,71
+2020-07-27,Other Turquoise,1
+2020-07-27,Other Yellow,533
+2020-07-27,Pink,5781
+2020-07-27,Purple,912
+2020-07-27,Red,3235
+2020-07-27,Silver,1433
+2020-07-27,Transparent,73
+2020-07-27,Turquoise,1251
+2020-07-27,White,42442
+2020-07-27,Yellow,3236
+2020-07-27,Yellowish Brown,3375
+2020-08-03,Beige,8850
+2020-08-03,Black,94271
+2020-08-03,Blue,10765
+2020-08-03,Bronze/Copper,68
+2020-08-03,Dark Beige,1933
+2020-08-03,Dark Blue,15040
+2020-08-03,Dark Green,6092
+2020-08-03,Dark Grey,6025
+2020-08-03,Dark Orange,3914
+2020-08-03,Dark Pink,2235
+2020-08-03,Dark Purple,930
+2020-08-03,Dark Red,1701
+2020-08-03,Dark Turquoise,864
+2020-08-03,Dark Yellow,809
+2020-08-03,Gold,3405
+2020-08-03,Green,2404
+2020-08-03,Greenish Khaki,7250
+2020-08-03,Grey,5836
+2020-08-03,Greyish Beige,408
+2020-08-03,Light Beige,16140
+2020-08-03,Light Blue,12493
+2020-08-03,Light Green,1647
+2020-08-03,Light Grey,2456
+2020-08-03,Light Orange,4632
+2020-08-03,Light Pink,10626
+2020-08-03,Light Purple,2982
+2020-08-03,Light Red,173
+2020-08-03,Light Turquoise,1422
+2020-08-03,Light Yellow,3490
+2020-08-03,Off White,11244
+2020-08-03,Orange,2306
+2020-08-03,Other,141
+2020-08-03,Other Blue,39
+2020-08-03,Other Green,365
+2020-08-03,Other Orange,1089
+2020-08-03,Other Pink,1200
+2020-08-03,Other Purple,39
+2020-08-03,Other Red,83
+2020-08-03,Other Turquoise,1
+2020-08-03,Other Yellow,921
+2020-08-03,Pink,5719
+2020-08-03,Purple,906
+2020-08-03,Red,3522
+2020-08-03,Silver,1167
+2020-08-03,Transparent,60
+2020-08-03,Turquoise,1305
+2020-08-03,Unknown,2
+2020-08-03,White,43996
+2020-08-03,Yellow,3766
+2020-08-03,Yellowish Brown,3098
+2020-08-10,Beige,8535
+2020-08-10,Black,85998
+2020-08-10,Blue,9637
+2020-08-10,Bronze/Copper,34
+2020-08-10,Dark Beige,1841
+2020-08-10,Dark Blue,13303
+2020-08-10,Dark Green,5725
+2020-08-10,Dark Grey,4983
+2020-08-10,Dark Orange,3615
+2020-08-10,Dark Pink,2070
+2020-08-10,Dark Purple,858
+2020-08-10,Dark Red,1893
+2020-08-10,Dark Turquoise,605
+2020-08-10,Dark Yellow,661
+2020-08-10,Gold,3305
+2020-08-10,Green,2354
+2020-08-10,Greenish Khaki,6784
+2020-08-10,Grey,5851
+2020-08-10,Greyish Beige,590
+2020-08-10,Light Beige,14116
+2020-08-10,Light Blue,10418
+2020-08-10,Light Green,1309
+2020-08-10,Light Grey,2104
+2020-08-10,Light Orange,4416
+2020-08-10,Light Pink,9268
+2020-08-10,Light Purple,2523
+2020-08-10,Light Red,298
+2020-08-10,Light Turquoise,1482
+2020-08-10,Light Yellow,2582
+2020-08-10,Off White,9424
+2020-08-10,Orange,1960
+2020-08-10,Other,118
+2020-08-10,Other Blue,24
+2020-08-10,Other Green,297
+2020-08-10,Other Orange,679
+2020-08-10,Other Pink,868
+2020-08-10,Other Purple,42
+2020-08-10,Other Red,42
+2020-08-10,Other Yellow,881
+2020-08-10,Pink,5452
+2020-08-10,Purple,930
+2020-08-10,Red,2637
+2020-08-10,Silver,1200
+2020-08-10,Transparent,56
+2020-08-10,Turquoise,983
+2020-08-10,Unknown,2
+2020-08-10,White,38774
+2020-08-10,Yellow,2956
+2020-08-10,Yellowish Brown,2905
+2020-08-17,Beige,8927
+2020-08-17,Black,83890
+2020-08-17,Blue,10868
+2020-08-17,Bronze/Copper,14
+2020-08-17,Dark Beige,1695
+2020-08-17,Dark Blue,11108
+2020-08-17,Dark Green,4325
+2020-08-17,Dark Grey,4825
+2020-08-17,Dark Orange,2420
+2020-08-17,Dark Pink,1610
+2020-08-17,Dark Purple,973
+2020-08-17,Dark Red,1585
+2020-08-17,Dark Turquoise,520
+2020-08-17,Dark Yellow,431
+2020-08-17,Gold,3117
+2020-08-17,Green,2665
+2020-08-17,Greenish Khaki,5845
+2020-08-17,Grey,6351
+2020-08-17,Greyish Beige,775
+2020-08-17,Light Beige,11445
+2020-08-17,Light Blue,7801
+2020-08-17,Light Green,1052
+2020-08-17,Light Grey,2399
+2020-08-17,Light Orange,3369
+2020-08-17,Light Pink,8257
+2020-08-17,Light Purple,1961
+2020-08-17,Light Red,143
+2020-08-17,Light Turquoise,1112
+2020-08-17,Light Yellow,1472
+2020-08-17,Off White,7484
+2020-08-17,Orange,1688
+2020-08-17,Other,134
+2020-08-17,Other Blue,39
+2020-08-17,Other Green,186
+2020-08-17,Other Orange,317
+2020-08-17,Other Pink,433
+2020-08-17,Other Purple,18
+2020-08-17,Other Red,30
+2020-08-17,Other Turquoise,1
+2020-08-17,Other Yellow,323
+2020-08-17,Pink,4668
+2020-08-17,Purple,956
+2020-08-17,Red,1668
+2020-08-17,Silver,1137
+2020-08-17,Transparent,55
+2020-08-17,Turquoise,817
+2020-08-17,Unknown,1
+2020-08-17,White,29048
+2020-08-17,Yellow,1753
+2020-08-17,Yellowish Brown,2866
+2020-08-24,Beige,12866
+2020-08-24,Black,106248
+2020-08-24,Blue,11777
+2020-08-24,Bronze/Copper,33
+2020-08-24,Dark Beige,2384
+2020-08-24,Dark Blue,12170
+2020-08-24,Dark Green,4589
+2020-08-24,Dark Grey,6976
+2020-08-24,Dark Orange,2400
+2020-08-24,Dark Pink,1850
+2020-08-24,Dark Purple,1115
+2020-08-24,Dark Red,2017
+2020-08-24,Dark Turquoise,543
+2020-08-24,Dark Yellow,451
+2020-08-24,Gold,3339
+2020-08-24,Green,4258
+2020-08-24,Greenish Khaki,6092
+2020-08-24,Grey,8865
+2020-08-24,Greyish Beige,1141
+2020-08-24,Light Beige,13390
+2020-08-24,Light Blue,7482
+2020-08-24,Light Green,976
+2020-08-24,Light Grey,3736
+2020-08-24,Light Orange,4054
+2020-08-24,Light Pink,8343
+2020-08-24,Light Purple,1888
+2020-08-24,Light Red,84
+2020-08-24,Light Turquoise,1015
+2020-08-24,Light Yellow,1154
+2020-08-24,Off White,8694
+2020-08-24,Orange,1797
+2020-08-24,Other,287
+2020-08-24,Other Blue,30
+2020-08-24,Other Green,98
+2020-08-24,Other Orange,199
+2020-08-24,Other Pink,300
+2020-08-24,Other Purple,20
+2020-08-24,Other Red,36
+2020-08-24,Other Yellow,220
+2020-08-24,Pink,5091
+2020-08-24,Purple,1608
+2020-08-24,Red,1344
+2020-08-24,Silver,1272
+2020-08-24,Transparent,49
+2020-08-24,Turquoise,783
+2020-08-24,Unknown,1
+2020-08-24,White,28169
+2020-08-24,Yellow,1879
+2020-08-24,Yellowish Brown,3412
+2020-08-31,Beige,12673
+2020-08-31,Black,98203
+2020-08-31,Blue,11818
+2020-08-31,Bronze/Copper,22
+2020-08-31,Dark Beige,2676
+2020-08-31,Dark Blue,11642
+2020-08-31,Dark Green,4819
+2020-08-31,Dark Grey,7484
+2020-08-31,Dark Orange,2171
+2020-08-31,Dark Pink,1529
+2020-08-31,Dark Purple,1122
+2020-08-31,Dark Red,2205
+2020-08-31,Dark Turquoise,773
+2020-08-31,Dark Yellow,563
+2020-08-31,Gold,2988
+2020-08-31,Green,3167
+2020-08-31,Greenish Khaki,5143
+2020-08-31,Grey,9533
+2020-08-31,Greyish Beige,1308
+2020-08-31,Light Beige,12699
+2020-08-31,Light Blue,5783
+2020-08-31,Light Green,749
+2020-08-31,Light Grey,3878
+2020-08-31,Light Orange,3307
+2020-08-31,Light Pink,7234
+2020-08-31,Light Purple,1757
+2020-08-31,Light Red,56
+2020-08-31,Light Turquoise,922
+2020-08-31,Light Yellow,844
+2020-08-31,Off White,9073
+2020-08-31,Orange,1891
+2020-08-31,Other,178
+2020-08-31,Other Blue,21
+2020-08-31,Other Green,109
+2020-08-31,Other Orange,154
+2020-08-31,Other Pink,256
+2020-08-31,Other Purple,26
+2020-08-31,Other Red,32
+2020-08-31,Other Yellow,125
+2020-08-31,Pink,4582
+2020-08-31,Purple,1462
+2020-08-31,Red,1254
+2020-08-31,Silver,1094
+2020-08-31,Transparent,55
+2020-08-31,Turquoise,585
+2020-08-31,White,23425
+2020-08-31,Yellow,1749
+2020-08-31,Yellowish Brown,3358
+2020-09-07,Beige,15688
+2020-09-07,Black,101407
+2020-09-07,Blue,9911
+2020-09-07,Bronze/Copper,12
+2020-09-07,Dark Beige,2780
+2020-09-07,Dark Blue,11203
+2020-09-07,Dark Green,5392
+2020-09-07,Dark Grey,9063
+2020-09-07,Dark Orange,1900
+2020-09-07,Dark Pink,1525
+2020-09-07,Dark Purple,1175
+2020-09-07,Dark Red,2632
+2020-09-07,Dark Turquoise,860
+2020-09-07,Dark Yellow,522
+2020-09-07,Gold,2618
+2020-09-07,Green,3209
+2020-09-07,Greenish Khaki,4512
+2020-09-07,Grey,10673
+2020-09-07,Greyish Beige,1863
+2020-09-07,Light Beige,14429
+2020-09-07,Light Blue,4842
+2020-09-07,Light Green,655
+2020-09-07,Light Grey,4084
+2020-09-07,Light Orange,3567
+2020-09-07,Light Pink,6085
+2020-09-07,Light Purple,2217
+2020-09-07,Light Red,47
+2020-09-07,Light Turquoise,790
+2020-09-07,Light Yellow,633
+2020-09-07,Off White,11187
+2020-09-07,Orange,2152
+2020-09-07,Other,188
+2020-09-07,Other Blue,12
+2020-09-07,Other Green,71
+2020-09-07,Other Orange,129
+2020-09-07,Other Pink,159
+2020-09-07,Other Purple,27
+2020-09-07,Other Red,16
+2020-09-07,Other Yellow,117
+2020-09-07,Pink,5156
+2020-09-07,Purple,1075
+2020-09-07,Red,1227
+2020-09-07,Silver,993
+2020-09-07,Transparent,36
+2020-09-07,Turquoise,519
+2020-09-07,White,21702
+2020-09-07,Yellow,1314
+2020-09-07,Yellowish Brown,3201
+2020-09-14,Beige,14869
+2020-09-14,Black,85648
+2020-09-14,Blue,8392
+2020-09-14,Bronze/Copper,11
+2020-09-14,Dark Beige,2270
+2020-09-14,Dark Blue,8933
+2020-09-14,Dark Green,3945
+2020-09-14,Dark Grey,7990
+2020-09-14,Dark Orange,1428
+2020-09-14,Dark Pink,1744
+2020-09-14,Dark Purple,1016
+2020-09-14,Dark Red,2565
+2020-09-14,Dark Turquoise,737
+2020-09-14,Dark Yellow,598
+2020-09-14,Gold,2335
+2020-09-14,Green,2915
+2020-09-14,Greenish Khaki,3674
+2020-09-14,Grey,8194
+2020-09-14,Greyish Beige,1363
+2020-09-14,Light Beige,11713
+2020-09-14,Light Blue,4082
+2020-09-14,Light Green,576
+2020-09-14,Light Grey,3301
+2020-09-14,Light Orange,2844
+2020-09-14,Light Pink,5169
+2020-09-14,Light Purple,2028
+2020-09-14,Light Red,38
+2020-09-14,Light Turquoise,628
+2020-09-14,Light Yellow,576
+2020-09-14,Off White,8627
+2020-09-14,Orange,1890
+2020-09-14,Other,119
+2020-09-14,Other Blue,15
+2020-09-14,Other Green,57
+2020-09-14,Other Orange,141
+2020-09-14,Other Pink,167
+2020-09-14,Other Purple,153
+2020-09-14,Other Red,16
+2020-09-14,Other Yellow,92
+2020-09-14,Pink,3777
+2020-09-14,Purple,874
+2020-09-14,Red,1473
+2020-09-14,Silver,883
+2020-09-14,Transparent,36
+2020-09-14,Turquoise,513
+2020-09-14,White,19185
+2020-09-14,Yellow,1000
+2020-09-14,Yellowish Brown,2709
+2020-09-21,Beige,3888
+2020-09-21,Black,24939
+2020-09-21,Blue,2577
+2020-09-21,Bronze/Copper,2
+2020-09-21,Dark Beige,646
+2020-09-21,Dark Blue,2640
+2020-09-21,Dark Green,1041
+2020-09-21,Dark Grey,2547
+2020-09-21,Dark Orange,355
+2020-09-21,Dark Pink,552
+2020-09-21,Dark Purple,313
+2020-09-21,Dark Red,795
+2020-09-21,Dark Turquoise,181
+2020-09-21,Dark Yellow,191
+2020-09-21,Gold,596
+2020-09-21,Green,847
+2020-09-21,Greenish Khaki,961
+2020-09-21,Grey,2510
+2020-09-21,Greyish Beige,393
+2020-09-21,Light Beige,2808
+2020-09-21,Light Blue,874
+2020-09-21,Light Green,142
+2020-09-21,Light Grey,920
+2020-09-21,Light Orange,873
+2020-09-21,Light Pink,1443
+2020-09-21,Light Purple,560
+2020-09-21,Light Red,6
+2020-09-21,Light Turquoise,166
+2020-09-21,Light Yellow,140
+2020-09-21,Off White,2124
+2020-09-21,Orange,435
+2020-09-21,Other,32
+2020-09-21,Other Green,15
+2020-09-21,Other Orange,35
+2020-09-21,Other Pink,31
+2020-09-21,Other Purple,58
+2020-09-21,Other Red,3
+2020-09-21,Other Yellow,27
+2020-09-21,Pink,1041
+2020-09-21,Purple,272
+2020-09-21,Red,541
+2020-09-21,Silver,222
+2020-09-21,Transparent,3
+2020-09-21,Turquoise,142
+2020-09-21,White,5095
+2020-09-21,Yellow,250
+2020-09-21,Yellowish Brown,764
