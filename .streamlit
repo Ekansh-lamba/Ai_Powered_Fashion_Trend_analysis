@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#3cc7c1"         # cool-toned teal accent
+backgroundColor = "#0f1419"      # near-black
+secondaryBackgroundColor = "#1b2430"
+textColor = "#e6edf3"
+font = "sans serif"
