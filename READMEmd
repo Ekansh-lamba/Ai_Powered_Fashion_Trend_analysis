@@ -1,0 +1,13 @@
+# Fashion Trend Analyser
+
+A tiny app to:
+- Visualize weekly trends (product groups, colours, graphics) from the H&M dataset
+- Search visually similar items using image embeddings
+- Predict a product group for any uploaded image
+
+## Setup
+
+```bash
+python -m venv .venv
+. .venv/Scripts/activate  # Windows
+pip install -r requirements.txt
