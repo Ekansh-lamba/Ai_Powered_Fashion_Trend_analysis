@@ -8,6 +8,8 @@ import joblib
 from PIL import Image
 import streamlit as st
 from sklearn.neighbors import NearestNeighbors
+import streamlit.components.v1 as components
+import html  # stdlib HTML escaping
 
 # Optional viz
 import plotly.express as px
@@ -115,6 +117,60 @@ def guard_artifacts():
 
 def to_date(d) -> pd.Timestamp:
     return pd.to_datetime(d, errors="coerce")
+
+# small reusable card CSS (keeps UI neat)
+# Safe HTML card template and renderer (replace any previous definitions)
+CARD_HTML_TEMPLATE = """<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <style>
+    :root{{
+      --card-bg: rgba(255,255,255,0.01);
+      --card-border: rgba(255,255,255,0.06);
+      --title-color: #e6edf3;
+      --sub-color: #9aa3ad;
+      --radius: 8px;
+      --pad: 8px;
+      --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }}
+    body{{ margin:0; background:transparent; font-family:var(--font); color:var(--title-color); }}
+    .fz-card {{
+      border: 1px solid var(--card-border);
+      padding: var(--pad);
+      border-radius: var(--radius);
+      background: var(--card-bg);
+      box-sizing: border-box;
+    }}
+    .fz-card .title {{ font-weight:700; margin:0; font-size:14px; line-height:1.1; }}
+    .fz-card .sub {{ color: var(--sub-color); margin-top:6px; font-size:12px; }}
+  </style>
+</head>
+<body>
+  <div class="fz-card">
+    <div class="title">{title_html}</div>
+    <div class="sub">Cosine distance: {distance:.3f}</div>
+  </div>
+</body>
+</html>
+"""
+
+def render_card_below_image(title_lines, distance, line_height=18, base_pad=24):
+    """
+    Render a small info card below an image using components.html (safe & reliable).
+    - title_lines: list[str] (each line will be joined with <br/>)
+    - distance: float
+    - line_height: approx px height per line to compute iframe height
+    - base_pad: extra padding for the card chrome
+    """
+    safe_lines = [html.escape(str(t)) for t in (title_lines or ["Match"])]
+    title_html = "<br/>".join(safe_lines)
+    # compute height: base padding + number_of_lines * line_height (adjust if needed)
+    height = base_pad + max(1, len(safe_lines)) * line_height
+    html_str = CARD_HTML_TEMPLATE.format(title_html=title_html, distance=float(distance))
+    components.html(html_str, height=height, scrolling=False)
+
+
 
 # ---------- Tab renderers ----------
 def render_trends_tab(weekly: dict):
@@ -263,20 +319,28 @@ def render_similarity_tab(meta: pd.DataFrame, X_img: np.memmap):
         res = meta.iloc[idxs[0]][keep_cols].assign(distance=dists[0])
 
     st.markdown("#### Nearest Matches")
-    # Cards grid
+
+    # Cards grid (image + small info card below each)
     cols = st.columns(min(topk, 6))
     for j, (_, row) in enumerate(res.iterrows()):
-        with cols[j % len(cols)]:
-            with st.container(border=True):
-                p = Path(row["image_path"]) if "image_path" in row else None
-                if p is not None and p.exists():
-                    st.image(str(p), use_column_width=True)
-                cap_bits = []
-                if "product_group_name" in row: cap_bits.append(f"**{row['product_group_name']}**")
-                if "colour_group_name" in row: cap_bits.append(f"{row['colour_group_name']}")
-                if "graphical_appearance_name" in row: cap_bits.append(f"{row['graphical_appearance_name']}")
-                st.caption(" • ".join(cap_bits) if cap_bits else "Match")
-                st.caption(f"Cosine distance: {row['distance']:.3f}")
+        col = cols[j % len(cols)]
+        with col:
+            p = Path(row["image_path"]) if "image_path" in row else None
+            if p is not None and p.exists():
+                # use_container_width avoids the deprecated parameter warning
+                st.image(str(p), use_container_width=True)
+            else:
+                st.empty()
+            # Compose title lines from available metadata
+            title_lines = []
+            if "product_group_name" in row:
+                title_lines.append(str(row["product_group_name"]))
+            if "colour_group_name" in row:
+                title_lines.append(str(row["colour_group_name"]))
+            if "graphical_appearance_name" in row:
+                title_lines.append(str(row["graphical_appearance_name"]))
+            # Render a small styled card below the image
+            render_card_below_image(title_lines, float(row["distance"]))
 
     st.markdown("#### Results Table")
     st.dataframe(res)
@@ -309,8 +373,15 @@ def render_predict_tab(clf, class_names):
         feat = base(tf.expand_dims(x, 0), training=False).numpy()
         pred_id = int(clf.predict(feat)[0])
 
-    with st.container(border=True):
-        st.success(f"**Predicted:** {class_names[pred_id]}")
+    # show result
+    st.markdown(
+        """
+        <div style="border:1px solid rgba(255,255,255,0.06); padding:12px; border-radius:8px;">
+        <strong>Predicted:</strong> {label}
+        </div>
+        """.format(label=class_names[pred_id]),
+        unsafe_allow_html=True,
+    )
 
     # Top-5 probabilities (if available)
     if hasattr(clf, "predict_proba"):
